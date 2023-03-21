@@ -1,0 +1,23 @@
+Created on	5/1/2023
+Created by	TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources	Election Commission of Malaysia (SPR), Tindak Malaysia (2022), Perpustakaan Nasional Malaysia
+Disclaimers	All the percentages for electoral demographics are calculated by Tindak Malaysia
+Attribute	
+	
+Field Name	Field Description
+UNIQUE CODE	- Parliament Constituency Code
+STATE	- State Name
+PARLIAMENTARY CODE - Parliamentary Constituency Code (2003 - Relevant as of 2013). For Sarawak, Parliamentary Code (2005 - Relevant as of 2013)
+PARLIAMENTARY NAME -	Parliamentary Constituency Name (2003 - Relevant as of 2013). For Sarawak, Parliamentary Name (2005 - Relevant as of 2013)
+TOTAL ELECTORS -	Total Elector count using the Principal Electoral Roll of 2011 that was updated with four quarterly rolls of 2012
+MALAY (%) -	Proportion of Malay Electors for the Parliament Constituency (%)
+CHINESE (%) -	Proportion of Chinese Electors for the Parliament Constituency (%)
+INDIANS (%) -	Proportion of Indians Electors for the Parliament Constituency (%)
+ORANG ASLI (%) -	Proportion of Orang Asli Electors for the Parliament Constituency (%)
+BUMIPUTERA SABAH (%) -	Proportion of Bumiputera Sabah Electors for the Parliament Constituency (%)
+BUMIPUTERA SARAWAK (%) -	Proportion of Bumiputera Sarawak Electors for the Parliament Constituency (%)
+OTHERS (%) - 	Proportion of Others Electors for the Parliament Constituency (%)
+ELECTORS - NORMAL VOTERS (%) -	Proportion of Electors - Normal Electors for the Parliament Constituency (%)
+ELECTORS - ABSENT VOTERS (%) -	Proportion of Electors - Absent Electors for the Parliament Constituency (%)
+ELECTORS - POLICE (%) -	Proportion of Electors - Police Electors for the Parliament Constituency (%)
+ELECTORS - MILITARY (%) -	Proportion of Electors - Military Electors for the Parliament Constituency (%)
