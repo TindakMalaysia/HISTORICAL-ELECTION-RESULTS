@@ -1,0 +1,36 @@
+Created on,14/6/2022
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Election Commission of Malaysia (SPR), Tindak Malaysia (2020), PKR, New Straits Times, Borneo Post, TV Sarawak, Elections Lab, Florczyk A.J., Corbane C., Ehrlich D., Freire S., Kemper T., Maffenini L., Melchiorri M., Pesaresi M., Politis P., Schiavina, M., Sabo F., Zanchetta L., GHSL Data Package 2019, EUR 29788 EN, Publications Office of the European Union, Luxembourg, 2019, ISBN 978-92-76-13186-1, doi:10.2760/290498, JRC 117104, WorldPop (www.worldpop.org - School of Geography and Environmental Science, University of Southampton; Department of Geography and Geosciences, University of Louisville; Departement de Geographie, Universite de Namur) and Center for International Earth Science Information Network (CIESIN), Columbia University (2018). Global High Resolution Population Denominators Project - Funded by The Bill and Melinda Gates Foundation (OPP1134076). https://dx.doi.org/10.5258/SOTON/WP00675"
+,
+,
+Disclaimers,"All the percentages for electoral demographics are calculated by Tindak Malaysia. Due to severe data deficiency and quality issues in certain public sources (i.e. Elections Lab), all ethnic proportions for every constituency was compared against 2016 Sarawak State Electoral Composition. If source data for a particular ethnic group (i.e. Iban) has percentage difference greater than 5% when compared to 2016 Sarawak State Electoral Composition, N/A is affixed for the said ethnic group. The exception is given for the following constituencies - Batu Lintang, Serembu, Tarat, Mambong, Gedong, Baleh, Lambir, Marudi, Telang Usan and Mulu. For constituencies that have not been given an exception, N/A is affixed for Other for any constituencies of 2021 that had positive difference of Others greater than 1% when compared to 2016 Sarawak State Elections. For cells under the column Orang Ulu that is left blank, it amounts to negligible amount of Orang Ulu voters for the given consituency"
+Attribute,
+,
+Field Name,Field Description
+UNIQUE CODE,Composite between Parliamentary Code and DUN Code (Unique Identifier)
+STATE,State Name
+PARLIAMENTARY CODE,Parliamentary Code (2018 - present at the Created Date)
+PARLIAMENTARY NAME,Parliamentary Name (2018 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2018 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2018 - present at the created Date)
+TOTAL ELECTORS,Total Elector count using the 2nd Quarter Electoral Roll of 2021 that was gazetted on 26/8/2021
+MALAY/MELANAU (%),Proportion of Malay/Melanau Electors for the State Constituency (%)
+CHINESE (%),Proportion of Chinese Electors for the State Constituency (%)
+IBAN (%),Proportion of Iban Electors for the State Constituency (%)
+BIDAYUH (%),Proportion of Bidayuh Electors for the State Constituency (%)
+ORANG ULU (%),Proportion of Orang Ulu Electors for the State Constituency (%)
+OTHERS (%),Proportion of Others for the State Constituency (%)
+ELECTORS - NORMAL VOTERS (%),Proportion of Electors - Normal Electors for the State Constituency (%)
+ELECTORS - ABSENT VOTERS (%),Proportion of Electors - Absent Electors for the State Constituency (%)
+ELECTORS - EARLY VOTERS (%),Proportion of Electors - Early Electors (Police and Military) for the State Constituency (%)
+21-29 (%),Proportion of 21-29 Electors for the State Constituency (%)
+30-39 (%),Proportion of 30-39 Electors for the State Constituency (%)
+40-49 (%),Proportion of 40-49 Electors for the State Constituency (%)
+50-59 (%),Proportion of 50-59 Electors for the State Constituency (%)
+60-69 (%),Proportion of 60-69 Electors for the State Constituency (%)
+70-79 (%),Proportion of 70-79 Electors for the State Constituency (%)
+80-89 (%),Proportion of 80-89 Electors for the State Constituency (%)
+ABOVE 90 (%),Proportion of Above 90 Electors for the State Constituency (%)
+MALE ELECTORS (%),Proportion of Male Electors for the State Constituency (%)
+WOMEN ELECTORS (%),Proportion of Women Electors for the State Constituency (%)
+URBAN-RURAL CLASSIFICATION (2021),State Constituency urbanization classification
