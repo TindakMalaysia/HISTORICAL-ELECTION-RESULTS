@@ -1,0 +1,98 @@
+Created on,"18/6/2022, updated on 13/4/2023"
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Election Commission of Malaysia (SPR), Tindak Malaysia (2021), Attorney General Chambers, Bernama, Berita Harian"
+Disclaimers,There may be discrepancies for the age of candidates as there is no official data released for the attribute.There may be a presence for missing data points for age attribute for candidates. TindakMalaysia Network Services PLT is not responsible  for any errors or ommissions arising from the original data or its derivatives
+,
+Attribute,
+,
+FIELD NAME,FIELD DESCRIPTION
+UNIQUE CODE,Composite between Parliamentary Code and DUN Code (Unique Identifier)
+STATE,State Name
+PARLIAMENTARY CODE,Parliamentary Code (2015 - present at the Created Date)
+PARLIAMENTARY NAME,Parliamentary Name (2015 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2015 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2015 - present at the created Date)
+WINNING PARTY (2021),Party/Coalition (with Component Party) who won the sea
+UNCONTESTED VICTORY,"Indicator if there was one contestant for the said election. If yes, value Y is affixed. If none, it is left blank"
+TOTAL ELECTORATE,Total Elector count using the 2nd Quarter Electoral Roll of 2021 that was gazetted on 26/8/2021
+WINNING MAJORITY,The difference between the highest valid votes and second highest valid votes
+TURNOUT (%),Proportion of Total Ballots Issued as a share of Total Electorate
+TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll (as in A in all Form 14 + A in Form 15)
+TOTAL UNRETURNED BALLOTS,Total number of ballot papers issued but not put in the ballot box (as in D in all Form 14) and not returned (as in D in Form 15) (B-C-D)
+TOTAL REJECTED VOTES,Total number of rejected ballot papers (as in C in all Form 14 + C in Form 15)
+TOTAL VALID VOTES,Total number of votes by electors
+GPS,Gabungan Parti Sarawak (GPS) Component Party
+GPS CANDIDATE,Gabungan Parti Sarawak Candidate Name as per the Government Gazetter (Form 8)
+GPS CANDIDATE GENDER,Male/Female Classification
+GPS CANDIDATE AGE,Age of Gabungan Parti Sarawak Candidate
+GPS VOTE,Gabungan Parti Sarawak Valid Vote for the Candidate
+GPS CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+PH,Pakatan Harapan (PH) Component Party
+PH CANDIDATE,Pakatan Harapan Candidate Name as per the Government Gazetter (Form 8)
+PH CANDIDATE GENDER,Male/Female Classification
+PH CANDIDATE AGE,Age of Pakatan Harapan Candidate
+PH VOTE,Pakatan Harapan Valid Vote for the Candidate
+PH CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+PSB,Parti Sarawak Bersatu (PSB)
+PSB CANDIDATE,Parti Sarawak Bersatu Candidate Name as per the Government Gazetter (Form 8)
+PSB CANDIDATE GENDER,Male/Female Classification
+PSB CANDIDATE AGE,Age of Parti Sarawak Bersatu Candidate
+PSB CANDIDATE VOTE,Parti Sarawak Bersatu Valid Vote for the Candidate
+PSB CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+PBK,Parti Bumi Kenyalang (PBK)
+PBK CANDIDATE,Parti Bumi Kenyalang Candidate Name as per the Government Gazetter (Form 8)
+PBK CANDIDATE GENDER,Male/Female Classification
+PBK CANDIDATE AGE,Age of Parti Bumi Kenyalang Candidate
+PBK VOTE,Parti Bumi Kenyalang Valid Vote for the Candidate
+PBK CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+ASPIRASI,Parti Aspirasi Rakyat Sarawak (ASPIRASI)
+ASPIRASI CANDIDATE,Parti Aspirasi Rakyat Sarawak Candidate Name as per the Government Gazetter (Form 8)
+ASPIRASI CANDIDATE GENDER,Male/Female Classification
+ASPIRASI CANDIDATE AGE,Age of Parti Aspirasi Rakyat Sarawak Candidate
+ASPIRASI VOTE,Parti Aspirasi Rakyat Sarawak Valid Vote for the Candidate
+ASPIRASI CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+PBDSB,Parti Bansa Dayak Sarawak Baru (PBDSB)
+PBDSB CANDIDATE,Parti Bansa Dayak Sarawak Baru Candidate Name as per the Government Gazetter (Form 8)
+PBDSB CANDIDATE GENDER,Male/Female Classification
+PBDSB CANDIDATE AGE,Age of Parti Bansa Dayak Sarawak Baru Candidate
+PBDSB VOTE,Parti Parti Bansa Dayak Sarawak Baru Valid Vote for the Candidate
+PBDSB CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+SEDAR,Parti Sedar Rakyat Sarawak (SEDAR)
+SEDAR CANDIDATE,Parti Sedar Rakyat Sarawak Candidate Name as per the Government Gazetter (Form 8)
+SEDAR CANDIDATE GENDER,Male/Female Classification
+SEDAR CANDIDATE AGE,Age of Parti Sedar Rakyat Sarawak Candidate
+SEDAR VOTE,Parti Sedar Rakyat Sarawak Valid Vote for the Candidate
+SEDAR CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+PAS,Parti Islam Se-Malaysia (PAS)
+PAS CANDIDATE,Parti Islam Se-Malaysia Candidate Name as per the Government Gazetter (Form 8)
+PAS CANDIDATE GENDER,Male/Female Classification
+PAS CANDIDATE AGE,Age of Parti Islam Se-Malaysia Candidate
+PAS VOTE,Parti Islam Se-Malaysia Valid Vote for the Candidate
+PAS CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+INDEPENDENT 1,Independent with Symbol
+INDEPENDENT 1 CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
+INDEPENDENT 1 CANDIDATE GENDER,Male/Female Classification
+INDEPENDENT 1 CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT 1 VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT 1 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+INDEPENDENT 2,Independent with Symbol
+INDEPENDENT 2 CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
+INDEPENDENT 2 CANDIDATE GENDER,Male/Female Classification
+INDEPENDENT 2 CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT 2 VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT 2 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+,
+KEY ABBREVIATIONS FOR POLITICAL PARTIES,
+PBB,Parti Pesaka Bumiputera Bersatu Sarawak
+PDP,Parti Demokratik Progresif
+PRS,Parti Rakyat Sarawak
+SUPP,Sarawak United Peoples' Party
+PKR,Parti Keadilan Rakyat
+DAP,Democratic Action Party
+AMANAH,Parti Amanah Negara
+PSB,Parti Sarawak Bersatu
+PBK,Parti Bumi Kenyalang
+ASPIRASI,Parti Aspirasi Rakyat Sarawak
+PBDSB,Parti Bansa Dayak Sarawak
+SEDAR,Parti SEDAR Rakyat Sarawak
+PAS,Parti Islam Se-Malaysia
