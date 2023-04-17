@@ -1,0 +1,26 @@
+Created on,11/7/2022
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Election Commission of Malaysia (SPR), Buku Laporan Pilihan Raya Umum Dewan Undangan Negeri Sarawak Kesebelas 2016 (Election Commission of Malaysia (SPR), Tindak Malaysia (2020), Florczyk A.J., Corbane C., Ehrlich D., Freire S., Kemper T., Maffenini L., Melchiorri M., Pesaresi M., Politis P., Schiavina, M., Sabo F., Zanchetta L., GHSL Data Package 2019, EUR 29788 EN, Publications Office of the European Union, Luxembourg, 2019, ISBN 978-92-76-13186-1, doi:10.2760/290498, JRC 117104, New Straits Times (7/5/2016)"
+,
+Disclaimers,No established error range was found New Straits Time ethnic composition.There are disputed ethnic figures for DUN Serembu. Utusan Borneo (Sarawak) claims this seat has 80% of voters come from Bidayuh background. TindakMalaysia Network Services PLT is not responsible  for any errors or ommissions arising from the original data or its derivatives
+Attribute,
+,
+Field Name,Field Description
+UNIQUE CODE,Composite between Parliamentary Code and DUN Code (Unique Identifier)
+STATE,State Name
+PARLIAMENTARY CODE,Parliamentary Code (2018 - present at the Created Date)
+PARLIAMENTARY NAME,Parliamentary Name (2018 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2018 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2018 - present at the created Date)
+TOTAL ELECTORS,Total Electors using Principal Electoral Roll (2015) that was certified and gazetted on 9th March 2016 and updated until 10th April 2016
+MALAY AND MELANAU (%),Proportion of Malay and Melanau Electors for the State Constituency (%)
+CHINESE (%),Proportion of Chinese Electors for the State Constituency (%)
+IBAN (%),Proportion of Iban Electors for the State Constituency (%)
+BIDAYUH (%),Proportion of Bidayuh Electors for the State Constituency (%)
+ORANG ULU (%),Proportion of Orang Ulu Electors for the State Constituency (%)
+OTHERS (%),Proportion of Others Electors for the State Constituency (%)
+ELECTORS - NORMAL VOTERS (%),Proportion of Normal Electors for the State Constituency (%)
+ELECTORS - ABSENT VOTERS (%),Proportion of Absent Electors for the State Constituency (%)
+ELECTORS - MILITARY VOTERS (%),Proportion of Military and Spouses Electors for the State Constituency (%)
+ELECTORS - POLICE VOTERS (%),Proportion of Police/General Operation Forces and Spouses Electors for the State Constituency (%)
+URBAN-RURAL CLASSIFICATION (2016),State Constituency urbanization classification
