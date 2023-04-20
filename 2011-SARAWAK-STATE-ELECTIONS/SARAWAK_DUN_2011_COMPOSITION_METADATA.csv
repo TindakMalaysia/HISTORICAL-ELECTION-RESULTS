@@ -1,0 +1,26 @@
+Created on,22/8/2022
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Election Commission of Malaysia (SPR),Laporan Pilihan Raya Umum Dewan Undangan Negeri Sarawak Kesepuluh 2011 (Election Commission of Malaysia (SPR)), Tindak Malaysia (2020), Florczyk A.J., Corbane C., Ehrlich D., Freire S., Kemper T., Maffenini L., Melchiorri M., Pesaresi M., Politis P., Schiavina, M., Sabo F., Zanchetta L., GHSL Data Package 2019, EUR 29788 EN, Publications Office of the European Union, Luxembourg, 2019, ISBN 978-92-76-13186-1, doi:10.2760/290498, JRC 117104, A Pictorial Journey of 2011 Sarawak State Election (Editor in Chief Wong Ho Leng), DAP Malaysia, Pemuda PAS Malaysia, Isnin, N., Nen, Z., Kassim, A., Soh, M., Badaruddin, S., Othman, S. and Zahari, A., 2012. Social Media and Ethnic Politics in Malaysia: A Locality Analysis in the 10 th Sarawak State Election. [online] Academia.edu. Available at: <https://www.academia.edu/27356367/Social_Media_and_Ethnic_Politics_in_Malaysia_A_Locality_Analysis_in_the_10_th_Sarawak_State_Election> [Accessed 21 August 2022], Pearl, S., Badaruddin, S., Jugah, I., Che Soh, M. and Sarwan, M., 2011. Sarawak State Election 2011: Voting Trend of Bidayuh-Majority Area. Case Study: N16 Bengoh. [online] Academia.edu. Available at: <https://www.academia.edu/43735010/Sarawak_State_Election_2011_Voting_Trend_of_Bidayuh_Majority_Area_Case_Study_N16_Bengoh> [Accessed 21 August 2022]. Borneo Post, The Malaysian Insider, PRN Sarawak 2011 Blogspot"
+,
+Disclaimers,"There are conflicting information between  Pictorial Journey of 2011 Sarawak State Election (Editor in Chief Wong Ho Leng) and other sources for DAP contested seats. While every effort has been made to ensure the accuracy and completeness of the dataset, TindakMalaysia Network Services PLT is not responsible for any errors or omissions arising from the original dataset or its derivatives"
+Attribute,
+,
+Field Name,Field Description
+UNIQUE CODE,Composite between Parliamentary Code and DUN Code (Unique Identifier)
+STATE,State Name
+PARLIAMENTARY CODE,Parliamentary Code (2005 - 2015)
+PARLIAMENTARY NAME,Parliamentary Name (2005 - 2015)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2005 - 2015)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2005 - 2015)
+TOTAL ELECTORS,Total Elector Count using the Principal Electoral Roll of 2010 that was gazetted on 25th March 2011 and updated until 24th March 2011
+MALAY AND MELANAU (%),Proportion of Malay and Melanau Electors for the State Constituency (%)
+CHINESE (%),Proportion of Chinese Electors for the State Constituency (%)
+IBAN (%),Proportion of Iban Electors for the State Constituency (%)
+BIDAYUH (%),Proportion of Bidayuh Electors for the State Constituency (%)
+ORANG ULU (%),Proportion of Orang Ulu Electors for the State Constituency (%)
+OTHERS (%),Proportion of Others Electors for the State Constituency (%)
+ELECTORS - NORMAL VOTERS (%),Proportion of Electors - Normal Electors for the State Constituency (%)
+ELECTORS - ABSENT VOTERS (%),Proportion of Electors - Absent Electors for the State Constituency (%)
+ELECTORS - MILITARY VOTERS (%),Proportion of Electors - Military Electors for the State Constituency (%)
+ELECTORS - POLICE VOTERS (%),Proportion of Electors - Police Electors for the State Constituency (%)
+URBAN-RURAL CLASSIFICATION (2011),State Constituency urbanization classification
