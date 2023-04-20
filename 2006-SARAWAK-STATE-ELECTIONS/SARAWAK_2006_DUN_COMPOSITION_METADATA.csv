@@ -1,0 +1,22 @@
+Created on,7/9/2022
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Election Commission of Malaysia (SPR),Tindak Malaysia (2022), Florczyk A.J., Corbane C., Ehrlich D., Freire S., Kemper T., Maffenini L., Melchiorri M., Pesaresi M., Politis P., Schiavina, M., Sabo F., Zanchetta L., GHSL Data Package 2019, EUR 29788 EN, Publications Office of the European Union, Luxembourg, 2019, ISBN 978-92-76-13186-1, doi:10.2760/290498, JRC 117104, Prosiding Pilihanraya & Pembangunan Politik Sarawak UKM 2008 Edited by Ahmad Nidzam Sulaiman (Bab 5 Politik Cina dalam Pilihan Raya DUN Sarawak by Ghazali Mayudin & Lee Kuok Ting pp.103 - 121, Bab 12 Transformasi Politik Hasil Dari Persempadanan Semula Kawasan Pilihanraya dalam Pilihanraya Sarawak 2996 by Shaharuddin Badaruddin & Suekadiana Affendi, pp. 251 - 266), https://p-library2.s3.filebase.com/books/e7bf7161569267496a5f93661a339bd8.pdf"
+,
+Disclaimers,"There is no official list for urban-rural classification. While every effort has been made to ensure the accuracy and completeness of the dataset, TindakMalaysia Network Services PLT is not responsible for any errors or omissions arising from the original dataset or its derivatives"
+Attribute,
+,
+Field Name,Field Description
+UNIQUE CODE,Composite between Parliamentary Code and DUN Code (Unique Identifier)
+STATE,State Name
+PARLIAMENTARY CODE,Parliamentary Code (2005 - 2015)
+PARLIAMENTARY NAME,Parliamentary Name (2005 - 2015)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2005 - 2015)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2005 - 2015)
+TOTAL ELECTORS,Total Elector Count using Principal Electoral Roll of 2005 that was gazetted on 16th March 2006 and updated until 24th March 2006
+MALAY AND MELANAU (%),Proportion of Malay and Melanau Electors for the State Constituency (%)
+CHINESE (%),Proportion of Chinese Electors for the State Constituency (%)
+IBAN (%),Proportion of Iban Electors for the State Constituency (%)
+BIDAYUH (%),Proportion of Bidayuh Electors for the State Constituency (%)
+ORANG ULU (%),Proportion of Orang Ulu Electors for the State Constituency (%)
+OTHERS (%),Proportion of Others Electors for the State Constituency (%)
+URBAN-RURAL CLASSIFICATION (2006),State Constituency urbanization classification
