@@ -1,0 +1,81 @@
+Created on,"1/9/2022 ,updated on 20/4/2023"
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Election Commission of Malaysia (SPR), Tindak Malaysia (2022), Attorney General Chambers, Bernama, Berita Harian, Malaysiakini, mSTAR, The Borneo Post, New Straits Times, The STAR, dunsarawak.blogspot.com.my, klse.i3investor.com, pru13paspusat.blogspot.com, See Hua Marketing"
+Disclaimers,There may be discrepancies for the age of candidates as there is no official data released for the attribute.There may be a presence for missing data points for age attribute for candidates. TindakMalaysia Network Services PLT is not responsible  for any errors or ommissions arising from the original data or its derivatives
+,
+Attribute,
+,
+FIELD NAME,FIELD DESCRIPTION
+UNIQUE CODE,Composite between Parliamentary Code and DUN Code (Unique Identifier)
+STATE,State Name
+PARLIAMENTARY CODE,Parliamentary Code (2005 - 2015)
+PARLIAMENTARY NAME,Parliamentary Name (2005 - 2015)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2005 - 2015)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2005 - 2015)
+WINNING PARTY (2006),Party/Coalition (with Component Party) who won the seat
+UNCONTESTED VICTORY,"Indicator if there was one contestant for the said election. If yes, value Y is affixed. If none, it is left blank"
+TOTAL ELECTORATE,Total Elector Count using Principal Electoral Roll of 2005 that was gazetted on 16th March 2006 and updated until 24th March 2006
+WINNING MAJORITY,The difference between the highest valid votes and second highest valid votes
+TURNOUT (%),Proportion of Total Ballots Issued as a share of Total Electorate
+TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll (as in A in all Form 14 + A in Form 15)
+TOTAL UNRETURNED BALLOTS,Total number of ballot papers issued but not put in the ballot box (as in D in all Form 14) and not returned (as in D in Form 15) (B-C-D)
+TOTAL REJECTED VOTES,Total number of rejected ballot papers (as in C in all Form 14 + C in Form 15)
+TOTAL VALID VOTES,Total number of votes by electors
+BN,Barisan Nasional (BN) Component Party
+BN CANDIDATE,Barisan Nasional Candidate Name as per the Election Commission Website
+BN CANDIDATE GENDER,Male/Female Classification
+BN CANDIDATE AGE,Age of Barisan Nasional Candidate
+BN VOTE,Barisan Nasional Valid Vote for the Candidate
+BN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+SNAP,Sarawak National Party (SNAP)
+SNAP CANDIDATE,Sarawak National Party Candidate Name as per the Election Commission Website
+SNAP CANDIDATE GENDER,Male/Female Classification
+SNAP CANDIDATE AGE,Age of Sarawak National Party Candidate
+SNAP CANDIDATE VOTE,Sarawak National Party Valid Vote for the Candidate
+SNAP CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+PKR,Parti Keadilan Rakyat (PKR)
+PKR CANDIDATE,Parti Keadilan Rakyat Candidate Name as per the Election Commission Website
+PKR CANDIDATE GENDER,Male/Female Classification
+PKR CANDIDATE AGE,Age of Parti Keadilan Rakyat Candidate
+PKR CANDIDATE VOTE,Parti Keadilan Rakyat Valid Vote for the Candidate
+PKR CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+DAP,Democratic Action Party (DAP)
+DAP CANDIDATE,Democratic Action Party Candidate Name as per the Election Commission Website
+DAP CANDIDATE GENDER,Male/Female Classification
+DAP CANDIDATE AGE,Age of Democratic Action Party Candidate
+DAP VOTE,Democratic Action Party Valid Vote for the Candidate
+DAP CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+PAS,Parti Islam SeMalaysia (PAS)
+PAS CANDIDATE,Parti Islam SeMalaysia Candidate Name as per the Election Commission Website
+PAS CANDIDATE GENDER,Male/Female Classification
+PAS CANDIDATE AGE,Age of Parti Islam SeMalaysia Candidate
+PAS VOTE,Parti Islam SeMalaysia Valid Vote for the Candidate
+PAS CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+INDEPENDENT 1,Independent with Symbol
+INDEPENDENT 1 CANDIDATE,Independent Candidate Name as per the Election Commission Website (Form 8)
+INDEPENDENT 1 CANDIDATE GENDER,Male/Female Classification
+INDEPENDENT 1 CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT 1 VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT 1 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+INDEPENDENT 2,Independent with Symbol
+INDEPENDENT 2 CANDIDATE,Independent Candidate Name as per the Election Commission Website (Form 8)
+INDEPENDENT 2 CANDIDATE GENDER,Male/Female Classification
+INDEPENDENT 2 CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT 2 VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT 2 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+INDEPENDENT 3,Independent with Symbol
+INDEPENDENT 3 CANDIDATE,Independent Candidate Name as per the Election Commission Website (Form 8)
+INDEPENDENT 3 CANDIDATE GENDER,Male/Female Classification
+INDEPENDENT 3 CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT 3 CANDIDATE VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT 3 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+,
+KEY ABBREVIATIONS FOR POLITICAL PARTIES,
+PBB,Parti Pesaka Bumiputera Bersatu Sarawak
+PRS,Parti Rakyat Sarawak
+SPDP,Sarawak Progressive Democratic Party
+SUPP,Sarawak United Peoples' Party
+SNAP,Sarawak National Party
+PKR,Parti Keadilan Rakyat
+DAP,Democratic Action Party
+PAS,Parti Islam Se-Malaysia
