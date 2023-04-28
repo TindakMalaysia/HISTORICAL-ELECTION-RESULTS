@@ -25,49 +25,49 @@ BN CANDIDATE,Barisan Nasional Candidate Name as per the Government Gazette (Form
 BN CANDIDATE GENDER,Male/Female Classification
 BN CANDIDATE AGE,Age of Barisan Nasional Candidate
 BN VOTE,Barisan Nasional Valid Vote for the Candidate
-BN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+BN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 PH,Pakatan Harapan (PH) Component Party
 PH CANDIDATE,Pakatan Harapan Candidate Name as per the Government Gazette (Form 8)
 PH CANDIDATE GENDER,Male/Female Classification
 PH CANDIDATE AGE,Age of Pakatan Harapan Candidate
 PH VOTE,Pakatan Harapan Valid Vote for the Candidate
-PH CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+PH CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 PN,Perikatan Nasional (PN) Component Party
 PN CANDIDATE,Perikatan Nasional Candidate Name as per the Government Gazette (Form 8)
 PN CANDIDATE GENDER,Male/Female Classification
 PN CANDIDATE AGE,Age of Perikatan Nasional Candidate
 PN CANDIDATE VOTE,Perikatan Nasional Valid Vote for the Candidate
-PN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+PN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 IMAN,Party Name
 IMAN CANDIDATE,Party Candidate Name as per the Government Gazette (Form 8)
 IMAN CANDIDATE GENDER,Male/Female Classification
 IMAN CANDIDATE AGE,Age of Party Candidate
 IMAN CANDIDATE VOTE,Party Valid Vote for the Candidate
-IMAN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+IMAN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 PUTRA,Party Name
 PUTRA CANDIDATE,Party Candidate Name as per the Government Gazette (Form 8)
 PUTRA CANDIDATE GENDER,Male/Female Classification
 PUTRA CANDIDATE AGE,Age of Party Candidate
 PUTRA CANDIDATE VOTE,Party Valid Vote for the Candidate
-PUTRA CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+PUTRA CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 INDEPENDENT 1,Independent with Symbol
 INDEPENDENT 1 CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
 INDEPENDENT 1 CANDIDATE GENDER,Male/Female Classification
 INDEPENDENT 1 CANDIDATE AGE,Age of Independent Candidate
 INDEPENDENT 1 CANDIDATE VOTE,Independent Valid Vote for the Candidate
-INDEPENDENT 1 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+INDEPENDENT 1 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 INDEPENDENT 2,Independent with Symbol
 INDEPENDENT 2 CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
 INDEPENDENT 2 CANDIDATE GENDER,Male/Female Classification
 INDEPENDENT 2 CANDIDATE AGE,Age of Independent Candidate
 INDEPENDENT 2 CANDIDATE VOTE,Independent Valid Vote for the Candidate
-INDEPENDENT 2 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+INDEPENDENT 2 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 INDEPENDENT 3,Independent with Symbol
 INDEPENDENT 3 CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
 INDEPENDENT 3 CANDIDATE GENDER,Male/Female Classification
 INDEPENDENT 3 CANDIDATE AGE,Age of Independent Candidate
 INDEPENDENT 3 CANDIDATE VOTE,Independent Valid Vote for the Candidate
-INDEPENDENT 3 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+INDEPENDENT 3 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 ,
 KEY ABBREVIATIONS FOR POLITICAL PARTIES,
 UMNO,United Malays National Organisation
