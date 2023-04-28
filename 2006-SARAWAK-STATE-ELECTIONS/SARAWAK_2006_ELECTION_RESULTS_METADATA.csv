@@ -38,37 +38,37 @@ PKR CANDIDATE,Parti Keadilan Rakyat Candidate Name as per the Election Commissio
 PKR CANDIDATE GENDER,Male/Female Classification
 PKR CANDIDATE AGE,Age of Parti Keadilan Rakyat Candidate
 PKR CANDIDATE VOTE,Parti Keadilan Rakyat Valid Vote for the Candidate
-PKR CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+PKR CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 DAP,Democratic Action Party (DAP)
 DAP CANDIDATE,Democratic Action Party Candidate Name as per the Election Commission Website
 DAP CANDIDATE GENDER,Male/Female Classification
 DAP CANDIDATE AGE,Age of Democratic Action Party Candidate
 DAP VOTE,Democratic Action Party Valid Vote for the Candidate
-DAP CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+DAP CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 PAS,Parti Islam SeMalaysia (PAS)
 PAS CANDIDATE,Parti Islam SeMalaysia Candidate Name as per the Election Commission Website
 PAS CANDIDATE GENDER,Male/Female Classification
 PAS CANDIDATE AGE,Age of Parti Islam SeMalaysia Candidate
 PAS VOTE,Parti Islam SeMalaysia Valid Vote for the Candidate
-PAS CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+PAS CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 INDEPENDENT 1,Independent with Symbol
 INDEPENDENT 1 CANDIDATE,Independent Candidate Name as per the Election Commission Website (Form 8)
 INDEPENDENT 1 CANDIDATE GENDER,Male/Female Classification
 INDEPENDENT 1 CANDIDATE AGE,Age of Independent Candidate
 INDEPENDENT 1 VOTE,Independent Valid Vote for the Candidate
-INDEPENDENT 1 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+INDEPENDENT 1 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 INDEPENDENT 2,Independent with Symbol
 INDEPENDENT 2 CANDIDATE,Independent Candidate Name as per the Election Commission Website (Form 8)
 INDEPENDENT 2 CANDIDATE GENDER,Male/Female Classification
 INDEPENDENT 2 CANDIDATE AGE,Age of Independent Candidate
 INDEPENDENT 2 VOTE,Independent Valid Vote for the Candidate
-INDEPENDENT 2 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+INDEPENDENT 2 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 INDEPENDENT 3,Independent with Symbol
 INDEPENDENT 3 CANDIDATE,Independent Candidate Name as per the Election Commission Website (Form 8)
 INDEPENDENT 3 CANDIDATE GENDER,Male/Female Classification
 INDEPENDENT 3 CANDIDATE AGE,Age of Independent Candidate
 INDEPENDENT 3 CANDIDATE VOTE,Independent Valid Vote for the Candidate
-INDEPENDENT 3 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+INDEPENDENT 3 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 ,
 KEY ABBREVIATIONS FOR POLITICAL PARTIES,
 PBB,Parti Pesaka Bumiputera Bersatu Sarawak
