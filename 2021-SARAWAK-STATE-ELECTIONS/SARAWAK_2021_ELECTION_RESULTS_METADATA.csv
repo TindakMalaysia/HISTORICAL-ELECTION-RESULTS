@@ -26,61 +26,61 @@ GPS CANDIDATE,Gabungan Parti Sarawak Candidate Name as per the Government Gazett
 GPS CANDIDATE GENDER,Male/Female Classification
 GPS CANDIDATE AGE,Age of Gabungan Parti Sarawak Candidate
 GPS VOTE,Gabungan Parti Sarawak Valid Vote for the Candidate
-GPS CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+GPS CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 PH,Pakatan Harapan (PH) Component Party
 PH CANDIDATE,Pakatan Harapan Candidate Name as per the Government Gazetter (Form 8)
 PH CANDIDATE GENDER,Male/Female Classification
 PH CANDIDATE AGE,Age of Pakatan Harapan Candidate
 PH VOTE,Pakatan Harapan Valid Vote for the Candidate
-PH CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+PH CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 PSB,Parti Sarawak Bersatu (PSB)
 PSB CANDIDATE,Parti Sarawak Bersatu Candidate Name as per the Government Gazetter (Form 8)
 PSB CANDIDATE GENDER,Male/Female Classification
 PSB CANDIDATE AGE,Age of Parti Sarawak Bersatu Candidate
 PSB CANDIDATE VOTE,Parti Sarawak Bersatu Valid Vote for the Candidate
-PSB CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+PSB CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 PBK,Parti Bumi Kenyalang (PBK)
 PBK CANDIDATE,Parti Bumi Kenyalang Candidate Name as per the Government Gazetter (Form 8)
 PBK CANDIDATE GENDER,Male/Female Classification
 PBK CANDIDATE AGE,Age of Parti Bumi Kenyalang Candidate
 PBK VOTE,Parti Bumi Kenyalang Valid Vote for the Candidate
-PBK CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+PBK CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 ASPIRASI,Parti Aspirasi Rakyat Sarawak (ASPIRASI)
 ASPIRASI CANDIDATE,Parti Aspirasi Rakyat Sarawak Candidate Name as per the Government Gazetter (Form 8)
 ASPIRASI CANDIDATE GENDER,Male/Female Classification
 ASPIRASI CANDIDATE AGE,Age of Parti Aspirasi Rakyat Sarawak Candidate
 ASPIRASI VOTE,Parti Aspirasi Rakyat Sarawak Valid Vote for the Candidate
-ASPIRASI CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+ASPIRASI CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 PBDSB,Parti Bansa Dayak Sarawak Baru (PBDSB)
 PBDSB CANDIDATE,Parti Bansa Dayak Sarawak Baru Candidate Name as per the Government Gazetter (Form 8)
 PBDSB CANDIDATE GENDER,Male/Female Classification
 PBDSB CANDIDATE AGE,Age of Parti Bansa Dayak Sarawak Baru Candidate
 PBDSB VOTE,Parti Parti Bansa Dayak Sarawak Baru Valid Vote for the Candidate
-PBDSB CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+PBDSB CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 SEDAR,Parti Sedar Rakyat Sarawak (SEDAR)
 SEDAR CANDIDATE,Parti Sedar Rakyat Sarawak Candidate Name as per the Government Gazetter (Form 8)
 SEDAR CANDIDATE GENDER,Male/Female Classification
 SEDAR CANDIDATE AGE,Age of Parti Sedar Rakyat Sarawak Candidate
 SEDAR VOTE,Parti Sedar Rakyat Sarawak Valid Vote for the Candidate
-SEDAR CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+SEDAR CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 PAS,Parti Islam Se-Malaysia (PAS)
 PAS CANDIDATE,Parti Islam Se-Malaysia Candidate Name as per the Government Gazetter (Form 8)
 PAS CANDIDATE GENDER,Male/Female Classification
 PAS CANDIDATE AGE,Age of Parti Islam Se-Malaysia Candidate
 PAS VOTE,Parti Islam Se-Malaysia Valid Vote for the Candidate
-PAS CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+PAS CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 INDEPENDENT 1,Independent with Symbol
 INDEPENDENT 1 CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
 INDEPENDENT 1 CANDIDATE GENDER,Male/Female Classification
 INDEPENDENT 1 CANDIDATE AGE,Age of Independent Candidate
 INDEPENDENT 1 VOTE,Independent Valid Vote for the Candidate
-INDEPENDENT 1 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+INDEPENDENT 1 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 INDEPENDENT 2,Independent with Symbol
 INDEPENDENT 2 CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
 INDEPENDENT 2 CANDIDATE GENDER,Male/Female Classification
 INDEPENDENT 2 CANDIDATE AGE,Age of Independent Candidate
 INDEPENDENT 2 VOTE,Independent Valid Vote for the Candidate
-INDEPENDENT 2 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+INDEPENDENT 2 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 ,
 KEY ABBREVIATIONS FOR POLITICAL PARTIES,
 PBB,Parti Pesaka Bumiputera Bersatu Sarawak
