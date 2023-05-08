@@ -1,0 +1,34 @@
+Created on,"11/7/2022, updated on 8/5/2023"
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Election Commission of Malaysia (SPR), Tindak Malaysia (2022), The STAR (13/9/2020), Elections Lab, Florczyk A.J., Corbane C., Ehrlich D., Freire S., Kemper T., Maffenini L., Melchiorri M., Pesaresi M., Politis P., Schiavina, M., Sabo F., Zanchetta L., GHSL Data Package 2019, EUR 29788 EN, Publications Office of the European Union, Luxembourg, 2019, ISBN 978-92-76-13186-1, doi:10.2760/290498, JRC 117104, WorldPop (www.worldpop.org - School of Geography and Environmental Science, University of Southampton; Department of Geography and Geosciences, University of Louisville; Departement de Geographie, Universite de Namur) and Center for International Earth Science Information Network (CIESIN), Columbia University (2018). Global High Resolution Population Denominators Project - Funded by The Bill and Melinda Gates Foundation (OPP1134076). https://dx.doi.org/10.5258/SOTON/WP00675"
+,
+,
+Disclaimers,"While every effort has been made to ensure accuracy and completeness of the dataset, TindakMalaysia Network Services PLT is not responsible for any errors or omissions arising from the dataset"
+Attribute,
+,
+Field Name,Field Description
+UNIQUE CODE,Composite between Parliamentary Code and DUN Code (Unique Identifier)
+STATE,State Name
+PARLIAMENTARY CODE,Parliamentary Code (2018 - present at the Created Date)
+PARLIAMENTARY NAME,Parliamentary Name (2018 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2018 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2018 - present at the created Date)
+TOTAL ELECTORS,Total Electors of Principal Electoral Roll of 2019 which was combined with 1st Quarter of 2020 electoral roll (which was certified on 12th August 2020)
+MUSLIM BUMIPUTERA (%),Proportion of Muslim Bumiputera Sabah electors for the State Constituency (%)
+NON MUSLIM BUMIPUTERA,Proportion of Non Muslim Bumiputera Sabah for the State Constituency (%)
+CHINESE (%),Proportion of Chinese for the State Constituency (%)
+OTHERS (%),Proportion of Others for the State Constituency (%)
+ELECTORS - NORMAL VOTERS (%),Proportion of Electors - Normal Electors for the State Constituency (%)
+ELECTORS - ABSENT VOTERS (%),Proportion of Electors - Absent Electors for the State Constituency (%)
+ELECTORS - EARLY VOTERS (%),Proportion of Electors - Early Electors (Police and Military) for the State Constituency (%)
+21-29 (%),Proportion of 21-29 Electors for the State Constituency (%)
+30-39 (%),Proportion of 30-39 Electors for the State Constituency (%)
+40-49 (%),Proportion of 40-49 Electors for the State Constituency (%)
+50-59 (%),Proportion of 50-59 Electors for the State Constituency (%)
+60-69 (%),Proportion of 60-69 Electors for the State Constituency (%)
+70-79 (%),Proportion of 70-79 Electors for the State Constituency (%)
+80-89 (%),Proportion of 80-89 Electors for the State Constituency (%)
+90 AND ABOVE (%),Proportion of 90 and Above Electors for the State Constituency (%)
+MALE ELECTORS (%),Proportion of Male Electors for the State Constituency (%)
+FEMALE ELECTORS (%),Proportion of Female Electors for the State Constituency (%)
+URBAN-RURAL CLASSIFICATION (2021),State Constituency urbanization classification
