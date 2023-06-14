@@ -8,10 +8,10 @@ Attribute,
 Field Name,Field Description
 UNIQUE CODE,Composite between Parliamentary Code and DUN Code (Unique Identifier)
 STATE,State Name
-PARLIAMENTARY CODE,Parliamentary Code (2016 - present at the Created Date)
-PARLIAMENTARY NAME,Parliamentary Name (2016 - present at the Created Date)
-STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2016 - present at the Created Date)
-STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2016 - present at the created Date)
+PARLIAMENTARY CODE,Parliamentary Code (2015 - present at the Created Date)
+PARLIAMENTARY NAME,Parliamentary Name (2015 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2015 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2015 - present at the created Date)
 TOTAL ELECTORS,Total Electors using Principal Electoral Roll (2015) that was certified and gazetted on 9th March 2016 and updated until 10th April 2016
 MALAY AND MELANAU (%),Proportion of Malay and Melanau Electors for the State Constituency (%)
 CHINESE (%),Proportion of Chinese Electors for the State Constituency (%)
