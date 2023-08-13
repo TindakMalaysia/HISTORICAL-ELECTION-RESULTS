@@ -1,0 +1,88 @@
+Created on,"12/8/2023, updated on 13/8/2023"
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Election Commission of Malaysia (SPR), Tindak Malaysia (2023), Refer to individual State Candidate Age Source File"
+Disclaimers,"There may be discrepancies for the age of candidates as there is no official data released for the attribute. Data for Rejected Votes, Unreturned Votes and Proper Turnout (%) will be issued when Gazette notice id updated. Following Corrections were made for the DUN seats for Perikatan Nasional (Party Allocation) - Kok Lanas, Gual Ipoh, Bukit Bunga, Air Lanas, Nenggiri, Paloh, Hulu Besut, Permaisuri, Seberang Takir, Telemung, Kijal. TindakMalaysia Network Services PLT is not responsible for any errors or ommissions arising from the original data or its derivatives"
+Attribute,
+,
+FIELD NAME,FIELD DESCRIPTION
+UNIQUE CODE,Composite between Parliamentary Code and DUN Code (Unique Identifier)
+STATE,State Name
+PARLIAMENTARY CODE,Parliamentary Code (2018 - present at the Created Date)
+PARLIAMENTARY NAME,Parliamentary Name (2018 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2018 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2018 - present at the created Date)
+WINNING PARTY,Party/Coalition (with Component Party) who won the seat
+UNCONTESTED VICTORY,"Indicator if there was one contestant for the said election. If yes, value Y is affixed. If none, it is left blank"
+TOTAL ELECTORATE,Total Elector count using the Principal Electoral Roll of 2022 and updated until April 2023 which was gazetted on 22/5/2023
+WINNING MAJORITY,The difference between the highest valid votes and second highest valid votes
+INCOMPLETE TURNOUT (%),Proportion of Total Valid Votes as share of Total Electorate (This is an interim field)
+TURNOUT (%),Proportion of Total Ballots Issued as a share of Total Electorate
+TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll (as in A in all Form 14 + A in Form 15)
+TOTAL UNRETURNED BALLOTS,Total number of ballot papers issued but not put in the ballot box (as in D in all Form 14) and not returned (as in D in Form 15) (B-C-D)
+TOTAL REJECTED VOTES,Total number of rejected ballot papers (as in C in all Form 14 + C in Form 15)
+TOTAL VALID VOTES,Total number of votes by electors
+BN,Barisan Nasional (BN) Component Party
+BN CANDIDATE,Barisan Nasional Candidate Name as per the Government Gazette (Form 8)
+BN CANDIDATE GENDER,Male/Female Classification
+BN CANDIDATE AGE,Age of Barisan Nasional Candidate
+BN VOTE,Barisan Nasional Valid Vote for the Candidate
+BN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+PH,Pakatan Harapan (PH) Component Party
+PH CANDIDATE,Pakatan Harapan Candidate Name as per the Government Gazette (Form 8)
+PH CANDIDATE GENDER,Male/Female Classification
+PH CANDIDATE AGE,Age of Pakatan Harapan Candidate
+PH VOTE,Pakatan Harapan Valid Vote for the Candidate
+PH CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+PN,Perikatan Nasional (PN) Component Party
+PN CANDIDATE,Perikatan Nasional Candidate Name as per the Government Gazette (Form 8)
+PN CANDIDATE GENDER,Male/Female Classification
+PN CANDIDATE AGE,Age of Perikatan Nasional Candidate
+PN CANDIDATE VOTE,Perikatan Nasional Valid Vote for the Candidate
+PN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+OTHER PARTY (1),Other Party (specifically for informal MUDA-PSM coalition)
+OTHER PARTY (1) CANDIDATE,Other Party Candidate Name as per the Government Gazette (Form 8)
+OTHER PARTY (1) CANDIDATE GENDER,Male/Female Classification
+OTHER PARTY (1) CANDIDATE AGE,Age of Other Party Candidate
+OTHER PARTY (1) VOTE,Valid Vote for the Other Party Candidate
+OTHER PARTY (1) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+OTHER PARTY (2),Other Party Name
+OTHER PARTY (2) CANDIDATE,Other Party Candidate Name as per the Government Gazette (Form 8)
+OTHER PARTY (2) CANDIDATE GENDER,Male/Female Classification
+OTHER PARTY (2) CANDIDATE AGE,Age of Party Candidate
+OTHER PARTY (2) VOTE,Party Valid Vote for the Other Party Candidate
+OTHER PARTY (2) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (1),Independent with Symbol
+INDEPENDENT (1) CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
+INDEPENDENT (1) CANDIDATE GENDER,Male/Female Classification
+INDEPENDENT (1) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (1) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (1) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (2),Independent with Symbol
+INDEPENDENT (2) CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
+INDEPENDENT (2) CANDIDATE GENDER,Male/Female Classification
+INDEPENDENT (2) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (2) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (2) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (3),Independent with Symbol
+INDEPENDENT (3) CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
+INDEPENDENT (3) CANDIDATE GENDER,Male/Female Classification
+INDEPENDENT (3) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (3) CANDIDATE VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (3) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+,
+KEY ABBREVIATIONS FOR POLITICAL PARTIES,
+UMNO,United Malays National Organisation
+MCA,Malaysian Chinese Association
+MIC,Malaysian Indian Congress
+PKR,Parti Keadilan Rakyat
+DAP,Democratic Action Party
+PAN,Parti Amanah Negara
+PPBM,Parti Pribumi Bersatu Malaysia
+PAS,Parti Islam Se-Malaysia
+GERAKAN,Parti Gerakan Rakyat Malaysia
+PBM,Parti Bangsa Malaysia
+MUDA,Malaysian United Democratic Alliance
+PSM,Parti Sosialis Malaysia
+PRM,Parti Rakyat Malaysia
+PFP,Penang Front Party (using EC's current term on their dashboard)
+PUR,Parti Utama Rakyat
