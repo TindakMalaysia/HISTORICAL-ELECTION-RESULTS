@@ -11,3 +11,6 @@ Evolving Repository of State Elections of 2023
 - Corrections were made for the Perikatan Nasional allocation for political parties
 - Metadata was updated to reflect these changes. It is requirement for users to read relevant metadata files here
 - Kelantan and Terengganu Candidate Age Sources have been updated
+*NOTICE OF UPDATE (14/8/2023)*
+- Election Results File was updated to accommodate mising Candidate Lost Deposit Data, Missing Candidate Vote data, Correction for DAP Candidate Gender of Pengkalan Kota and Gerakan Candidate for Datok Keramat
+- Metadata file was updated to reflect the changes
