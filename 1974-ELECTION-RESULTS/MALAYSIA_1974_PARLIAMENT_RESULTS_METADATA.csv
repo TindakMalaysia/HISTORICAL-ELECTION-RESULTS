@@ -1,0 +1,92 @@
+﻿Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Penyata Pilihanraya Umum Dewan Rakyat dan Dewan Undangan Negeri bagi Negeri - Negeri Tanah Melayu dan Sarawak Tahun 1974 (Suruhanjaya Pilihanraya) (1975), The 1974 parliamentary election in peninsular Malaysia: A study in electoral geography by Sothi Rachagan (1978). Calon-Calon Wanita yang Bertanding dalam Pilihanraya Umum 1955 - 1986. For Candidate age, refer to individual State Level Candidate Age Source Files"
+Disclaimers,"EC made mistake for DAP Candidate Valid Vote Value for Loh Poh Seng (EC claims it is 11060). Status of R.C.M.Rayan as Independent for Sungai Siput is debateable as R.C.M Rayan was PPP candidate in Ipoh. EC made mistakes for Total Ballots Issued for Kuala Terengganu (EC claims it is 22476),Ulu Trengganu (EC Claims it is 18145) and Ulu Nerus (EC Claims it is 18123). EC has conflicting information whether the candidate Mohd. Nawawi bin Haji Mohd. Hassan as Independent and KITA.  TindakMalaysia Network Services PLT is not responsible for any errors or ommissions arising from the original data or its derivatives"
+,
+Attribute,
+,
+FIELD NAME,FIELD DESCRIPTION
+UNIQUE CODE,"Unique Identifier. For this case, it is the Parliamentary Code"
+STATE,State Name
+PARLIAMENTARY CODE,Parliamentary Constituency Code
+PARLIAMENTARY NAME,Parliamentary Constituency Name
+WINNING PARTY,Party/Coalition (with Component Party) who won the seat
+UNCONTESTED VICTORY,"Indicator if there was one contestant for the said election. If yes, value Y is affixed. If none, it is left blank"
+TOTAL ELECTORATE,Total Elector count using 1974 Elections Electoral Roll
+WINNING MAJORITY,The difference between the highest valid votes and second highest valid votes
+TURNOUT (%),Proportion of Total Ballots Issued as a share of Total Electorate
+TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll
+TOTAL UNRETURNED BALLOTS,Total number of ballot papers issued but not put in the ballot box
+TOTAL REJECTED VOTES,Total number of rejected ballot papers
+TOTAL VALID VOTES,Total number of votes by electors
+BARISAN NASIONAL,Barisan Nasional Component Party
+BARISAN NASIONAL CANDIDATE,Barisan Nasional Candidate Name as per the Government Gazette
+BARISAN NASIONAL CANDIDATE SEX,Male/Female Classification
+BARISAN NASIONAL CANDIDATE AGE,Age of Barisan Nasional Candidate
+BARISAN NASIONAL VOTE,Barisan Nasional Valid Vote for the Candidate
+BARISAN NASIONAL CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+PSRM,Parti Sosialis Rakyat Malaysia (PSRM)
+PSRM CANDIDATE,PSRM Candidate Name as per the Government Gazette
+PSRM CANDIDATE SEX,Male/Female Classification
+PSRM CANDIDATE AGE,Age of PSRM Candidate
+PSRM VOTE,PSRM Valid Vote for the Candidate
+PSRM CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+PEKEMAS,Parti Keadilan Masyarakat Malaysia (PEKEMAS) Component Party
+PEKEMAS CANDIDATE,PEKEMAS Candidate Name as per the Government Gazette
+PEKEMAS CANDIDATE SEX,Male/Female Classification
+PEKEMAS CANDIDATE AGE,Age of PEKEMAS Candidate
+PEKEMAS VOTE,PEKEMAS Valid Vote for the Candidate
+PEKEMAS CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+PMIP,Pan Malayan Islamic Party (PMIP)
+PMIP CANDIDATE,PMIP Candidate Name as per the Government Gazette
+PMIP CANDIDATE SEX,Male/Female Classification
+PMIP CANDIDATE AGE,Age of PMIP Candidate
+PMIP VOTE,PMIP Valid Vote for the Candidate
+PMIP CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+DAP,Democratic Action Party (DAP) Name
+DAP CANDIDATE,DAP Candidate Name as per the Government Gazette
+DAP CANDIDATE SEX,Male/Female Classification
+DAP CANDIDATE AGE,Age of Party Candidate
+DAP CANDIDATE VOTE,Party Valid Vote for the DAP Candidate
+DAP CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+I.P.P.P,Independent People's Progressive Party (I.P.P.P)
+I.P.P.P CANDIDATE,I.P.P.P Candidate Name as per the Government Gazette
+I.P.P.P CANDIDATE SEX,Male/Female Classification
+I.P.P.P CANDIDATE AGE,Age of Party Candidate
+I.P.P.P CANDIDATE VOTE,Party Valid Vote for the I.P.P.P Candidate
+I.P.P.P CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+K.I.T.A,Kesatuan Insaf Tanah Air (K.I.T.A)
+K.I.T.A CANDIDATE,K.I.T.A Candidate Name as per the Government Gazette
+K.I.T.A CANDIDATE SEX,Male/Female Classification
+K.I.T.A CANDIDATE AGE,Age of Party Candidate
+K.I.T.A CANDIDATE VOTE,Party Valid Vote for the K.I.T.A Candidate
+K.I.T.A CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+SNAP,Sarawak National Party (SNAP)
+SNAP CANDIDATE,SNAP Candidate Name as per the Government Gazette
+SNAP CANDIDATE SEX,Male/Female Classification
+SNAP CANDIDATE AGE,Age of SNAP Candidate
+SNAP VOTE,Party Valid Vote for the SNAP Candidate
+SNAP CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (1),Independent with Symbol
+INDEPENDENT (1) CANDIDATE,Independent Candidate Name as per the Government Gazette
+INDEPENDENT (1) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (1) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (1) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (1) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (2),Independent with Symbol
+INDEPENDENT (2) CANDIDATE,Independent Candidate Name as per the Government Gazette
+INDEPENDENT (2) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (2) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (2) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (2) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+,
+KEY ABBREVIATIONS FOR POLITICAL PARTIES,
+UMNO,United Malays National Organisation
+MCA,Malaysian Chinese Association
+MIC,Malaysian Indian Congress
+GERAKAN,Parti Gerakan Rakyat Malaysia
+PAS,Pan Malayan Islamic Party
+PPP,People's Progressive Party
+USNO,United Sabah National Organisation
+SCA,Sabah Chinese Association
+PBB,Parti Pesaka Bumiputera Bersatu
+SUPP,Sarawak United People's Party
