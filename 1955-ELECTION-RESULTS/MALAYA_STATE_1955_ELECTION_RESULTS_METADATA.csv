@@ -1,0 +1,84 @@
+﻿Created on,"28/8/2023, updated on 20/10/2023, 30/11/2023, 31/12/2023"
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,Tindak Malaysia (2023). Refer to Detailed Source section of this metadata file for detailed source background for 1955 Election Results Refer to MALAYA_1955_DUN_CANDIDATE_AGE_SOURCE for candidate age sources
+Disclaimers,"There may be discrepancies for the age of candidates as there is no official data released for the attribute.There are missing data points for age attribute for candidates and total electors.Unless there is information about candidates losing deposit, most of the state election results do not have records of candidates losing deposit (with some exceptions). For Perak, candidates lost deposit if they win less than one-sixth of the votes cast. No clarity whether PMIP and PMIA are referring to same party. State Election Results files are separated as first elections to state legislative councils were done separately from 1954 to 1955. TindakMalaysia Network Services PLT is not responsible for any errors or ommissions arising from the original data or its derivatives"
+,
+Detailed Source,
+PERLIS,
+Federation of Malay Government Gazette - Government of Perlis October 6th 1955,
+"The Straits Budget, 25 August 1955, Page 10",
+"*Perlis DUN Candidates did not contest under party symbols, but using symbols that is commonly used for Independents in current era",
+Perlis state legislative council elections were held on 24/9/1955,
+,
+KEDAH,
+Constituency Names and Candidate Names were corrected as per Federation of Malaya Government Gazette - Government of Kedah 25th August 1955,
+Nominations were done around 15/8/1955. No elections were carried out,
+,
+KELANTAN,
+Constituency Names per Federation of Malaya Government Gazette - Government of Kelantan 1st September 1955,
+Constituency Results and Candidate Names as per Federation of Malaya Government Gazette - Goverment of Kelantan 13th October 1955. Candidate Names for 13th October 1955 is far more detailed than Government Gazette of 1st September 1955,
+"The Straits Times, 23 August 1955, Page 5",
+"The Straits Times, 16 August 1955, Page 7",
+Kelanatan Council of State Elections were held on 19/9/1955,
+,
+PULAU PINANG (SETTLEMENT OF PENANG),
+Names corrected using Federation of Malaya Government Gazette - Governmt of the Settlement of Penang 10th February 1955,
+Total Electors is from Federation of Malaya Government Gazette - Government of the Settlement of Penang 10th March 1955,
+Penang' Election candidates do not use party symbols but use symbols that are usually associated with independents today,
+Penang Elections were held on 19/2/1955,
+,
+OTHER STATES (interim Sources),
+"Straits Times 21st February 1955, 15th August 1955, 11th October 1955, 21st September 1955, Warisan Kelantan (1997), Federation of Malaya Government Gazette 1954. ",
+,
+Attribute,
+,
+FIELD NAME,FIELD DESCRIPTION
+UNIQUE CODE,Composite between Parliamentary Code and DUN Code (Unique Identifier). This is left empty
+STATE,State Name
+STATE CONSTITUENCY NAME,State Constituencies for the Settlement Council/State Council
+WINNING PARTY,Party/Coalition (with Component Party) who won the seat
+UNCONTESTED VICTORY,"Indicator if there was one contestant for the said election. If yes, value Y is affixed. If none, it is left blank"
+TOTAL ELECTORATE,Total Elector Count
+WINNING MAJORITY,The difference between the highest valid votes and second highest valid votes
+TURNOUT (%),Proportion of Total Ballots Issued as a share of Total Electorate
+TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll
+TOTAL UNRETURNED VOTES,Total number of ballot papers issued but not put in the ballot box and not returned (no information is available)
+TOTAL REJECTED VOTES,Total number of rejected ballot papers 
+TOTAL VALID VOTES,Total number of votes by electors
+ALLIANCE,Alliance Component Party
+ALLIANCE,Alliance Candidate Name
+ALLIANCE CANDIDATE SEX,Male/Female Classification
+ALLIANCE CANDIDATE AGE,Alliance Candidate Age
+ALLIANCE VOTE,Alliance Valid Vote for the Candidate
+ALLIANCE CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+OTHER PARTY (1),Other Party Name
+OTHER PARTY (1) CANDIDATE,Other Party Candidate Name
+OTHER PARTY (1) CANDIDATE SEX,Male/Female Classification
+OTHER PARTY (1) CANDIDATE AGE,Age of Other Party Candidate
+OTHER PARTY (1) CANDIDATE VOTE,Party Valid Vote for the Other Party Candidate
+OTHER PARTY (1) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+OTHER PARTY (2),Other Party Name
+OTHER PARTY (2) CANDIDATE,Other Party Candidate Name
+OTHER PARTY (2) CANDIDATE SEX,Male/Female Classification
+OTHER PARTY (2) CANDIDATE AGE,Age of Other Party Candidate
+OTHER PARTY (2) CANDIDATE VOTE,Party Valid Vote for the Other Party Candidate
+OTHER PARTY (2) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (1),Independent
+INDEPENDENT (1) CANDIDATE,Independent Candidate Name
+INDEPENDENT (1) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (1) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (1) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (1) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+,
+KEY ABBREVIATIONS FOR POLITICAL PARTIES,
+UMNO,United Malays National Organisation
+MCA,Malayan Chinese Association
+MIC,Malayan Indian Congress
+NEGARA,Parti Negara
+PWL,Province Wellesley Labour
+PL,Penang Labour
+PPP,Perak Progressive Party
+NAP,National Association of Perak
+PMIP,Pan-Malayan Islamic Party
+PMIA,Pan-Malayan Islamic Association
+PURTOBOHAN,Purtobohan Bumi Putera (formerly Perak Malay League)
