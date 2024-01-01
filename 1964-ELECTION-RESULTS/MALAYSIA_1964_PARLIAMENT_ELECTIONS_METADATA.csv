@@ -1,23 +1,23 @@
 ﻿Created on,"2022, updated on 8/5/2023 and 1/1/2024"
 Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
-Sources,"Penyata pilehanraya-pilehanraya umum parlimen (Dewan Ra'ayat) dan dewan-dewan negeri, tahun 1964 bagi negeri-negeri Tanah Melayu by Election Commission of Malaysia (SPR), Tindak Malaysia (2022), Federal Government Gazetter 23rd April 1964 (for names and Independent Symbols), Constituency Code from The Malayan Parliamentary Election of 1964 by K.J. Ratnam & R.S Milne (1967), Coalition Politics in Malaysia (Zakiah Awang, 1983), Straits Budget 1 April 1964, Page 11, The Straits Times 27 April 1964 Page 5,  The Star, Astro Awani, Berita Harian, Today Online, National Library of Singapore, Perdana Foundation Library, Penang Travel Tips, singapore-elections.com"
+Sources,"Penyata pilehanraya-pilehanraya umum parlimen (Dewan Ra'ayat) dan dewan-dewan negeri, tahun 1964 bagi negeri-negeri Tanah Melayu by Election Commission of Malaysia (SPR), Tindak Malaysia (2022), Federal Government Gazetter 23rd April 1964 (for names and Independent Symbols), Constituency Code from The Malayan Parliamentary Election of 1964 by K.J. Ratnam & R.S Milne (1967), Coalition Politics in Malaysia (Zakiah Awang, 1983), Straits Budget 1 April 1964, Page 11, The Straits Times 27 April 1964 Page 5,  The Star, Astro Awani, Berita Harian, Today Online, National Library of Singapore, Perdana Foundation Library, Penang Travel Tips, singapore-elections.com, Refer to 1964_Other_Sources_File for more information."
 Disclaimers,There may be discrepancies for the age of candidates as there is no official data released for the attribute.There may be a presence for missing data points for age attribute for candidates. TindakMalaysia Network Services PLT is not responsible for any errors or ommissions arising from the original data or its derivatives
 ,
 Attribute,
 ,
 FIELD NAME,FIELD DESCRIPTION
-UNIQUE CODE,Composite between Parliamentary Code
+UNIQUE CODE,Parliamentary Code
 STATE,State Name
-PARLIAMENTARY CODE,Parliamentary Code
-PARLIAMENTARY NAME,Parliamentary Name
+PARLIAMENTARY CODE,Parliamentary Code (follow sequencing of Penyata pilehanraya-pilehanraya umum parlimen (Dewan Ra'ayat) dan dewan-dewan negeri, tahun 1964 bagi negeri-negeri Tanah Melayu)
+PARLIAMENTARY NAME,Parliamentary Name (follow sequencing of Penyata pilehanraya-pilehanraya umum parlimen (Dewan Ra'ayat) dan dewan-dewan negeri, tahun 1964 bagi negeri-negeri Tanah Melayu)
 UNCONTESTED VICTORY,"Indicator if there was one contestant for the said election. If yes, value Y is affixed. If none, it is left blank"
 WINNING PARTY,Party/Coalition (with Component Party) who won the seat
 TOTAL ELECTORATE,Total Elector Count for the 1964 elections
 WINNING MAJORITY,The difference between the highest valid votes and second highest valid votes
 TURNOUT (%),Proportion of Total Ballots Issued as a share of Total Electorate
-TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll (as in A in all Form 14 + A in Form 15)
-TOTAL UNRETURNED BALLOTS,Total number of ballot papers issued but not put in the ballot box (as in D in all Form 14) and not returned (as in D in Form 15) (B-C-D) (no information is available)
-TOTAL REJECTED VOTES,Total number of rejected ballot papers (as in C in all Form 14 + C in Form 15)
+TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll
+TOTAL UNRETURNED BALLOTS,Total number of ballot papers issued but not put in the ballot box and not returned (no information is available)
+TOTAL REJECTED VOTES,Total number of rejected ballot papers
 TOTAL VALID VOTES,Total number of votes by electors
 ALLIANCE,Alliance Component Party
 ALLIANCE,Alliance Candidate Name as per the Ballot
