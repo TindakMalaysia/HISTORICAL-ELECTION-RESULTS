@@ -64,7 +64,7 @@ JOHOR,TANJONG PETRI,LPM
 Attribute,,
 ,,
 FIELD NAME,FIELD DESCRIPTION,
-UNIQUE CODE,"Unique Identifier. For this case, it is the Parliamentary Code",
+UNIQUE CODE,"Unique Identifier. For this case, it is composite of the Parliamentary Code and State Constituency Code",
 STATE,State Name,
 PARLIAMENTARY CODE,Parliamentary Constituency Code (As per 1958 Redelineation Report),
 PARLIAMENTARY NAME,Parliamentary Constituency Name (As per 1958 Redelineation Report),
