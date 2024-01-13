@@ -21,12 +21,12 @@ TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll
 TOTAL UNRETURNED VOTES,Total number of ballot papers issued but not put in the ballot box and not returned (no information is available)
 TOTAL REJECTED VOTES,Total number of rejected ballot papers
 TOTAL VALID VOTES,Total number of votes by electors
-ALLIANCE,Alliance Component Party
-ALLIANCE,Alliance Candidate Name (Unofficial)
-ALLIANCE CANDIDATE GENDER,Male/Female Classification
-ALLIANCE CANDIDATE AGE,Alliance of Barisan Nasional Candidate
-ALLIANCE VOTE,Alliance Valid Vote for the Candidate
-ALLIANCE CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
+SABAH ALLIANCE,Sabah Alliance Component Party
+SABAH ALLIANCE,Sabah Alliance Candidate Name (Unofficial)
+SABAH ALLIANCE CANDIDATE SEX,Male/Female Classification
+SABAH ALLIANCE CANDIDATE AGE,Sabah Alliance Candidate Age
+SABAH ALLIANCE VOTE,SabahAlliance Valid Vote for the Candidate
+SABAH ALLIANCE CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
 ,
 KEY ABBREVIATIONS FOR POLITICAL PARTIES,
 USNO,United Sabah National Organisation
