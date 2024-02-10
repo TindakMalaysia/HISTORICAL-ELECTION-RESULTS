@@ -36,12 +36,6 @@ PEKEMAS CANDIDATE SEX,Male/Female Classification
 PEKEMAS CANDIDATE AGE,Age of PEKEMAS Candidate
 PEKEMAS VOTE,PEKEMAS Valid Vote for the Candidate
 PEKEMAS CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
-PMIP,Pan Malayan Islamic Party (PMIP)
-PMIP CANDIDATE,PMIP Candidate Name as per the Government Gazette
-PMIP CANDIDATE SEX,Male/Female Classification
-PMIP CANDIDATE AGE,Age of PMIP Candidate
-PMIP VOTE,PMIP Valid Vote for the Candidate
-PMIP CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 DAP,Democratic Action Party (DAP) Name
 DAP CANDIDATE,DAP Candidate Name as per the Government Gazette
 DAP CANDIDATE SEX,Male/Female Classification
