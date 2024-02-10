@@ -18,12 +18,12 @@ TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll
 TOTAL UNRETURNED BALLOTS,Total number of ballot papers issued but not put in the ballot box
 TOTAL REJECTED VOTES,Total number of rejected ballot papers
 TOTAL VALID VOTES,Total number of votes by electors
-BARISAN NASIONAL,Barisan Nasional Component Party
-BARISAN NASIONAL CANDIDATE,Barisan Nasional Candidate Name as per the Government Gazette
-BARISAN NASIONAL CANDIDATE SEX,Male/Female Classification
-BARISAN NASIONAL CANDIDATE AGE,Age of Barisan Nasional Candidate
-BARISAN NASIONAL VOTE,Barisan Nasional Valid Vote for the Candidate
-BARISAN NASIONAL CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+BN,Barisan Nasional Component Party
+BN CANDIDATE,Barisan Nasional Candidate Name as per the Government Gazette
+BN CANDIDATE SEX,Male/Female Classification
+BN CANDIDATE AGE,Age of Barisan Nasional Candidate
+BN VOTE,Barisan Nasional Valid Vote for the Candidate
+BN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 PSRM,Parti Sosialis Rakyat Malaysia (PSRM)
 PSRM CANDIDATE,PSRM Candidate Name as per the Government Gazette
 PSRM CANDIDATE SEX,Male/Female Classification
