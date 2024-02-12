@@ -1,0 +1,124 @@
+﻿Created on,"29/11/2022, updated on 12/2/2024"
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Election Commission of Malaysia (SPR), Attorney General Chambers (2022), Tindak Malaysia (2022), RTM, NST, Sinar Harian, Berita Harian, Kosmo, Agenda Daily, Malaysiakini, The Malaysian Insight, Malaysian Gazette, The Star, Astro Awani, Utusan Borneo, Daily Express, Malay Mail, pru15.mca.org.my, calonkeadilan.org, DAP, PAS Negeri Perlis,Barisan Nasional Facebook Page, UMNO Online, Puteri Umno Tik Tok, Perikatan Nasional Perlis,  Mohd Fadzil Ramly Webpage, Tanjong Malim Kini Fb, Maju Perak"
+,"For more complete list of links for age data, please check Malaysia_GE15_DUN_Candidate_Age_Source_Data"
+Disclaimers,Intepretations for party allocations under coalition may vary among sources.There is a presence for missing data points for age attribute for candidates.  TindakMalaysia Network Services PLT is not responsible  for any errors or ommissions arising from the original data or its derivatives
+,Correction was made for the winner for DUN Lepar (Pahang)
+,"Corrections were made for rejected votes for following Perak DUNs (Temengor, Selama, Alor Pongsu, Pokok Assam, Aulong, Chenderoh, Canning, Kepayang, Buntong, Manong, Keranji, Tualang Sekah, Kampong Gajah, Pasir Panjang) and Pahang DUNs (Jelai, Batu Talam ,Tras, Pulau Tawar,Kerdau)"
+,Correction was made for PAS candidate gender for DUN Kenering (Perak)
+,Correction was made for all caandidate votes for DUN Jelai (Pahang)
+,Correction was made for all candidate votes for DUN Pulau Tawar with exception of no change for Pejuang (Pahang)
+,Correction was made for PRM candidate gender for DUN Lanchang (Pahang)
+,Corrections and updates made on 12/2/2024 for Candidate Age of selected parties and corrections were made for party allocation under Gerakan Tanah Air (GTA)
+Attribute,"At the start of Nomination Day, there were 59 women ADUN candidates. With the passing of original PAS candidate for Tioman, the new replacement for PAS was woman candidate. For the whole DUN elections for GE15, 60 women ADUN candidates contested"
+,
+Field Name,
+UNIQUE CODE,Field Description
+STATE,Composite of Parliamentary and State Constituency Code
+PARLIAMENTARY CODE,State Name
+PARLIAMENTARY NAME,"Parliamentary Constituency Code (2018 - present (for Peninsular Malaysia), 2019 - present (for Sabah))"
+STATE CONSTITUENCY CODE,"Parliamentary Constituency Name (2018 - present (for Peninsular Malaysia), 2019 - present (for Sabah))"
+STATE CONSTITUENCY NAME,"State Constituency Code (2018 - present (for Peninsular Malaysia), 2019 - present (for Sabah))"
+WINNING PARTY,"State Constituency Name (2018 - present (for Peninsular Malaysia), 2019 - present (for Sabah))"
+UNCONTESTED VICTORY,Party/Coalition (with Component Party) who won the seat
+TOTAL ELECTORATE,"Indicator if there was one contestant for the said election. If yes, value Y is affixed. If none, it is left blank"
+WINNING MAJORITY,Total Elector count using the Principal Electoral Roll that was updated until August 2022 which was gazetted on 15/9/2022 (updated until 9th October 2022)
+TURNOUT (%),The difference between the highest valid votes and second highest valid votes
+TOTAL BALLOTS ISSUED,Proportion of Total Ballots Issued as a share of Total Electorate
+TOTAL UNRETURNED VOTES,Total number of ballot papers issued at the poll (as in A in all Form 14 + A in Form 15)
+TOTAL REJECTED VOTES,Total number of ballot papers issued but not put in the ballot box (as in D in all Form 14) and not returned (as in D in Form 15) (B-C-D)
+TOTAL VALID VOTES,Total number of rejected ballot papers (as in C in all Form 14 + C in Form 15)
+BN,Total number of votes by electors
+BN CANDIDATE,Barisan Nasional (BN) Component Party
+BN CANDIDATE SEX,Barisan Nasional Candidate Name as per the Government Gazette (Form 8)
+BN CANDIDATE AGE,Male/Female Classification
+BN VOTE,Age of Barisan Nasional Candidate
+BN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+PH,Barisan Nasional Valid Vote for the Candidate
+PH CANDIDATE,Pakatan Harapan (PH) Component Party
+PH CANDIDATE SEX,Pakatan Harapan Candidate Name as per the Government Gazette (Form 8)
+PH CANDIDATE AGE,Male/Female Classification
+PH VOTE,Age of Pakatan Harapan Candidate
+PH CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+PN,Pakatan Harapan Valid Vote for the Candidate
+PN CANDIDATE,Perikatan Nasional (PN) Component Party
+PN CANDIDATE SEX,Perikatan Nasional Candidate Name as per the Government Gazette (Form 8)
+PN CANDIDATE AGE,Male/Female Classification
+PN VOTE,Age of Perikatan Nasional Candidate
+PN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+GTA,Perikatan Nasional Valid Vote for the Candidate
+GTA CANDIDATE,Gerakan Tanah Air (GTA) Component Party
+GTA CANDIDATE SEX,Gerakan Tanah Air Candidate Name as per the Government Gazette (Form 8)
+GTA CANDIDATE AGE,Male/Female Classification
+GTA VOTE,Age of Gerakan Tanah Air Candidate
+GTA CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+GPS,Gerakan Tanah Air Valid Vote for the Candidate
+GPS CANDIDATE,Gabungan Parti Sarawak (GPS) Component Party
+GPS CANDIDATE SEX,Gabungan Parti Sarawak Candidate Name as per the Government Gazetter (Form 8)
+GPS CANDIDATE AGE,Male/Female Classification
+GPS VOTE,Age of Gabungan Parti Sarawak Candidate
+GPS CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+GRS,Gabungan Parti Sarawak Valid Vote for the Candidate
+GRS CANDIDATE,Gabungan Rakyat Sabah (GRS) Component Party
+GRS CANDIDATE SEX,Gabungan Rakyat Sarawak Candidate Name as per the Government Gazetter (Form 8)
+GRS CANDIDATE AGE,Male/Female Classification
+GRS VOTE,Age of Gabungan Rakyat Sarawak Candidate
+GRS CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+WARISAN,Gabungan Rakyat Sarawak Valid Vote for the Candidate
+WARISAN CANDIDATE,Party Name
+WARISAN CANDIDATE SEX,Party Candidate Name as per the Government Gazette (Form 8)
+WARISAN CANDIDATE AGE,Male/Female Classification
+WARISAN VOTE,Age of Party Candidate
+WARISAN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+OTHER PARTY (1),Party Valid Vote for the Candidate
+OTHER PARTY (1) CANDIDATE,Other Party Name
+OTHER PARTY (1) CANDIDATE SEX,Other Party Candidate Name as per the Government Gazetter (Form 8)
+OTHER PARTY (1) CANDIDATE AGE,Male/Female Classification
+OTHER PARTY (1) VOTE,Age of Other Party Candidate
+OTHER PARTY (1) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+OTHER PARTY (2),Party Valid Vote for the Other Party Candidate
+OTHER PARTY (2) CANDIDATE,Other Party Name
+OTHER PARTY (2) CANDIDATE SEX,Other Party Candidate Name as per the Government Gazetter (Form 8)
+OTHER PARTY (2) CANDIDATE AGE,Male/Female Classification
+OTHER PARTY (2) VOTE,Age of Other Party Candidate
+OTHER PARTY (2) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (1),Party Valid Vote for the Other Party Candidate
+INDEPENDENT (1) CANDIDATE,Independent with Symbol
+INDEPENDENT (1) CANDIDATE SEX,Independent Candidate Name as per the Government Gazette (Form 8)
+INDEPENDENT (1) CANDIDATE AGE,Male/Female Classification
+INDEPENDENT (1) VOTE,Age of Independent Candidate
+INDEPENDENT (1) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (2),Independent Valid Vote for the Candidate
+INDEPENDENT (2) CANDIDATE,Independent with Symbol
+INDEPENDENT (2) CANDIDATE SEX,Independent Candidate Name as per the Government Gazette (Form 8)
+INDEPENDENT (2) CANDIDATE AGE,Male/Female Classification
+INDEPENDENT (2) VOTE,Age of Independent Candidate
+INDEPENDENT (2) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+,Independent Valid Vote for the Candidate
+FULL NAME OF ABBREVIATIONS FOR POLITICAL PARTIES,
+UMNO,United Malays National Organisation
+MCA,Malaysian Chinese Association
+MIC,Malaysian Indian Congress
+PBRS,Parti Bersatu Rakyat Sabah
+PKR,Parti Keadilan Rakyat
+DAP,Democratic Action Party
+PAN,Parti Amanah Negara
+UPKO,United Progressive Kinabalu Organisation
+PPBM,Parti Pribumi Bersatu Malaysia
+PAS,Parti Islam Se-Malaysia
+GERAKAN,Parti Gerakan Rakyat Malaysia
+PEJUANG,Parti Pejuang Tanah Air
+PUTRA,Parti Bumiputera Perkasa Malaysia
+IMAN,Parti Perikatan India Muslim Nasional
+BERJASA,Barisan Jemaah Islamiah
+GB,Gagasan Bangsa
+PBB,Parti Pesaka Bumiputera Bersatu Sarawak
+PDP,Parti Demokratik Progresif
+PRS,Parti Rakyat Sarawak
+SUPP,Sarawak United Peoples' Party
+PBS,Parti Bersatu Sabah
+SAPP,Sabah Progressive Party
+STAR,Parti Solidariti Tanah Airku
+PBM,Parti Bangsa Malaysia
+PSM,Parti Sosialis Malaysia
+PPRS,Parti Perpaduan Rakyat Sabah
