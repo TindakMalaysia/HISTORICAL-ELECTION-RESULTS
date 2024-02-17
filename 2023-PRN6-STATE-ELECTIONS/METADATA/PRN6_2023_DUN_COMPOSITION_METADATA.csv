@@ -1,0 +1,39 @@
+Created On,"7/8/2023, updated on 17/2/2024"
+Created By,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Election Commission of Malaysia (SPR), Tindak Malaysia (2023), Elections Lab, Schiavina M., Melchiorri M., Pesaresi M. (2023):
+GHS-SMOD R2023A - GHS settlement layers, application of the Degree of Urbanisation methodology (stage I) to GHS-POP R2023A and GHS-BUILT-S R2023A, multitemporal (1975-2030)European Commission, Joint Research Centre (JRC)
+PID: http://data.europa.eu/89h/a0df7a6f-49de-46ea-9bde-563437a6e2ba, doi:10.2905/A0DF7A6F-49DE-46EA-9BDE-563437A6E2BA"
+Disclaimers,All the percentages for electoral demographics are calculated by Tindak Malaysia using publicly available Elections Lab data. There is no official ethnic demographic data. Sum of percentages for electoral demographics may not attain exact 100% but the variation is kept less than 2%. Elections Lab data has margin of error of +/-5%. Spelling for parliamentary seat of Alor Setar was corrected on 17/2/2024. TindakMalaysia Network Services PLT is not responsible for any errors or ommissions arising from the original data or its derivatives
+Attribute,
+,
+Field Name,Field Description
+UNIQUE CODE,Composite between Parliamentary Code and DUN Code (Unique Identifier)
+STATE,State Name
+PARLIAMENTARY CODE,Parliamentary Code (2018 - present at the Created Date)
+PARLIAMENTARY NAME,Parliamentary Name (2018 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2018 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2018 - present at the created Date)
+TOTAL ELECTORS,Total Elector count using the Principal Electoral Roll of 2022 and updated until April 2023 which was gazetted on 22/5/2023
+MALAY (%),Proportion of Malay Electors for the State Constituency (%)
+CHINESE (%),Proportion of Chinese Electors for the State Constituency (%)
+INDIANS (%),Proportion of Indians Electors for the State Constituency (%)
+ORANG ASLI (%),Proportion of Orang Asli Electors for the State Constituency (%)
+BUMIPUTERA SABAH (%),Proportion of Bumiputera Sabah Electors for the State Constituency (%)
+BUMIPUTERA SARAWAK (%),Proportion of Bumiputera Sarawak Electors for the State Constituency (%)
+OTHERS (%),Proportion of Others Electors for the State Constituency (%)
+ELECTORS - NORMAL VOTERS (%),Proportion of Electors - Normal Electors for the State Constituency (%)
+ELECTORS - ABSENT VOTERS (%),Proportion of Electors - Absent Electors for the State Constituency (%)
+ELECTORS - POLICE (%),Proportion of Electors - Police Electors for the State Constituency (%)
+ELECTORS - MILITARY (%),Proportion of Electors - Military Electors for the State Constituency (%)
+18-20 (%),Proportion of 18-20 Electors for the State Constituency (%)
+21-29 (%),Proportion of 21-29 Electors for the State Constituency (%)
+30-39 (%),Proportion of 30-39 Electors for the State Constituency (%)
+40-49 (%),Proportion of 40-49 Electors for the State Constituency (%)
+50-59 (%),Proportion of 50-59 Electors for the State Constituency (%)
+60-69 (%),Proportion of 60-69 Electors for the State Constituency (%)
+70-79 (%),Proportion of 70-79 Electors for the State Constituency (%)
+80-89 (%),Proportion of 80-89 Electors for the State Constituency (%)
+ABOVE 90 (%),Proportion of 90 and Above Electors for the State Constituency (%)
+MALE ELECTORS (%),Proportion of Male Electors for the State Constituency (%)
+WOMEN ELECTORS (%),Proportion of Women Electors for the State Constituency (%)
+URBAN-RURAL CLASSIFICATION (2023),State Constituency urbanization classification
