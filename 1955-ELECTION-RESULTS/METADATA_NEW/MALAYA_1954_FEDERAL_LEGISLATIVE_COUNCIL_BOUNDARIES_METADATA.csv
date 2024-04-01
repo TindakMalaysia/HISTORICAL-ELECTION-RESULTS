@@ -9,5 +9,5 @@ Attribute,
 FIELD NAME,FIELD DESCRIPTION
 id,Sequence Number
 NEGERI,State Name
-KODPAR,Federal Legislative Council Constituency Code
+KODPAR,Federal Legislative Council Constituency Code (1954 - 1958)
 PARLIMEN,Federal Legislative Council Constituency Name (1954 - 1958)
