@@ -1,0 +1,13 @@
+﻿Created On,1/4/2024 (built on 2018 original data)
+Source,"Report of Constituency Delineation Commission (1954), Malaya. Survey Department, cartographer, issuing body. (1958). Constituencies map showing parliamentary and state constituencies, Malaya Retrieved June 26, 2018, from http://nla.gov.au/nla.obj-394288469, Report of the Election Commission on the delimitation of constituencies for the first elections to the House of Representatives and the state legislative assemblies / Election Commission (1958)"
+Scale,1:760320
+Digitized,Tindak Malaysia
+Disclaimer,"While every effort has been undertaken to ensure the accuracy, we are not responsible for errors and omission that are arising from the dataset. Boundaries are not be used no bigger than the specified scale. No direct comparison should be made with 1958 Election Boundaries even though the 1958 boundaries were the subdivsion of 1954 boundaries"
+,
+Attribute,
+,
+FIELD NAME,FIELD DESCRIPTION
+id,Sequence Number
+NEGERI,State Name
+KODPAR,Federal Legislative Council Constituency Code (Not Applicable)
+PARLIMEN,Federal Legislative Council Constituency Name (1954 - 1958)
