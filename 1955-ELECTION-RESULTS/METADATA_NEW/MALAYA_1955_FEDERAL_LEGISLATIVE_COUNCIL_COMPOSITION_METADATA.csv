@@ -7,8 +7,8 @@ Attribute,
 Field Name,Field Description
 UNIQUE CODE,Composite between Parliamentary Code and DUN Code (Unique Identifier)
 STATE,State Name
-FEDERAL LEGISLATIVE COUNCIL CODE,Parliamentary Code as per the Report of the Constituency Delineation Commission
-FEDERAL LEGISLATIVE COUNCIL NAME,Parliamentary Name as per the Report of the Constituency Delineation Commission
+FEDERAL LEGISLATIVE COUNCIL CODE,Parliamentary Code as per the Report of the Constituency Delineation Commission (1954 - 1958)
+FEDERAL LEGISLATIVE COUNCIL NAME,Parliamentary Name as per the Report of the Constituency Delineation Commission (1954 - 1958)
 TOTAL ELECTORS,Total Elector Count for the 1955 Federal Legislative Council Elections
 MALAY (%),Proportion of Malay Electors for the Federal Legislative Council Constituency (%)
 CHINESE (%),Proportion of Chinese Electors for the Federal Legislative Council Constituency (%)
