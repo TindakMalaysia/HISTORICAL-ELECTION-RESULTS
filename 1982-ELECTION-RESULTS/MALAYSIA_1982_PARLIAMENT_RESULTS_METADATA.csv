@@ -22,9 +22,9 @@ TOTAL VALID VOTES,Total number of votes by electors
 BN,Barisan Nasional (BN) Component Party
 BN CANDIDATE,Barisan Nasional Candidate Name as per the Government Gazette
 BN CANDIDATE SEX,Male/Female Classification
-BN NASIONAL CANDIDATE AGE,Age of Barisan Nasional Candidate
-BN NASIONAL VOTE,Barisan Nasional Valid Vote for the Candidate
-BN NASIONAL CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+BN CANDIDATE AGE,Age of Barisan Nasional Candidate
+BN CANDIDATE VOTE,Barisan Nasional Valid Vote for the Candidate
+BN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 DAP,Democratic Action Party (DAP) Name
 DAP CANDIDATE,DAP Candidate Name as per the Government Gazette
 DAP CANDIDATE SEX,Male/Female Classification
