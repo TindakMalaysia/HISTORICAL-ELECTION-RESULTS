@@ -7,8 +7,8 @@ Attribute,
 Field Name,Field Description
 UNIQUE CODE,Parliament Constituency Code
 STATE,State Name
-PARLIAMENTARY CODE,"Parliamentary Constituency Code (2018 - Relevant as of 2013). For Sabah, Parliamentary Code (2005 - Relevant as of 2013)"
-PARLIAMENTARY NAME,"Parliamentary Constituency Name (2018 - Relevant as of 2013). For Sabah, Parliamentary Name (2005 - Relevant as of 2013)"
+PARLIAMENTARY CODE,"Parliamentary Constituency Code (for Peninsular Malaysia and Sabah, 2003 - 2018/19, for Sarawak, 2005 - 2015)"
+PARLIAMENTARY NAME,"Parliamentary Constituency Name (for Peninsular Malaysia and Sabah, 2003 - 2018/19, for Sarawak, 2005 - 2015)"
 TOTAL ELECTORS,Total Elector count using the Principal Electoral Roll of 2011 that was updated with four quarterly rolls of 2012
 MALAY (%),Proportion of Malay Electors for the Parliament Constituency (%)
 CHINESE (%),Proportion of Chinese Electors for the Parliament Constituency (%)
