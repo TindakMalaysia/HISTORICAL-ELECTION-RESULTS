@@ -46,19 +46,19 @@ OTHER PARTY (1),Other Party Name
 OTHER PARTY (1) CANDIDATE,Other Party Candidate Name
 OTHER PARTY (1) CANDIDATE SEX,Male/Female Classification
 OTHER PARTY (1) CANDIDATE AGE,Age of Party Candidate
-OTHER PARTY (1) CANDIDATE VOTE,Party Valid Vote for the Other Party Candidate
+OTHER PARTY (1) VOTE,Party Valid Vote for the Other Party Candidate
 OTHER PARTY (1) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 OTHER PARTY (2),Other Party Name
 OTHER PARTY (2) CANDIDATE,Other Party Candidate Name
 OTHER PARTY (2) CANDIDATE SEX,Male/Female Classification
 OTHER PARTY (2) CANDIDATE AGE,Age of Party Candidate
-OTHER PARTY (2) CANDIDATE VOTE,Party Valid Vote for the Other Party Candidate
+OTHER PARTY (2) VOTE,Party Valid Vote for the Other Party Candidate
 OTHER PARTY (2) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 OTHER PARTY (3),Other Party Name
 OTHER PARTY (3) CANDIDATE,Other Party Candidate Name
 OTHER PARTY (3) CANDIDATE SEX,Male/Female Classification
 OTHER PARTY (3) CANDIDATE AGE,Age of Party Candidate
-OTHER PARTY (3) CANDIDATE VOTE,Party Valid Vote for the Other Party Candidate
+OTHER PARTY (3) VOTE,Party Valid Vote for the Other Party Candidate
 OTHER PARTY (3) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 INDEPENDENT (1),Independent with Symbol
 INDEPENDENT (1) CANDIDATE,Independent Candidate Name
@@ -90,11 +90,12 @@ UMNO,United Malays National Organisation
 MCA,Malaysian Chinese Association
 MIC,Malaysian Indian Congress
 BUMIPUTERA,Parti Bumiputera Sarawak
-SCA,"Sarawak Chinese Association (Sarawak), Sabah Chinese Association (Sabah)"
+SCA,"Sarawak Chinese Association (Sarawak) under Sarawak Alliance, Sabah Chinese Association (Sabah) under Sabah Alliance"
 USNO,United Sabah National Organisation
-PAS,Pan Malayan Islamic Party
+PMIP,Pan Malayan Islamic Party
 GERAKAN,Parti Gerakan Rakyat Malaysia
 DAP,Democratic Action Party
+PPP,People's Progressive Party
 PRM,Parti Rakyat Malaysia
 UMCO,United Malaysian Chinese Organisation
 SNAP,Sarawak National Party
