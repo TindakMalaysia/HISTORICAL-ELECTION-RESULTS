@@ -8,8 +8,8 @@ Attribute,
 FIELD NAME,FIELD DESCRIPTION
 UNIQUE CODE,Composite between Parliamentary Code and DUN Code (Unique Identifier).
 STATE,State Name
-PARLIAMENTARY CONSTITUENCY CODE,Parliamentary Code (1966 - 1974)
-PARLIAMENTARY CONSTITUENCY NAME,Parliamentary Name (1966 - 1974)
+PARLIAMENTARY CONSTITUENCY CODE,Parliamentary Constituency Code (1966 - 1974)
+PARLIAMENTARY CONSTITUENCY NAME,Parliamentary Constituency Name (1966 - 1974)
 STATE CONSTITUENCY CODE,State Constituency Code (1966 - 1974)
 STATE CONSTITUENCY NAME,State Constituency Code (1966 - 1974)
 WINNING PARTY,Party/Coalition (with Component Party) who won the seat
