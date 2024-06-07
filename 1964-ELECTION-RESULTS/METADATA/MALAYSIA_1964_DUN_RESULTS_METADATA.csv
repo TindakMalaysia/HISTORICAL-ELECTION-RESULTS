@@ -21,49 +21,49 @@ TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll
 TOTAL REJECTED VOTES,Total number of rejected ballot papers
 TOTAL VALID VOTES,Total number of votes by electors
 ALLIANCE,Alliance Component Party
-ALLIANCE CANDIDATE,Alliance Candidate Name as per the Ballot
+ALLIANCE CANDIDATE,Alliance Candidate Name
 ALLIANCE CANDIDATE SEX,Male/Female Classification
 ALLIANCE CANDIDATE AGE,Alliance Candidate
 ALLIANCE VOTE,Alliance Valid Vote for the Candidate
 ALLIANCE CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
 SF,The Malayan People's Socialist Front (SF) Component Party
-SF CANDIDATE,The Malayan People's Socialist Front Candidate Name as per the Ballot
+SF CANDIDATE,The Malayan People's Socialist Front Candidate Name
 SF CANDIDATE SEX,Male/Female Classification
 SF CANDIDATE AGE,Age of The Malayan People's Socialist Front Candidate
 SF VOTE,The Malayan People's Socialist Front Valid Vote for the Candidate
 SF CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Loss Deposit' is affixed. If none, it is left blank"
 PMIP,Pan Malayan Islamic Party (PMIP)
-PMIP CANDIDATE,Pan Malayan Islamic Party Candidate Name as per the Ballot
+PMIP CANDIDATE,Pan Malayan Islamic Party Candidate Name
 PMIP CANDIDATE SEX,Male/Female Classification
 PMIP CANDIDATE AGE,Age of Pan Malayan Islamic Party Candidate
 PMIP VOTE,Pan Malayan Islamic Party Valid Vote for the Candidate
 PMIP CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 UDP,United Democratic Party (UDP)
-UDP CANDIDATE,United Democratic Party Candidate Name as per the Ballot
+UDP CANDIDATE,United Democratic Party Candidate Name
 UDP CANDIDATE SEX,Male/Female Classification
 UDP CANDIDATE AGE,Age of United Democratic Party Candidate
 UDP VOTE,United Democratic Party Valid Vote for the Candidate
 UDP CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 PPP,People's Progressive Party (PPP)
-PPP CANDIDATE,People's Progressive Party Candidate Name as per the Ballot
+PPP CANDIDATE,People's Progressive Party Candidate Name
 PPP CANDIDATE SEX,Male/Female Classification
 PPP CANDIDATE AGE,Age of People's Progressive Party Candidate
 PPP VOTE,People's Progressive Party Valid Vote for the Candidate
 PPP CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 OTHER PARTY (1),Other Party Name
-OTHER PARTY (1) CANDIDATE,Other Party Candidate Name as per the Ballot
+OTHER PARTY (1) CANDIDATE,Other Party Candidate Name
 OTHER PARTY (1) CANDIDATE SEX,Male/Female Classification
 OTHER PARTY (1) CANDIDATE AGE,Age of Other Party Candidate
 OTHER PARTY (1) VOTE,Party Valid Vote for the Other Party Candidate
 OTHER PARTY (1) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 INDEPENDENT (1),Independent
-INDEPENDENT (1) CANDIDATE,Independent Candidate Name as per the Ballot
+INDEPENDENT (1) CANDIDATE,Independent Candidate Name
 INDEPENDENT (1) CANDIDATE SEX,Male/Female Classification
 INDEPENDENT (1) CANDIDATE AGE,Age of Independent Candidate
 INDEPENDENT (1) VOTE,Independent Valid Vote for the Candidate
 INDEPENDENT (1) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 INDEPENDENT (2),Independent
-INDEPENDENT (2) CANDIDATE,Independent Candidate Name as per the Ballot
+INDEPENDENT (2) CANDIDATE,Independent Candidate Name
 INDEPENDENT (2) CANDIDATE SEX,Male/Female Classification
 INDEPENDENT (2) CANDIDATE AGE,Age of Independent Candidate
 INDEPENDENT (2) VOTE,Independent Valid Vote for the Candidate
