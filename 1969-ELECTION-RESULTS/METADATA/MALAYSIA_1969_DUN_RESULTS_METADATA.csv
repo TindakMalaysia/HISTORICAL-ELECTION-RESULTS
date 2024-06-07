@@ -1,0 +1,104 @@
+﻿Created on,"19th August 2021 - 7th November 2021, updated on 10th September 2023, 7th June 2024"
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Penyata Pilehan Raya Umum  Dewan Ra'ayat dan Dewan Undangan Negeri bagi Negeri2 Tanah Melayu, Sabah dan Sarawak Tahun 1969, ""Ibrahim, Etty Zainab, """"The Alliance Party and the Process of Political Integration in Malaysia"""" (1974). Master's Theses. 2556. https://scholarworks.wmich.edu/masters_theses/2556 "", Calon-Calon Wanita yang bertanding dalam Pilihan Raya Umum 1955 -1986 by Suruhanjaya Pilihan Raya Malaysia.For Candidate age, refer to individual 1969_DUN_Other_Sources"
+Disclaimers,"No Information was available for Symbols used by Independents. There are conflicting interpretations of the existing Sarawak Alliance. According to 1969 Election Report by EC, Parties of Bumiputera and SCA (Sarawak) were counted as Alliance in general. While PESAKA joined Sarawak Alliance in 1962, its status for 1969 general elections is not clear (as it competed against Bumiputera and SCA). There was competition among PESAKA candidates. Gerakan and DAP had an informal pact during the 1969 elections and hence they are grouped in Other Party (2). EC may have missed out affixing lost deposit for PMIP Candidate of DUN Ayer Tawar (Perak). EC has made errors for total valid votes for Independents of Perak. EC has made errors on total electors of Selangor and Trengganu. EC has made errors for winning majority for DUN Sura and DUN Chukai (Trengganu). EC also has made errors for DUN Saribas and DUN Telang Usan (Sarawak). There is no clear defintion found who lose deposits.  TindakMalaysia Network Services PLT is not responsible for any errors or ommissions arising from the original data or its derivatives"
+,
+Attribute,
+,
+FIELD NAME,FIELD DESCRIPTION
+UNIQUE CODE,Composite between Parliamentary Code and State Constituency Code
+STATE,State Name
+PARLIAMENTARY CONSTITUENCY CODE,"Parliamentary Constituency Code (following the sequence found in Penyata Pilihan Raya Umum (Dewan Rakyat  dan Dewan Undangan Negeri), Tahun 1969, Suruhanjaya Pilihan Raya)"
+PARLIAMENTARY CONSTITUENCY NAME,"Parliamentary Constituency Name (following the sequence found in Penyata Pilihan Raya Umum (Dewan Rakyat  dan Dewan Undangan Negeri), Tahun 1969, Suruhanjaya Pilihan Raya)"
+STATE CONSTITUENCY CODE,"State Constituency Code (following the sequence found in Penyata Pilihan Raya Umum (Dewan Rakyat  dan Dewan Undangan Negeri), Tahun 1969, Suruhanjaya Pilihan Raya)"
+STATE CONSTITUENCY NAME,"State Constituency Name (following the sequence found in Penyata Pilihan Raya Umum (Dewan Rakyat  dan Dewan Undangan Negeri), Tahun 1969, Suruhanjaya Pilihan Raya)"
+WINNING PARTY,Party/Coalition (with Component Party) who won the seat
+UNCONTESTED VICTORY,"Indicator if there was one contestant for the said election. If yes, value Y is affixed. If none, it is left blank"
+TOTAL ELECTORATE,Total Elector count using Electoral Roll as of 27th March 1969
+WINNING MAJORITY,The difference between the highest valid votes and second highest valid votes
+TURNOUT (%),Proportion of Total Ballots Issued as a share of Total Electorate
+TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll
+TOTAL REJECTED VOTES,Total number of rejected ballot papers
+TOTAL VALID VOTES,Total number of votes by electors
+ALLIANCE,Alliance Component Party
+ALLIANCE CANDIDATE,Alliance Candidate Name
+ALLIANCE CANDIDATE SEX,Male/Female Classification
+ALLIANCE CANDIDATE AGE,Age of Alliance Candidate
+ALLIANCE VOTE,Alliance Valid Vote for the Candidate
+ALLIANCE CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+SABAH ALLIANCE,Sabah Alliance Component Party
+SABAH ALLIANCE CANDIDATE,Sabah Alliance Candidate Name
+SABAH ALLIANCE CANDIDATE SEX,Male/Female Classification
+SABAH ALLIANCE CANDIDATE AGE,Age of Sabah Alliance Candidate
+SABAH ALLIANCE VOTE,Sabah Alliance Valid Vote for the Candidate
+SABAH ALLIANCE CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+SARAWAK ALLIANCE,Sarawak Alliance Component Party
+SARAWAK ALLIANCE CANDIDATE,Sarawak Alliance Candidate Name
+SARAWAK ALLIANCE CANDIDATE SEX,Male/Female Classification
+SARAWAK ALLIANCE CANDIDATE AGE,Age of Sarawak Alliance Candidate
+SARAWAK ALLIANCE VOTE,Sarawak Alliance Valid Vote for the Candidate
+SARAWAK ALLIANCE CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+PMIP,Pan Malayan Islamic Party (PMIP)
+PMIP CANDIDATE,PMIP Candidate Name
+PMIP CANDIDATE SEX,Male/Female Classification
+PMIP CANDIDATE AGE,Age of PMIP Candidate
+PMIP VOTE,PMIP Valid Vote for the Candidate
+PMIP CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+OTHER PARTY (1),Other Party Name
+OTHER PARTY (1) CANDIDATE,Other Party Candidate Name
+OTHER PARTY (1) CANDIDATE SEX,Male/Female Classification
+OTHER PARTY (1) CANDIDATE AGE,Age of Party Candidate
+OTHER PARTY (1) VOTE,Party Valid Vote for the Other Party Candidate
+OTHER PARTY (1) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+OTHER PARTY (2),Other Party Name
+OTHER PARTY (2) CANDIDATE,Other Party Candidate Name
+OTHER PARTY (2) CANDIDATE SEX,Male/Female Classification
+OTHER PARTY (2) CANDIDATE AGE,Age of Party Candidate
+OTHER PARTY (2) VOTE,Party Valid Vote for the Other Party Candidate
+OTHER PARTY (2) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+OTHER PARTY (3),Other Party Name
+OTHER PARTY (3) CANDIDATE,Other Party Candidate Name
+OTHER PARTY (3) CANDIDATE SEX,Male/Female Classification
+OTHER PARTY (3) CANDIDATE AGE,Age of Party Candidate
+OTHER PARTY (3) VOTE,Party Valid Vote for the Other Party Candidate
+OTHER PARTY (3) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (1),Independent with Symbol
+INDEPENDENT (1) CANDIDATE,Independent Candidate Name
+INDEPENDENT (1) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (1) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (1) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (1) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (2),Independent with Symbol
+INDEPENDENT (2) CANDIDATE,Independent Candidate Name
+INDEPENDENT (2) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (2) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (2) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (2) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (3),Independent with Symbol
+INDEPENDENT (3) CANDIDATE,Independent Candidate Name
+INDEPENDENT (3) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (3) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (3) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (3) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (4),Independent with Symbol
+INDEPENDENT (4) CANDIDATE,Independent Candidate Name
+INDEPENDENT (4) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (4) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (4) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (4) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+,
+KEY ABBREVIATIONS FOR POLITICAL PARTIES,
+UMNO,United Malays National Organisation
+MCA,Malaysian Chinese Association
+MIC,Malaysian Indian Congress
+BUMIPUTERA,Parti Bumiputera Sarawak
+SCA,Sarawak Chinese Association (Sarawak)
+PMIP,Pan Malayan Islamic Party
+GERAKAN,Parti Gerakan Rakyat Malaysia
+DAP,Democratic Action Party
+PPP,People's Progressive Party
+PRM,Parti Rakyat Malaysia
+UMCO,United Malaysian Chinese Organisation
+SNAP,Sarawak National Party
+SUPP,Sarawak United People's Party
+PESAKA,Parti Pesaka Anak Sarawak
