@@ -1,22 +1,21 @@
-﻿Created on,"29/5/2021, updated on 30/11/2023, 11/2/2024"
+﻿Created on,"29/5/2021, updated on 30/11/2023, 11/2/2024, 8/6/2024"
 Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
 Sources,"Penyata Pilihanraya Umum Dewan Rakyat dan Dewan Undangan Negeri bagi Negeri - Negeri Tanah Melayu dan Sarawak Tahun 1974 (Suruhanjaya Pilihanraya) (1975), The 1974 parliamentary election in peninsular Malaysia: A study in electoral geography by Sothi Rachagan (1978). Calon-Calon Wanita yang Bertanding dalam Pilihanraya Umum 1955 - 1986. For Candidate age, refer to MALAYSIA_1974_PARLIAMENT_CANDIDATE_AGE_SOURCE file."
-Disclaimers,"There are missing gaps for candidates' age data. EC made mistake for DAP Candidate Valid Vote Value for Loh Poh Seng (EC claims it is 11060). Status of R.C.M.Rayan as Independent for Sungai Siput is debateable as R.C.M Rayan was PPP candidate in Ipoh. EC made mistakes for Total Ballots Issued for Kuala Terengganu (EC claims it is 22476),Ulu Trengganu (EC Claims it is 18145) and Ulu Nerus (EC Claims it is 18123). EC has conflicting information whether the candidate Mohd. Nawawi bin Haji Mohd. Hassan as Independent and KITA. There is conflicting information on the party affliation of DAP candidate of Goh Hock Guan of Sungai Nibong as there is a Gerakan Candidate who bears the same name who contested in Petaling in the same year. There is conflicting information on the party affliation of Osman bin Abu Bakar as similar named candidate contested as K.I.T.A. Parliamentary Candidate.  TindakMalaysia Network Services PLT is not responsible for any errors or ommissions arising from the original data or its derivatives"
+Disclaimers,"There are missing gaps for candidates' age data. EC made mistake for DAP Candidate Valid Vote Value for Loh Poh Seng (EC claims it is 11060). Status of R.C.M.Rayan as Independent for Sungai Siput is debateable as R.C.M Rayan was PPP candidate in Ipoh. EC made mistakes for Total Ballots Issued for Kuala Terengganu (EC claims it is 22476),Ulu Trengganu (EC Claims it is 18145) and Ulu Nerus (EC Claims it is 18123). EC has conflicting information whether the candidate Mohd. Nawawi bin Haji Mohd. Hassan as Independent and KITA. There is conflicting information on the party affliation of DAP candidate of Goh Hock Guan of Sungai Nibong as there is a Gerakan Candidate who bears the same name who contested in Petaling in the same year. PSRM lost deposits for 9 constituencies according to EC report. However, there is no evidence of any Trengganu PSRM candidate lost deposit. EC has contradictory value who and number of PEKEMAS candidates lost deposit. EC has contradictory value the number of Independents in Perak losing deposit. There is conflicting information on the party affliation of Osman bin Abu Bakar as similar named candidate contested as K.I.T.A. Parliamentary Candidate. EC may not have accurate values for Total Ballots Issued, Total Rejected Votes, Total Valid Votes, DAP, KITA, Independents. EC states that 1974 Total Voter Count of Pulai has two values - 34344 and 34345. EC does not have accurate total count of electors of Johor (claiming it is 495400). PBB allocation for Parliamentary Seats of Batang Lupar, Julau and Baram are guestimated. TindakMalaysia Network Services PLT is not responsible for any errors or ommissions arising from the original data or its derivatives"
 ,
 Attribute,
 ,
 FIELD NAME,FIELD DESCRIPTION
 UNIQUE CODE,"Unique Identifier. For this case, it is the Parliamentary Code"
 STATE,State Name
-PARLIAMENTARY CODE,Parliamentary Constituency Code
-PARLIAMENTARY NAME,Parliamentary Constituency Name
+PARLIAMENTARY CONSTITUENCY CODE,"Parliamentary Constituency Code (for Peninsular Malaysia and Sabah, 1974 - 1984, for Sarawak 1968 - 1977)"
+PARLIAMENTARY CONSTITUENCY NAME,"Parliamentary Constituency Name (for Peninsular Malaysia and Sabah, 1974 - 1984, for Sarawak 1968 - 1977)"
 WINNING PARTY,Party/Coalition (with Component Party) who won the seat
 UNCONTESTED VICTORY,"Indicator if there was one contestant for the said election. If yes, value Y is affixed. If none, it is left blank"
-TOTAL ELECTORATE,Total Elector count using 1974 Elections Electoral Roll
+TOTAL ELECTORATE,Total Elector count using 1974 Elections Electoral Roll based on revised Electoral Roll of 1973 certified on 31st July 1974
 WINNING MAJORITY,The difference between the highest valid votes and second highest valid votes
 TURNOUT (%),Proportion of Total Ballots Issued as a share of Total Electorate
-TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll
-TOTAL UNRETURNED BALLOTS,Total number of ballot papers issued but not put in the ballot box
+TOTAL BALLOTS ISSUED,Total number of ballot papers issued but not put in the ballot box
 TOTAL REJECTED VOTES,Total number of rejected ballot papers
 TOTAL VALID VOTES,Total number of votes by electors
 BN,Barisan Nasional Component Party
@@ -31,7 +30,7 @@ PSRM CANDIDATE SEX,Male/Female Classification
 PSRM CANDIDATE AGE,Age of PSRM Candidate
 PSRM VOTE,PSRM Valid Vote for the Candidate
 PSRM CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
-PEKEMAS,Parti Keadilan Masyarakat Malaysia (PEKEMAS) Component Party
+PEKEMAS,Parti Keadilan Masyarakat Malaysia (PEKEMAS)
 PEKEMAS CANDIDATE,PEKEMAS Candidate Name as per the Government Gazette
 PEKEMAS CANDIDATE SEX,Male/Female Classification
 PEKEMAS CANDIDATE AGE,Age of PEKEMAS Candidate
@@ -41,19 +40,19 @@ DAP,Democratic Action Party (DAP) Name
 DAP CANDIDATE,DAP Candidate Name as per the Government Gazette
 DAP CANDIDATE SEX,Male/Female Classification
 DAP CANDIDATE AGE,Age of Party Candidate
-DAP CANDIDATE VOTE,Party Valid Vote for the DAP Candidate
+DAP VOTE,Party Valid Vote for the DAP Candidate
 DAP CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 I.P.P.P,Independent People's Progressive Party (I.P.P.P)
-I.P.P.P CANDIDATE,I.P.P.P Candidate Name as per the Government Gazette
-I.P.P.P CANDIDATE SEX,Male/Female Classification
-I.P.P.P CANDIDATE AGE,Age of Party Candidate
-I.P.P.P CANDIDATE VOTE,Party Valid Vote for the I.P.P.P Candidate
+I.P.P.P. CANDIDATE,I.P.P.P Candidate Name as per the Government Gazette
+I.P.P.P. CANDIDATE SEX,Male/Female Classification
+I.P.P.P. CANDIDATE AGE,Age of Party Candidate
+I.P.P.P VOTE,Party Valid Vote for the I.P.P.P Candidate
 I.P.P.P CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 K.I.T.A,Kesatuan Insaf Tanah Air (K.I.T.A)
 K.I.T.A CANDIDATE,K.I.T.A Candidate Name as per the Government Gazette
 K.I.T.A CANDIDATE SEX,Male/Female Classification
 K.I.T.A CANDIDATE AGE,Age of Party Candidate
-K.I.T.A CANDIDATE VOTE,Party Valid Vote for the K.I.T.A Candidate
+K.I.T.A VOTE,Party Valid Vote for the K.I.T.A Candidate
 K.I.T.A CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 SNAP,Sarawak National Party (SNAP)
 SNAP CANDIDATE,SNAP Candidate Name as per the Government Gazette
