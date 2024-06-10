@@ -7,8 +7,8 @@ Attribute,
 Field Name,Field Description
 UNIQUE CODE,Parliament Constituency Code
 STATE,State Name
-PARLIAMENTARY CODE,"Parliamentary Constituency Code (for Peninsular Malaysia, Labuan and Sabah, 1984 - 1994, for Sarawak, 1977 - 1987)"
-PARLIAMENTARY NAME,"Parliamentary Constituency Name (for Peninsular Malaysia, Labuan and Sabah, 1984 - 1994, for Sarawak, 1977 - 1987)"
+PARLIAMENTARY CONSTITUENCY CODE,"Parliamentary Constituency Code (for Peninsular Malaysia, Labuan and Sabah, 1984 - 1994, for Sarawak, 1977 - 1987)"
+PARLIAMENTARY CONSTITUENCY NAME,"Parliamentary Constituency Name (for Peninsular Malaysia, Labuan and Sabah, 1984 - 1994, for Sarawak, 1977 - 1987)"
 TOTAL ELECTORS,Total Elector count for the 1986 Elections Electoral Roll
 MALAY (%),Proportion of Malay Electors for the Parliament Constituency (%)
 CHINESE (%),Proportion of Chinese Electors for the Parliament Constituency (%)
