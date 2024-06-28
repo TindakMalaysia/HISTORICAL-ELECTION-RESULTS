@@ -30,7 +30,7 @@ BN,Barisan Nasional (BN) Component Party
 BN CANDIDATE,Barisan Nasional Candidate Name as per the Government Gazette
 BN CANDIDATE SEX,Male/Female Classification
 BN CANDIDATE AGE,Age of Barisan Nasional Candidate
-BN CANDIDATE VOTE,Barisan Nasional Valid Vote for the Candidate
+BN VOTE,Barisan Nasional Valid Vote for the Candidate
 BN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 APU,Angkatan Perpaduan Ummah (APU) Component Party
 APU CANDIDATE,APU Candidate Name as per the Government Gazette
