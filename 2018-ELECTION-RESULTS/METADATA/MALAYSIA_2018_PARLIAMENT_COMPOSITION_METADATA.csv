@@ -1,0 +1,34 @@
+﻿Created on,24/9/2024
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Election Commission of Malaysia (SPR), Tindak Malaysia (2023), The Star GE14, Florczyk A.J., Corbane C., Ehrlich D., Freire S., Kemper T., Maffenini L., Melchiorri M., Pesaresi M., Politis P., Schiavina, M., Sabo F., Zanchetta L., GHSL Data Package 2019, EUR 29788 EN, Publications Office of the European Union, Luxembourg, 2019, ISBN 978-92-76-13186-1, doi:10.2760/290498, JRC 117104"
+Disclaimers,"All the percentages for electoral demographics are calculated by Tindak Malaysia. There is missing data for voter type, age composition and sex composition"
+Attribute,
+,
+Field Name,Field Description
+UNIQUE CODE,Parliamentary Constituency Code
+STATE,State Name
+PARLIAMENTARY CONSTITUENCY CODE,"Parliamentary Constituency Code (2018 - present (for Peninsular Malaysia), 2015 - present (for Sarawak), 2003 - 2019 (for Sabah))"
+PARLIAMENTARY CONSTITUENCY NAME,"Parliamentary Constituency Name (2018 - present (for Peninsular Malaysia), 2015 - present (for Sarawak), 2003 - 2019 (for Sabah))"
+TOTAL ELECTORS,Total Elector count using the 14th General Election Roll
+MALAY (%),Proportion of Malay Electors for the Parliamentary Constituency (%)
+CHINESE (%),Proportion of Chinese Electors for the Parliamentary Constituency (%)
+INDIAN (%),Proportion of Indians Electors for the Parliamentary Constituency (%)
+BUMIPUTERA SABAH (%),Proportion of Bumiputera Sabah Electors for the Parliamentary Constituency (%)
+BUMIPUTERA SARAWAK (%),Proportion of Bumiputera Sarawak Electors for the Parliamentary Constituency (%)
+ORANG ASLI (%),Proportion of Orang Asli Electors for the Parliamentary Constituency (%)
+OTHERS (%) ,Proportion of Others Electors for the Parliamentary Constituency (%)
+ELECTORS - ORDINARY VOTERS (%),Proportion of Electors - Ordinary Electors for the Parliamentary Constituency (%)
+ELECTORS - ABSENT VOTERS (%),Proportion of Electors - Absent Electors for the Parliamentary Constituency (%)
+ELECTORS - POLICE (%),Proportion of Electors - Police Electors for the Parliamentary Constituency (%)
+ELECTORS - MILITARY (%),Proportion of Electors - Military Electors for the Parliamentary Constituency (%)
+21-29 (%),Proportion of 21-29 Electors for the Parliamentary Constituency (%)
+30-39 (%),Proportion of 30-39 Electors for the Parliamentary Constituency (%)
+40-49 (%),Proportion of 40-49 Electors for the Parliamentary Constituency (%)
+50-59 (%),Proportion of 50-59 Electors for the Parliamentary Constituency (%)
+60-69 (%),Proportion of 60-69 Electors for the Parliamentary Constituency (%)
+70-79 (%),Proportion of 70-79 Electors for the Parliamentary Constituency (%)
+80-89 (%),Proportion of 80-89 Electors for the Parliamentary Constituency (%)
+90 AND ABOVE (%),Proportion of 90 and Above Electors for the Parliamentary Constituency (%)
+MALE ELECTORS (%),Proportion of Male Electors for the Parliamentary Constituency (%)
+FEMALE ELECTORS (%),Proportion of Female Electors for the Parliamentary Constituency (%)
+URBAN-RURAL CLASSIFICATION (2018),Parliamentary Constituency urbanisation classification
