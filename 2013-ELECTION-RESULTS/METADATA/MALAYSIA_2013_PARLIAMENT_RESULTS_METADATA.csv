@@ -11,7 +11,7 @@ PARLIAMENTARY CONSTITUENCY CODE,"Parliamentary Constituency Code for (for Penins
 PARLIAMENTARY CONSTITUENCY NAME,"Parliamentary Constituency Name for (for Peninsular Malaysia and Labuan, 2003 - 2018, for Sabah 2003 - 2019, for Sarawak, 2005 - 2015)"
 WINNING PARTY,Party/Coalition (with Component Party) who won the seat
 UNCONTESTED VICTORY,"Indicator if there was one contestant for the said election. If yes, value Y is affixed. If none, it is left blank"
-TOTAL ELECTORATE,Total Elector count using the Principal Electoral Roll of 2011 that was updated with four quarterly rolls of 2012
+TOTAL ELECTORATE,Total Elector count using the Principal Electoral Roll of 2011 that was updated with four quarterly rolls of 2012 which was gazetted on 11th April 2013
 WINNING MAJORITY,The difference between the highest valid votes and second highest valid votes
 TURNOUT (%),Proportion of Total Ballots Issued as a share of Total Electorate
 TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll (as in A in all Form 14 + A in Form 15)
