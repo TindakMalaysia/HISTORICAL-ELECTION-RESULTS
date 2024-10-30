@@ -1,14 +1,14 @@
-Created on,"4/9/2023, updated on 24/3/2024"
+Created on,"4/9/2023, updated on 24/3/2024, 30/10/2024"
 Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
-Sources,"Election Commission of Malaysia (SPR), Tindak Malaysia (2023), Attorney General Chambers, Undi.info. Refer to individual State Candidate Age Source File"
-Disclaimers,"There may be discrepancies for the age of candidates as there is no official data released for the attribute. There were clashes between PKR, PSM and PAS at the DUN Level elections There are different interpretations of total valid votes for different parties based on different sources. TindakMalaysia Network Services PLT is not responsible for any errors or ommissions arising from the original data or its derivatives"
+Sources,"Election Commission of Malaysia (SPR), Tindak Malaysia (2023), Attorney General Chambers, Data.gov.my (archived files), Undi.info. Refer to individual State Candidate Age Source File"
+Disclaimers,"There may be discrepancies for the age of candidates as there is no official data released for the attribute. There were clashes between PKR, PSM and PAS at the DUN Level elections There are different interpretations of total valid votes for different parties based on different sources. According to EC Statistics published by MStar website (21/4/2013), there are 112 women candidates. This value excludes one UMNO and one DAP women candidate contesting in Sabah. TindakMalaysia Network Services PLT is not responsible for any errors or ommissions arising from the original data or its derivatives"
 ,
 Attribute,
 Field name,Field Description
 UNIQUE CODE,Composite between Parliamentary Code and DUN Code (Unique Identifier)
 STATE,State Name
-PARLIAMENTARY CODE,"Parliamentary Constituency Code (2003 - 2018). For Sabah, it will be relevant from 2003 to 2019"
-PARLIAMENTARY NAME,"Parliamentary Constituency Name (2003 - 2018). For Sabah, it will be relevant from 2003 to 2019"
+PARLIAMENTARY CONSTITUENCY CODE,"Parliamentary Constituency Code (2003 - 2018). For Sabah, it will be relevant from 2003 to 2019"
+PARLIAMENTARY CONSTITUENCY NAME,"Parliamentary Constituency Name (2003 - 2018). For Sabah, it will be relevant from 2003 to 2019"
 STATE CONSTITUENCY CODE,"State Constituency (DUN)  Code (2003 - 2018). For Sabah, it will be relevant from 2003 to 2019"
 STATE CONSTITUENCY NAME,"State Constituency (DUN) Name (2003 - 2018). For Sabah, it will be relevant from 2003 to 2019"
 WINNING PARTY,Party/Coalition (with Component Party) who won the seat
@@ -18,7 +18,7 @@ WINNING MAJORITY,The difference between the highest valid votes and second highe
 TURNOUT (%),Proportion of Total Ballots Issued as a share of Total Electorate
 TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll (as in A in all Form 14 + A in Form 15)
 TOTAL UNRETURNED BALLOTS,Total number of ballot papers issued but not put in the ballot box (as in D in all Form 14) and not returned (as in D in Form 15) (B-C-D)
-TOTAL REJECTED VOTES/ BALLOTS,Total number of rejected ballot papers (as in C in all Form 14 + C in Form 15)
+TOTAL REJECTED VOTES,Total number of rejected ballot papers (as in C in all Form 14 + C in Form 15)
 TOTAL VALID VOTES,Total number of votes by electors
 BN,Barisan Nasional (BN) Component Party
 BN CANDIDATE,Barisan Nasional Candidate Name as per the Government Gazette (Form 8)
