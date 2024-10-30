@@ -26,13 +26,13 @@ BN CANDIDATE SEX,Male/Female Classification
 BN CANDIDATE AGE,Age of Barisan Nasional Candidate
 BN VOTE,Barisan Nasional Valid Vote for the Candidate
 BN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
-PR (1),Pakatan Rakyat (PR) (1) Component Party - Primary
+PR (1),Pakatan Rakyat (PR) (1) Component Party (for DAP/PKR)
 PR (1) CANDIDATE,Pakatan Rakyat (1) Candidate Name as per the Government Gazette (Form 8)
 PR (1) CANDIDATE SEX,Male/Female Classification
 PR (1) CANDIDATE AGE,Age of Pakatan Rakyat (1) Candidate
 PR (1) VOTE,Pakatan Rakyat (1) Valid Vote for the Candidate
 PR (1) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
-PR (2),Pakatan Rakyat (PR) (2) Component Party - Secondary (only applicable for internal clashes for PR parties)
+PR (2),Pakatan Rakyat (PR) (2) Component Party (for PAS)
 PR (2) CANDIDATE,Pakatan Rakyat (2) Candidate Name as per the Government Gazette (Form 8)
 PR (2) CANDIDATE SEX,Male/Female Classification
 PR (2) CANDIDATE AGE,Age of Pakatan Rakyat (2) Candidate
