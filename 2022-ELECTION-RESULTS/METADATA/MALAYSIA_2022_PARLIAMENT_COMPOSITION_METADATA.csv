@@ -7,8 +7,8 @@ Attribute,
 Field Name,Field Description
 UNIQUE CODE,Parliament Constituency Code
 STATE,State Name
-PARLIAMENTARY CODE,"Parliamentary Constituency Code (2018 - present at the Created Date). For Sabah, Parliamentary Code (2020 - present at the Created Date)"
-PARLIAMENTARY NAME,"Parliamentary Constituency Name (2018 - present at the Created Date). For Sabah, Parliamentary Name (2020 - present at the Created Date)"
+PARLIAMENTARY CONSTITUENCY CODE,"Parliamentary Constituency Code (2018 - present at the Created Date). For Sabah, Parliamentary Code (2020 - present at the Created Date)"
+PARLIAMENTARY CONSTITUENCY NAME,"Parliamentary Constituency Name (2018 - present at the Created Date). For Sabah, Parliamentary Name (2020 - present at the Created Date)"
 TOTAL ELECTORS,Total Elector count using the Principal Electoral Roll that was updated until August 2022 which was gazetted on 15/9/2022 (updated until 9th October 2022)
 MALAY (%),Proportion of Malay Electors for the Parliament Constituency (%)
 CHINESE (%),Proportion of Chinese Electors for the Parliament Constituency (%)
