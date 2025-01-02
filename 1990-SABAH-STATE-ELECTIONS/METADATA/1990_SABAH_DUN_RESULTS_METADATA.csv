@@ -1,7 +1,7 @@
 ﻿Created on,2/1/2025
 Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
 Sources,"Tindak Malaysia (2024), Government Gazette P.U. (B) 374 12/7/1990, Government Gazette P.U. (B) 4313 23/8/1990, New Straits Times 18/7/1990, 19/7/1990, https://www.oocities.org/hualian_studentclub/pilihanraya/pilihanraya_umum_sabah_1990.htm.  Refer to 1990_Other_Sources for other sources"
-Disclaimers,This file does not have the candidate's age information. PBS and USNO are members of the Barisan Nasional Coalition but USNO is the state-level opposition. BERJAYA party left Barisan Nasional in 1986. Refer to 1990_DUN_Candidate_Notes for candidates who require sex verification. TindakMalaysia Network Services PLT is not responsible for any errors or omissions arising from the original data or its derivatives.
+Disclaimers,This file does not have the candidate's age information. PBS and USNO are members of the Barisan Nasional Coalition but USNO is the state-level opposition. BERJAYA party left Barisan Nasional in 1986. Refer to 1990_DUN_Candidate_Notes for candidates who require sex verification. There is a discrepancy of total rejected votes and total unreturned votes. TindakMalaysia Network Services PLT is not responsible for any errors or omissions arising from the original data or its derivatives.
 ,
 Attribute,
 ,
@@ -18,7 +18,7 @@ TOTAL ELECTORATE,Total Elector Count for 1990 Elections using  Electoral Roll ce
 WINNING MAJORITY,The difference between the highest valid votes and second highest valid votes
 TURNOUT (%),Proportion of Total Ballots Issued as a share of Total Electorate
 TOTAL BALLOTS ISSUED,Total number of ballot papers used at the poll
-TOTAL UNRETURNED VOTES,Total number of ballot papers issued but not put in the ballot box (as in D in all Form 14) and not returned (as in D in Form 15) (B-C-D)
+TOTAL UNRETURNED VOTES,Total number of ballot papers issued but not put in the ballot box
 TOTAL REJECTED VOTES,Total number of rejected ballot papers
 TOTAL VALID VOTES,Total number of votes by electors
 BN (1),Barisan Nasional (BN) Component Party (USNO)
@@ -79,6 +79,5 @@ INDEPENDENT (2) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost dep
 KEY ABBREVIATIONS FOR POLITICAL PARTIES,
 USNO,United Sabah National Organisation
 PBS,Parti Bersatu Sabah
-BERJAYA,Parti Bersatu Rakyat Jelata Sabah
 LDP,Liberal Democratic Party
 DAP,Democratic Action Party
