@@ -1,0 +1,105 @@
+﻿UNIQUE CODE,STATE (1955),PARLIAMENTARY CONSTITUENCY CODE (1955),PARLIAMENTARY CONSTITUENCY NAME (1955),UNIQUE CODE (1958),PARLIAMENTARY CONSTITUENCY CODE (1958),PARLIAMENTARY CONSTITUENCY NAME (1958),NEW SEAT (1958),NAME CHANGE,NOTES
+1,PULAU PINANG,,WELLESLEY NORTH,P.1,P.1,BAGAN,YES,N/A,Originated from Wellesley North
+,,,,P.2,P.2,SEBERANG UTARA,YES,N/A,Originated from Wellesley North
+2,PULAU PINANG,,WELLESLEY SOUTH,P.3,P.3,SEBERANG TENGAH,YES,N/A,Originated from Wellesley South
+,,,,P.4,P.4,SEBERANG SELATAN,YES,N/A,Originated from Wellesley South
+3,PULAU PINANG,,GEORGE TOWN,P.5,P.5,TANJONG,YES,N/A,Originated from George Town
+,,,,P.6,P.6,DATO KRAMAT,YES,N/A,Originated from George Town
+4,PULAU PINANG,,PENANG ISLAND,P.7,P.7,PENANG UTARA,YES,N/A,Originated from Penang Island
+,,,,P.8,P.8,PENANG SELATAN,YES,N/A,Originated from Penang Island
+5,MELAKA,,MALACCA CENTRAL,P.9,P.9,BANDAR MALACCA,YES,N/A,Originated from Malacca Central
+,,,,P.10,P.10,MALACCA TENGAH,YES,N/A,Originated from Malacca Central
+6,MELAKA,,MALACCA LUAR,P.11,P.11,MALACCA UTARA,YES,N/A,Originated from Malacca Luar
+,,,,P.12,P.12,MALACCA SELATAN,YES,N/A,Originated from Malacca Luar
+7,PERAK,,KRIAN,P.13,P.13,KRIAN LAUT,YES,N/A,Originated from Krian
+,,,,P.14,P.14,KRIAN DARAT,YES,N/A,Originated from Krian
+8,PERAK,,BATANG PADANG,P.15,P.15,BATANG PADANG,YES,N/A,Originated from Batang Padang
+,,,,P.16,P.16,TANJONG MALIM,YES,N/A,Originated from Batang Padang
+9,PERAK,,LARUT AND MATANG,P.17,P.17,LARUT UTARA,YES,N/A,Originated from Larut and Matang
+,,,,P.18,P.18,LARUT SELATAN,YES,N/A,Originated from Larut and Matang
+10,PERAK,,DINDINGS,P.19,P.19,BRUAS,YES,N/A,Originated from Dindings
+,,,,P.20,P.20,SITIAWAN,YES,N/A,Originated from Dindings
+11,PERAK,,SUNGEI PERAK ULU,P.21,P.21,ULU PERAK,YES,N/A,Originated from Sungei Perak Ulu
+,,,,P.22,P.22,KUALA KANGSAR,YES,N/A,Originated from Sungei Perak Ulu
+12,PERAK,,SUNGEI PERAK HILIR,P.23,P.23,PARIT,YES,N/A,Originated from Sungei Perak Hilir
+,,,,P.24,P.24,HILIR PERAK,YES,N/A,Originated from Sungei Perak Hilir
+13,PERAK,,TELOK ANSON,P.25,P.25,BAGAN DATOH,YES,N/A,Originated from Telok Anson
+,,,,P.26,P.26,TELOK ANSON,YES,N/A,Originated from Telok Anson
+14,PERAK,,IPOH AND MENGLEMBU,P.27,P.27,IPOH,YES,N/A,Originated from Ipoh and Menglembu
+,,,,P.28,P.28,MENGLEMBU,YES,N/A,Originated from Ipoh and Menglembu
+15,PERAK,,KINTA UTARA,P.29,P.29,SUNGEI SIPUT,YES,N/A,Originated from Kinta Utara
+,,,,P.30,P.30,ULU KINTA,YES,N/A,Originated from Kinta Utara
+16,PERAK,,KINTA SELATAN,P.31,P.31,BATU GAJAH,YES,N/A,Originated from Kinta Selatan
+,,,,P.32,P.32,KAMPAR,YES,N/A,Originated from Kinta Selatan
+17,SELANGOR,,KUALA LUMPUR BARAT,P.33,P.33,BATU,YES,N/A,Originated from Kuala Lumpur Barat
+,,,,P.34,P.34,BUNGSAR,YES,N/A,Originated from Kuala Lumpur Barat
+18,SELANGOR,,KUALA LUMPUR TIMOR,P.35,P.35,BUKIT BINTANG,YES,N/A,Originated from Kuala Lumpur Timor
+,,,,P.36,P.36,SETAPAK,YES,N/A,Originated from Kuala Lumpur Timor
+19,SELANGOR,,ULU SELANGOR,P.37,P.37,ULU SELANGOR,YES,N/A,Originated from Ulu Selangor
+,,,,P.38,P.38,RAWANG,YES,N/A,Originated from Ulu Selangor
+20,SELANGOR,,KUALA SELANGOR,P.39,P.39,SABAK BERNAM,YES,N/A,Originated from Kuala Selangor
+,,,,P.40,P.40,KUALA SELANGOR,YES,N/A,Originated from Kuala Selangor
+21,SELANGOR,,LANGAT,P.41,P.41,LANGAT,YES,N/A,Originated from Langat
+,,,,P.42,P.42,SEPANG,YES,N/A,Originated from Langat
+22,SELANGOR,,SELANGOR BARAT,P.43,P.43,KLANG,YES,N/A,Originated from Selangor Barat
+,,,,P.44,P.44,KUALA LANGAT,YES,N/A,Originated from Selangor Barat
+23,SELANGOR,,SELANGOR TENGAH,P.45,P.45,KAPAR,YES,N/A,Originated from Selangor Tengah
+,,,,P.46,P.46,DAMANSARA,YES,N/A,Originated from Selangor Tengah
+24,NEGERI SEMBILAN,,NEGRI SEMBILAN UTARA,P.47,P.47,JELEBU-JEMPOL,YES,N/A,Originated from Negri Sembilan Utara
+,,,,P.48,P.48,KUALA PILAH,YES,N/A,Originated from Negri Sembilan Utara
+25,NEGERI SEMBILAN,,NEGRI SEMBILAN SELATAN,P.49,P.49,PORT DICKSON,YES,N/A,Originated from Negri Sembilan Selatan
+,,,,P.50,P.50,REMBAU-TAMPIN,YES,N/A,Originated from Negri Sembilan Selatan
+26,NEGERI SEMBILAN,,SEREMBAN,P.51,P.51,SEREMBAN BARAT,YES,N/A,Originated from Seremban
+,,,,P.52,P.52,SEREMBAN TIMOR,YES,N/A,Originated from Seremban
+27,PAHANG,,ULU PAHANG,P.53,P.53,LIPIS,YES,N/A,Originated from Ulu Pahang
+,,,,P.54,P.54,RAUB,YES,N/A,Originated from Ulu Pahang
+28,PAHANG,,SEMANTAN,P.55,P.55,BENTONG,YES,N/A,Originated from Semantan
+,,,,P.56,P.56,TEMERLOH,YES,N/A,Originated from Semantan
+29,PAHANG,,PAHANG TIMOR,P.57,P.57,KUANTAN,YES,N/A,Originated from Pahang Timor
+,,,,P.58,P.58,PEKAN,YES,N/A,Originated from Pahang Timor
+30,JOHOR,,JOHORE TIMOR,P.59,P.59,JOHORE TIMOR,YES,N/A,Originated from Johore Timor
+,,,,P.60,P.60,JOHORE TENGGARA,YES,N/A,Originated from Johore Timor
+31,JOHOR,,JOHORE BAHRU,P.61,P.61,JOHORE BAHRU TIMOR,YES,N/A,Originated from Johore Bahru
+,,,,P.62,P.62,JOHORE BAHRU BARAT,YES,N/A,Originated from Johore Bahru
+32,JOHOR,,JOHORE SELATAN,P.63,P.63,PONTIAN SELATAN,YES,N/A,Originated from Johore Selatan
+,,,,P.64,P.64,PONTIAN UTARA,YES,N/A,Originated from Johore Selatan
+33,JOHOR,,JOHORE TENGAH,P.65,P.65,KLUANG SELATAN,YES,N/A,Originated from Johore Tengah
+,,,,P.66,P.66,KLUANG UTARA,YES,N/A,Originated from Johore Tengah
+34,JOHOR,,BATU PAHAT,P.67,P.67,BATU PAHAT,YES,N/A,Originated from Batu Pahat
+,,,,P.68,P.68,BATU PAHAT DALAM,YES,N/A,Originated from Batu Pahat
+35,JOHOR,,MUAR SELATAN,P.69,P.69,MUAR SELATAN,YES,N/A,Originated from Muar Selatan
+,,,,P.70,P.70,MUAR PANTAI,YES,N/A,Originated from Muar Selatan
+36,JOHOR,,MUAR UTARA,P.71,P.71,MUAR UTARA,YES,N/A,Originated from Muar Utara
+,,,,P.72,P.72,MUAR DALAM,YES,N/A,Originated from Muar Utara
+37,JOHOR,,SEGAMAT,P.73,P.73,SEGAMAT UTARA,YES,N/A,Originated from Segamat
+,,,,P.74,P.74,SEGAMAT SELATAN,YES,N/A,Originated from Segamat
+38,KEDAH,,ALOR STAR,P.75,P.75,ALOR STAR,YES,N/A,Originated from Alor Star
+,,,,P.76,P.76,KUALA KEDAH,YES,N/A,Originated from Alor Star
+39,KEDAH,,KOTA STAR,P.77,P.77,KOTA STAR UTARA,YES,N/A,Originated from Kota Star
+,,,,P.78,P.78,KOTA STAR SELATAN,YES,N/A,Originated from Kota Star
+40,KEDAH,,KEDAH UTARA,P.79,P.79,KUBANG PASU BARAT,YES,N/A,Originated from Kedah Utara
+,,,,P.80,P.80,JITRA-PADANG TERAP,YES,N/A,Originated from Kedah Utara
+41,KEDAH,,KEDAH TENGAH,P.81,P.81,JERAI,YES,N/A,Originated from Kedah Tengah
+,,,,P.82,P.82,KEDAH TENGAH,YES,N/A,Originated from Kedah Tengah
+42,KEDAH,,SUNGEI MUDA,P.83,P.83,SUNGEI PATANI,YES,N/A,Originated from Sungei Muda
+,,,,P.84,P.84,BALING,YES,N/A,Originated from Sungei Muda
+43,KEDAH,,KEDAH SELATAN,P.85,P.85,KULIM UTARA,YES,N/A,Originated from Kedah Selatan
+,,,,P.86,P.86,KULIM-BANDAR BAHRU,YES,N/A,Originated from Kedah Selatan
+44,KELANTAN,,KELANTAN SELATAN,P.87,P.87,ULU KELANTAN,YES,N/A,Originated from Kelantan Selatan
+,,,,P.88,P.88,TANAH MERAH,YES,N/A,Originated from Kelantan Selatan
+45,KELANTAN,,KELANTAN TIMOR,P.89,P.89,PASIR PUTEH,YES,N/A,Originated from Kelantan Timor
+,,,,P.90,P.90,BACHOK,YES,N/A,Originated from Kelantan Timor
+46,KELANTAN,,PASIR MAS,P.91,P.91,PASIR MAS HILIR,YES,N/A,Originated from Pasir Mas
+,,,,P.92,P.92,PASIR MAS HULU,YES,N/A,Originated from Pasir Mas
+47,KELANTAN,,KELANTAN UTARA,P.93,P.93,TUMPAT,YES,N/A,Originated from Kelantan Utara
+,,,,P.94,P.94,KELANTAN HILIR,YES,N/A,Originated from Kelantan Utara
+48,KELANTAN,,KELANTAN TENGAH,P.95,P.95,KOTA BHARU HILIR,YES,N/A,Originated from Kelantan Tengah
+,,,,P.96,P.96,KOTA BHARU HULU,YES,N/A,Originated from Kelantan Tengah
+49,TERENGGANU,,TRENGGANU UTARA,P.97,P.97,BESUT,YES,N/A,Originated from Trengganu Utara
+,,,,P.98,P.98,KUALA TRENGGANU UTARA,YES,N/A,Originated from Trengganu Utara
+50,TERENGGANU,,TRENGGANU TENGAH,P.99,P.99,KUALA TRENGGANU SELATAN,YES,N/A,Originated from Trengganu Tengah
+,,,,P.100,P.100,TRENGGANU TENGAH,YES,N/A,Originated from Trengganu Tengah
+51,TERENGGANU,,TRENGGANU SELATAN,P.101,P.101,DUNGUN,YES,N/A,Originated from Trengganu Selatan
+,,,,P.102,P.102,KEMAMAN,YES,N/A,Originated from Trengganu Selatan
+52,PERLIS,,PERLIS,P.103,P.103,PERLIS UTARA,YES,N/A,Originated from Perlis
+,,,,P.104,P.104,PERLIS SELATAN,YES,N/A,Originated from Perlis
