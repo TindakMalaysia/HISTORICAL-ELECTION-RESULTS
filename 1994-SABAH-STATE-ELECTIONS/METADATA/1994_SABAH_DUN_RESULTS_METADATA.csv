@@ -1,0 +1,75 @@
+﻿Created on,24/2/2025
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Tindak Malaysia (2025),  Laporan Pilihan Raya Umum Dewan Undangan Negeri Sabah : 1994, New Straits Times 21/2/1994"
+Disclaimers,"This file does not have the candidate's age information. For simplicity purposes, DAP and PAS are classified as Other Party (instead of their umbrella coalitions - Gagasan Rakyat (for DAP) and Angkatan Perpaduan Ummah (for PAS). There is a dispute about the actual figures of women candidates contesting. New Straits Times of 21/2/1994 states there are four but Tindak's research states there are five candidate. There is a discrepancy of total electors for the Sabah 1994 elections where EC states that it is 598312 voters when Tindak's tally is 598305 voters. EC has placed errorneous turnout value for Bengkoka as it the value should be 69.82%. New Straits Times (20/2/1994) has errorneously states 52 candidates lost deposit where actual EC's reported count is 53.  TindakMalaysia Network Services PLT is not responsible for any errors or omissions arising from the original data or its derivatives."
+,
+Attribute,
+,
+FIELD NAME,FIELD DESCRIPTION
+UNIQUE CODE,Composite between Parliamentary Code and DUN Code (Unique Identifier).
+STATE,State Name
+PARLIAMENTARY CONSTITUENCY CODE,Parliamentary Constituency Code (1984 - 1994)
+PARLIAMENTARY CONSTITUENCY NAME,Parliamentary Constituency Name (1984 - 1994)
+STATE CONSTITUENCY CODE,State Constituency Code (1984 - 1994)
+STATE CONSTITUENCY NAME,State Constituency Code (1984 - 1994)
+WINNING PARTY,Party/Coalition (with Component Party) who won the seat
+UNCONTESTED VICTORY,"Indicator if there was one contestant for the said election. If yes, value Y is affixed. If none, it is left blank"
+TOTAL ELECTORATE,Total Elector Count for 1994 Elections using  Electoral Roll of 1992 certified on 27th May 1993
+WINNING MAJORITY,The difference between the highest valid votes and second highest valid votes
+TURNOUT (%),Proportion of Total Ballots Issued as a share of Total Electorate
+TOTAL BALLOTS ISSUED,Total number of ballot papers used at the poll
+TOTAL UNRETURNED VOTES,Total number of ballot papers issued but not put in the ballot box
+TOTAL REJECTED VOTES,Total number of rejected ballot papers
+TOTAL VALID VOTES,Total number of votes by electors
+BN,Barisan Nasional (BN) Component Party (USNO)
+BN CANDIDATE,Barisan Nasional Candidate Name
+BN CANDIDATE SEX,Male/Female Classification
+BN CANDIDATE AGE,Age of Barisan Nasional Candidate
+BN VOTE,Barisan Nasional Valid Vote for the Candidate
+BN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+PBS,Parti Bersatu Sabah (PBS)
+PBS CANDIDATE,PBS Candidate Name
+PBS CANDIDATE SEX,Male/Female Classification
+PBS CANDIDATE AGE,Age of PBS Candidate
+PBS VOTE,PBS Valid Vote for the Candidate
+PBS CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+OTHER PARTY (1),Other Party Name
+OTHER PARTY (1) CANDIDATE,Other Party Candidate Name
+OTHER PARTY (1) CANDIDATE SEX,Male/Female Classification
+OTHER PARTY (1) CANDIDATE AGE,Age of Party Candidate
+OTHER PARTY (1) VOTE,Party Valid Vote for the Other Party Candidate
+OTHER PARTY (1) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+OTHER PARTY (2),Other Party Name
+OTHER PARTY (2) CANDIDATE,Other Party Candidate Name
+OTHER PARTY (2) CANDIDATE SEX,Male/Female Classification
+OTHER PARTY (2) CANDIDATE AGE,Age of Party Candidate
+OTHER PARTY (2) VOTE,Party Valid Vote for the Other Party Candidate
+OTHER PARTY (2) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (1),Independent with Symbol
+INDEPENDENT (1) CANDIDATE,Independent Candidate Name
+INDEPENDENT (1) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (1) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (1) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (1) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (2),Independent with Symbol
+INDEPENDENT (2) CANDIDATE,Independent Candidate Name
+INDEPENDENT (2) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (2) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (2) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (2) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (3),Independent with Symbol
+INDEPENDENT (3) CANDIDATE,Independent Candidate Name
+INDEPENDENT (3) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (3) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (3) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (3) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+,
+KEY ABBREVIATIONS FOR POLITICAL PARTIES,
+UMNO,United Malays National Organisation
+LDP,Liberal Democratic Party
+SAPP,Sabah Progressive Party
+AKAR,Angkatan Keadilan Rakyat
+SETIA,Parti Demokratik Setiahati Kuasa Rakyat Bersatu Sabah
+BERSEKUTU,Parti Barisan Rakyat Sabah Bersekutu
+DAP,Democratic Action Party
+PAS,Parti Islam Se-Malaysia
