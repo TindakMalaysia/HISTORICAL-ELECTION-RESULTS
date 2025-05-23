@@ -1,0 +1,91 @@
+﻿Created on,23/5/2025
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"EC's Scoresheet results, https://archive.data.gov.my/data/dataset/senarai-calon-bertanding-pru-14-bagi-kerusi-dewan-undangan-negeri/resource/b26c0a93-ff42-4c20-a987-74a1518c8775, https://undi.info/, The STAR (https://web.archive.org/web/20080424025050/http://elections2.thestar.com.my/election/results/14/14s.html), 1 Sabah (https://ms-my.facebook.com/photo/?fbid=10151561525206004&set=imbasan-keputusan-pru-12-2008dewan-undangan-negeri-sabah-sumber-spr), Keith Rozario Github"
+Disclaimers,"DUN Constituency Names follow the EC's Scoresheet results, but the codes for Parliamentary and DUN seats are from Sabah's 2003 Redelineation Report. EC Constituency Maps do not show space between P. and value and N. and value. Pakatan Rakyat was formed after the 2008 elections but there is an electoral pact between PKR, PAS and DAP (however, there were numerous clashes between PRK and DAP. EC has contradictory figures for rejected votes (271 or 273), unreturned votes (1 or 4) and total ballot issued (7713) for DUN Tungku. There are errors in party association found in the information presented by undi.info and the Star website. There are number of candidates who withdrew from the nomination such as Independent Candidate for DUN Senallang (MOHD SAYADI BIN BAKAL), DUN Tanjong Batu (DASUN BIN SUMBIN) and PKR Candidate for DUN Gum-Gum (MUHASPA MOHD HASSAN). 2008_DUN_CANDIDATE_NOTES file shows which candidates require sex category verification. TindakMalaysia Network Services PLT is not responsible for any errors or ommissions arising from the original data or its derivatives"
+,
+,
+Attribute,
+,
+FIELD NAME,FIELD DESCRIPTION
+UNIQUE CODE,"Unique Identifier. For this case, it is the Parliamentary Code"
+STATE,State Name
+PARLIAMENTARY CONSTITUENCY CODE,Parliamentary Constituency Code (2003 - 2019)
+PARLIAMENTARY CONSTITUENCY NAME,Parliamentary Constituency Name (2003 - 2019)
+STATE CONSTITUENCY CODE,State Constituency Code (2003 - 2019)
+STATE CONSTITUENCY NAME,State Constituency Name (2003 - 2019)
+WINNING PARTY,Party/Coalition (with Component Party) who won the seat
+UNCONTESTED VICTORY,"Indicator if there was one contestant for the said election. If yes, value Y is affixed. If none, it is left blank"
+TOTAL ELECTORATE,"Total Elector count using the 2008 Elections, which was built on Principal Electoral Roll of 2007 that was gazetted on 5th February 2008"
+WINNING MAJORITY,The difference between the highest valid votes and second highest valid votes
+TURNOUT (%),Proportion of Total Ballots Issued as a share of Total Electorate
+TOTAL BALLOTS ISSUED,Total Number of Ballot Papers issued at the poll (including postal ballot papers issued to voters and rejected ballot papers but excluding spoilt ballot papers)
+TOTAL UNRETURNED VOTES,Number of ballots papers issued but no returned (including postal ballot papers)
+TOTAL REJECTED VOTES,Total number of rejected ballot papers
+TOTAL VALID VOTES,Total number of votes by electors
+BN,Barisan Nasional (BN) Component Party
+BN CANDIDATE,Barisan Nasional Candidate Name
+BN CANDIDATE SEX,Male/Female Classification
+BN CANDIDATE AGE,Age of Barisan Nasional Candidate
+BN VOTE,Barisan Nasional Valid Vote for the Candidate
+BN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+OTHER PARTY (1),Other Party (reserved for PKR and PAS)
+OTHER PARTY (1) CANDIDATE,Other Party Candidate Name
+OTHER PARTY (1) CANDIDATE SEX,Male/Female Classification
+OTHER PARTY (1) CANDIDATE AGE,Age of Other Party Candidate
+OTHER PARTY (1) VOTE,Other Party Candidate Valid Vote
+OTHER PARTY (1) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+OTHER PARTY (2),Other Party (reserved for DAP)
+OTHER PARTY (2) CANDIDATE,Other Party Candidate Name
+OTHER PARTY (2) CANDIDATE SEX,Male/Female Classification
+OTHER PARTY (2) CANDIDATE AGE,Age of Other Party Candidate
+OTHER PARTY (2) VOTE,Other Party Candidate Valid Vote
+OTHER PARTY (2) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+OTHER PARTY (3),Other Party
+OTHER PARTY (3) CANDIDATE,Other Party Candidate Name
+OTHER PARTY (3) CANDIDATE SEX,Male/Female Classification
+OTHER PARTY (3) CANDIDATE AGE,Age of Other Party Candidate
+OTHER PARTY (3) VOTE,Other Party Candidate Valid Vote
+OTHER PARTY (3) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (1),Independent with Symbol
+INDEPENDENT (1) CANDIDATE,Independent Candidate Name
+INDEPENDENT (1) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (1) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (1) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (1) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (2),Independent with Symbol
+INDEPENDENT (2) CANDIDATE,Independent Candidate Name
+INDEPENDENT (2) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (2) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (2) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (2) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (3),Independent with Symbol
+INDEPENDENT (3) CANDIDATE,Independent Candidate Name
+INDEPENDENT (3) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (3) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (3) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (3) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (4),Independent with Symbol
+INDEPENDENT (4) CANDIDATE,Independent Candidate Name
+INDEPENDENT (4) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (4) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (4) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (4) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (5),Independent with Symbol
+INDEPENDENT (5) CANDIDATE,Independent Candidate Name
+INDEPENDENT (5) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (5) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (5) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (5) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+,
+KEY ABBREVIATIONS FOR POLITICAL PARTIES,
+UMNO,United Malays National Organisation
+MCA,Malaysian Chinese Association
+LDP,Liberal Democratic Party
+UPKO,United Progressive Kinabalu Organisation
+SAPP,Sabah Progressive Party
+PBRS,Parti Bersatu Rakyat Sabah
+PBS,Parti Bersatu Sabah
+PAS,Parti Islam Se-Malaysia
+PKR,Parti Keadilan Rakyat
+DAP,Democratic Action Party
+BERSEKUTU,Parti Barisan Rakyat Sabah Bersekutu
