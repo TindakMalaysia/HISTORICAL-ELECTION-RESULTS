@@ -1,0 +1,62 @@
+﻿UNIQUE CODE (1999),STATE (1999),PARLIAMENTARY CONSTITUENCY CODE (1999),PARLIAMENTARY CONSTITUENCY NAME (1999),STATE CONSTITUENCY CODE (1999),STATE CONSTITUENCY NAME (1999),UNIQUE CODE (2003),STATE (2003),PARLIAMENTARY CONSTITUENCY CODE (2003),PARLIAMENTARY CONSTITUENCY NAME (2003),STATE CONSTITUENCY CODE (2003),STATE CONSTITUENCY NAME (2003),DUN NAME CHANGE,NEW DUN SEAT,NOTES
+P. 146_N. 1,SABAH,P. 146,MARUDU,N. 1,BANGGI,P. 167_N. 1,SABAH,P. 167,KUDAT,N. 1,BANGGI,,,Boundary has changed. Parent parliamentary constituency of Marudu renamed as Kudat
+P. 146_N. 2,SABAH,P. 146,MARUDU,N. 2,KUDAT,P. 167_N. 2,SABAH,P. 167,KUDAT,N. 2,TANJONG KAPOR,Y,,Boundary has changed. Parent parliamentary constituency of Marudu renamed as Kudat
+P. 146_N. 3,SABAH,P. 146,MARUDU,N. 3,BENGKOKA,P. 167_N. 3,SABAH,P. 167,KUDAT,N. 3,PITAS,Y,,Boundary has changed. Parent parliamentary constituency of Marudu renamed as Kudat
+P. 147_N. 4,SABAH,P. 147,BANDAU,N. 4,MATUNGGONG,P. 168_N. 4,SABAH,P. 168,KOTA MARUDU,N. 4,MATUNGGONG,,,Boundary has changed. Parent parliamentary constituency of Bandau renamed as Kota Marudu
+P. 147_N. 5,SABAH,P. 147,BANDAU,N. 5,TANDEK,P. 168_N. 5,SABAH,P. 168,KOTA MARUDU,N. 5,TANDEK,,,Boundary has changed. Parent parliamentary constituency of Bandau renamed as Kota Marudu
+P. 148_N. 6,SABAH,P. 148,KOTA BELUD,N. 6,TEMPASUK,P. 169_N. 6,SABAH,P. 168,KOTA BELUD,N. 6,TEMPASUK,,,
+P. 148_N. 7,SABAH,P. 148,KOTA BELUD,N. 7,KADAMAIAN,P. 169_N. 7,SABAH,P. 169,KOTA BELUD,N. 7,KADAMAIAN,,,
+P. 148_N. 8,SABAH,P. 148,KOTA BELUD,N. 8,USUKAN,P. 169_N. 8,SABAH,P. 169,KOTA BELUD,N. 8,USUKAN,,,
+P. 149_N. 9,SABAH,P. 149,TUARAN,N. 9,TAMPARULI,P. 170_N. 9,SABAH,P. 170,TUARAN,N. 9,TAMPARULI,,,
+P. 149_N. 10,SABAH,P. 149,TUARAN,N. 10,SULAMAN,P. 170_N. 10,SABAH,P. 170,TUARAN,N. 10,SULAMAN,,,
+P. 149_N. 11,SABAH,P. 149,TUARAN,N. 11,KIULU,P. 170_N. 11,SABAH,P. 170,TUARAN,N. 11,KIULU,,,Boundary has changed
+,,,,,,P. 171_N. 12,SABAH,P. 171,SEPANGGAR,N. 12,KARAMBUNAI,,Y,Originated largely from Likas and parts from Inanam. Under new parliamentary constituency of Sepanggar
+P. 150_N. 12,SABAH,P. 150,GAYA,N. 12,INANAM,P. 171_N. 13,SABAH,P. 171,SEPANGGAR,N. 13,INANAM,,,Boundary has changed. Moved from former Gaya parliamentary constituency to new Sepanggar parliamentary constituency
+P. 150_N. 13,SABAH,P. 150,GAYA,N. 13,LIKAS,P. 172_N. 14,SABAH,P. 172,KOTA KINABALU,N. 14,LIKAS,,,Boundary has changed. Parent parliamentary constituency of Gaya renamed as Kota Kinabalu
+P. 151_N. 14,SABAH,P. 151,TANJONG ARU,N. 14,API - API,P. 172_N. 15,SABAH,P. 172,KOTA KINABALU,N. 15,API-API,,,Boundary has changed. Moved from former Tanjong Aru to Kota Kinabalu parliamentary constituency
+,,,,,,P. 172_N. 16,SABAH,P. 172,KOTA KINABALU,N. 16,LUYANG,,Y,Originated largely from Api-Api with parts of former Sembulan
+P. 151_N. 15,SABAH,P. 151,TANJONG ARU,N. 15,SEMBULAN,P. 173_N. 17,SABAH,P. 173,PUTATAN,N. 17,TANJONG ARU,Y,,Boundary has changed. Parent Parliamentary Constituency of Tanjong Aru renamed as Putatan
+P. 152_N. 16,SABAH,P. 152,PENAMPANG,N. 16,MOYOG,P. 174_N. 20,SABAH,P. 174,PENAMPANG,N. 20,MOYOG,,,Boundary has changed
+P. 152_N. 17,SABAH,P. 152,PENAMPANG,N. 17,PETAGAS,P. 173_N. 18,SABAH,P. 173,PUTATAN,N. 18,PETAGAS,,,Boundary has changed. Moved from Penampang parliamentary constituency to Putatan constituency
+,,,,,,P. 174_N. 19,SABAH,P. 174,PENAMPANG,N. 19,KAPAYAN,,Y,Originated from former Sembulan and Moyog
+P. 153_N. 18,SABAH,P. 153,PAPAR,N. 18,KAWANG,P. 175_N. 21,SABAH,P. 175,PAPAR,N. 21,KAWANG,,,Boundary has changed
+P. 153_N. 19,SABAH,P. 153,PAPAR,N. 19,PANTAI MANIS,P. 175_N. 22,SABAH,P. 175,PAPAR,N. 22,PANTAI MANIS,,,Boundary has changed
+P. 154_N. 20,SABAH,P. 154,BEAUFORT,N. 20,BONGAWAN,P. 176_N. 23,SABAH,P. 176,KIMANIS,N. 23,BONGAWAN,,,Boundary has changed. Moved from Beaufort Parliamentary Constituency to newly created Kimanis constituency
+,,,,,,P. 176_N. 24,SABAH,P. 176,KIMANIS,N. 24,MEMBAKUT,,Y,"Originated largely from Klias, parts of Bongawan and Kuala Penyu. Under new parliamentary constituency of Kimanis"
+P. 154_N. 21,SABAH,P. 154,BEAUFORT,N. 21,KUALA PENYU,P. 177_N. 26,SABAH,P. 177,BEAUFORT,N. 26,KUALA PENYU,,,Boundary has changed
+P. 154_N. 22,SABAH,P. 154,BEAUFORT,N. 22,KLIAS,P. 177_N. 25,SABAH,P. 177,BEAUFORT,N. 25,KLIAS,,,Boundary has changed
+P. 155_N. 23,SABAH,P. 155,SIPITANG,N. 23,LUMADAN,P. 178_N. 27,SABAH,P. 178,SIPITANG,N. 27,LUMADAN,,,Boundary has changed
+P. 155_N. 24,SABAH,P. 155,SIPITANG,N. 24,SINDUMIN,P. 178_N. 28,SABAH,P. 178,SIPITANG,N. 28,SINDUMIN,,,Boundary has changed
+P. 156_N. 25,SABAH,P. 156,KINABALU,N. 25,KUNDASANG,P. 179_N. 29,SABAH,P. 179,RANAU,N. 29,KUNDASANG,,,Boundary has changed. Parent parliamentary constituency of Kinabalu renamed as Ranau
+P. 156_N. 26,SABAH,P. 156,KINABALU,N. 26,RANAU,P. 179_N. 31,SABAH,P. 179,RANAU,N. 31,PAGINATAN,Y,,Boundary has changed. Parent parliamentary constituency of Kinabalu renamed as Ranau
+,,,,,,P. 179_N. 30,SABAH,P. 179,RANAU,N. 30,KARANAAN,,Y,Originated largely from former Ranau DUN Constituency
+P. 157_N. 27,SABAH,P. 157,KENINGAU,N. 27,TAMBUNAN,P. 180_N. 32,SABAH,P. 180,KENINGAU,N. 32,TAMBUNAN,,,Boundary has changed
+P. 157_N. 28,SABAH,P. 157,KENINGAU,N. 28,BINGKOR,P. 180_N. 33,SABAH,P. 180,KENINGAU,N. 33,BINGKOR,,,Boundary has changed
+,,,,,,P. 180_N. 34,SABAH,P. 180,KENINGAU,N. 34,LIAWAN,,Y,Originated largely from Melalap and parts of Bingkor
+P. 157_N. 29,SABAH,P. 157,KENINGAU,N. 29,PENSIANGAN,P. 182_N. 38,SABAH,P. 182,PENSIANGAN,N. 38,NABAWAN,Y,,Boundary has changed. Moved from Keningau parliamentary Constituency to newly created Pensiangan constituency
+,,,,,,P. 182_N. 37,SABAH,P. 182,PENSIANGAN,N. 37,SOOK,,Y,Originated from former Pensiangan and Bingkor. Under new parliamentary constituency of Pensiangan
+P. 158_N. 30,SABAH,P. 158,TENOM,N. 30,MELALAP,P. 181_N. 35,SABAH,P. 181,TENOM,N. 35,MELALAP,,,Boundary has changed
+P. 158_N. 31,SABAH,P. 158,TENOM,N. 31,KEMABONG,P. 181_N. 36,SABAH,P. 181,TENOM,N. 36,KEMABONG,,,Boundary has changed
+P. 159_N. 32,SABAH,P. 159,BELURAN,N. 32,SUGUT,P. 183_N. 39,SABAH,P. 183,BELURAN,N. 39,SUGUT,,,Boundary has changed
+P. 159_N. 33,SABAH,P. 159,BELURAN,N. 33,LABUK,P. 183_N. 40,SABAH,P. 183,BELURAN,N. 40,LABUK,,,Boundary has changed
+P. 160_N. 34,SABAH,P. 160,LIBARAN,N. 34,SUNGAI SIBUGA,P. 184_N. 42,SABAH,P. 184,LIBARAN,N. 42,SUNGAI SIBUGA,,,Boundary has changed
+P. 160_N. 35,SABAH,P. 160,LIBARAN,N. 35,SEKONG,P. 185_N. 43,SABAH,P. 185,BATU SAPI,N. 43,SEKONG,,,Boundary has changed. Moved from Libaran parliamentary constituency to newly created Batu Sapi constituency
+,,,,,,P. 184_N. 41,SABAH,P. 184,LIBARAN,N. 41,GUM-GUM,,Y,"Originated from Sekong, Labuk and Sungai Sibuga"
+P. 161_N. 36,SABAH,P. 161,SANDAKAN,N. 36,ELOPURA,P. 186_N. 45,SABAH,P. 186,SANDAKAN,N. 45,ELOPURA,,,
+P. 161_N. 37,SABAH,P. 161,SANDAKAN,N. 37,TANJONG PAPAT,P. 186_N. 46,SABAH,P. 186,SANDAKAN,N. 46,TANJONG PAPAT,,,
+P. 161_N. 38,SABAH,P. 161,SANDAKAN,N. 38,KARAMUNTING,P. 185_N. 44,SABAH,P. 185,BATU SAPI,N. 44,KARAMUNTING,,,Moved from Sandakan parliamentary constituency to newly created Batu Sapi constituency
+P. 162_N. 39,SABAH,P. 162,KINABATANGAN,N. 39,SUKAU,P. 187_N. 48,SABAH,P. 187,KINABATANGAN,N. 48,SUKAU,,,Boundary has changed
+P. 162_N. 40,SABAH,P. 162,KINABATANGAN,N. 40,KUAMUT,P. 187_N. 47,SABAH,P. 187,KINABATANGAN,N. 47,KUAMUT,,,Boundary has changed
+P. 163_N. 41,SABAH,P. 163,SILAM,N. 41,KUNAK,P. 188_N. 51,SABAH,P. 188,SILAM,N. 51,KUNAK,,,Boundary has changed
+P. 163_N. 42,SABAH,P. 163,SILAM,N. 42,LAHAD DATU,P. 188_N. 50,SABAH,P. 188,SILAM,N. 50,LAHAD DATU,,,Boundary has changed
+,,,,,,P. 188_N. 49,SABAH,P. 188,SILAM,N. 49,TUNGKU,,Y,Originated from Lahad Datu
+P. 164_N. 43,SABAH,P. 164,SEMPORNA,N. 43,SULABAYAN,P. 189_N. 52,SABAH,P. 189,SEMPORNA,N. 52,SULABAYAN,,,
+P. 164_N. 44,SABAH,P. 164,SEMPORNA,N. 44,SENALLANG,P. 189_N. 53,SABAH,P. 189,SEMPORNA,N. 53,SENALLANG,,,
+,,,,,,P. 189_N. 54,SABAH,P. 189,SEMPORNA,N. 54,BUGAYA,,Y,Originated from Kunak. Now under Semporna parliamentary constituency
+P. 164_N. 45,SABAH,P. 164,SEMPORNA,N. 45,BALUNG,P. 190_N. 55,SABAH,P. 190,TAWAU,N. 55,BALUNG,,,Boundary has changed. Moved from Semporna parliamentary constituency to Tawau constituency
+P. 165_N. 46,SABAH,P. 165,TAWAU,N. 46,MEROTAI,P. 191_N. 58,SABAH,P. 191,KALABAKAN,N. 58,MEROTAI,,,Boundary has changed. Moved from Tawau parliamentary constituency to new Kalabakan constituency
+P. 165_N. 47,SABAH,P. 165,TAWAU,N. 47,KALABAKAN,,,,,,,,,Split into Tanjong Batu and Sebatik. Kalabakan became parliamentary constituency
+P. 165_N. 48,SABAH,P. 165,TAWAU,N. 48,SRI TANJUNG,P. 190_N. 57,SABAH,P. 190,TAWAU,N. 57,SRI TANJONG,,,Boundary has changed
+,,,,,,P. 190_N. 56,SABAH,P. 190,TAWAU,N. 56,APAS,,Y,Originated from Balung
+,,,,,,P. 191_N. 59,SABAH,P. 191,KALABAKAN,N. 59,TANJONG BATU,,Y,Originated largely from Kalabakan and Merotai. Moved from Tawau parliamentary constituency to new Kalabkan constituency
+,,,,,,P. 191_N. 60,SABAH,P. 191,KALABAKAN,N. 60,SEBATIK,,Y,Originated from Kalabakan and small part of Sri Tanjung. Moved from Tawau parliamentary constituency to new Kalabakan constituency
