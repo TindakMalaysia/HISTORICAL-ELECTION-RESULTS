@@ -15,3 +15,6 @@ The contents of the file is evolving and may be changed anytime
 **NOTICE OF CORRECTION (5/6/2025)**
 - Spelling corrections for Parliamentary Constituency Codes, Constituencies and Names
 - Corrections were made for DUN and Parliamentary files to fix inconsistencies and spelling issues
+**NOTICE OF UPDATE (4/7/2025)**
+- Updated the turnout value to two decimal places for Parliamentary file
+- Updated the metadata for the Parliamentary file
