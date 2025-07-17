@@ -7,4 +7,7 @@ IT is a requirement that all users ought to read the metadata of every dataset a
 - Sabah DUN Campaign Period is an estimate and may require further verification
 - 
 **NOTICE OF UPDATE (9/6/2025)
-- Sabah women election candidates and elected representatives file has been uploaded. Information may have errors here and there. Information is originally from various Github election results of Tindak Malaysia The file contents may be changed time to time
+- Sabah women election candidates and elected representatives file has been uploaded. Information may have errors here and there. Information is originally from various Github election results of Tindak Malaysia. The file contents may be changed time to time
+
+**NOTICE OF UPDATE (17/7/2025)
+- Electoral Summaries are derived from Tindak Malaysia's Github. There are known discrepancies or questionable information from EC on total electorate count for certain cycles. The information may be changed from time to time
