@@ -11,3 +11,6 @@ IT is a requirement that all users ought to read the metadata of every dataset a
 
 **NOTICE OF UPDATE (17/7/2025)
 - Electoral Summaries are derived from Tindak Malaysia's Github. There are known discrepancies or questionable information from EC on total electorate count for certain cycles. The information may be changed from time to time
+
+**NOTICE OF UPDATE (18/7/2025)
+- Minor correction for Federal Election Summary Polling Dates
