@@ -1,14 +1,14 @@
 ﻿Created on,26/7/2024,
 Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA),
 Sources,"Laporan Pilihanraya Umum Malaysia 1999, Government Gazettes P.U. (B) 460 - P. U. (B) 474 26th November 1999, International Parliamentary Union, Election Passport, New Straits Times 1st December 1999. For specific Parliamentarian Candidate background details, refer to 1999_Other_Sources_Parliament_File",
-Disclaimers,"Parliamentary Constituency Names follow the EC Map of 1994 (for Peninsular Malaysia, Labuan, and Sabah) and 1996 (for Sarawak). Barisan Alternatif is made up by PAS, DAP, PKR and PRM and during the 1999 elections, certain parties within Barisan Alternatif clashed among themselves. Dr Kumar is a member of Parti Sosialis Malaysia (then as unregistered party) and contested under DAP ticket. Zaitun Kassim is an independent candidate, who contested under DAP ticket (for Selayang) and she was fielded by Women's Candidacy Initiative. EC has made mistakes in quantifying the number of candidates losing deposits (missed out on the PAS candidate of Kota Belud for losing deposit). Missing Information of Independent's symbol for PJ Selatan (Selangor) and Julau (Sarawak). EC report has made an error in writing the majority of 9215 for Kota Samarahan (Sarawak). EC report has contradictory or alternate values for turnout rates for Pasir Mas (Kelantan), Tanjong (Pulau Pinang), Jelutong (Pulau Pinang), Gerik (Perak), Parit Buntar (Perak), Bagan Serai (Perak), Chenderoh (Perak), Sungai Siput (Perak), Tambun (Perak), Ipoh Timor (Perak), Ipoh Barat (Perak), Batu Gajah (Perak), Kuala Kangsar (Perak), Beruas (Perak), Parit (Perak), Bagan Datok (Perak), Telok Intan (Perak), Tanjong Malim (Perak), Hulu Selangor (Selangor), Subang (Selangor), Shah Alam (Selangor), Kapar (Selangor), Ledang (Johor) and Papar (Sabah). EC report made an error of unreturned votes for Hulu Langat (Selangor) and claiming it is 440. EC report made mistake for total valid votes for BN candidate of Kuantan (claiming it is 28479) and Kanowit (claiming it is 7782). EC report has contradictory values for total electors (claiming it is 9564071), total ballots issued, total rejected votes and total valid votes for majority of coalitions and political parties (refer to table below). EC report has contradictory values of total electors of Terengganu (claiming there are 387339 voters) and Perak (claiming there are 1159858 voters). 1999_PARLIAMENTARY_CANDIDATE_NOTES file shows which candidates require sex category verification. Postal Vote Statistics are derived from Laporan Pilihan Raya Umum  Malaysia 1999, Suruhanjaya Pilihan Raya. TindakMalaysia Network Services PLT is not responsible for any errors or ommissions arising from the original data or its derivatives",
+Disclaimers,"Parliamentary Constituency Names follow the EC Map of 1994 (for Peninsular Malaysia, Labuan, and Sabah) and 1996 (for Sarawak). Barisan Alternatif is made up by PAS, DAP, PKN and PRM and during the 1999 elections, certain parties within Barisan Alternatif clashed among themselves. Dr Kumar is a member of Parti Sosialis Malaysia (then as unregistered party) and contested under DAP ticket. Zaitun Kassim is an independent candidate, who contested under DAP ticket (for Selayang) and she was fielded by Women's Candidacy Initiative. EC has made mistakes in quantifying the number of candidates losing deposits (missed out on the PAS candidate of Kota Belud for losing deposit). Missing Information of Independent's symbol for PJ Selatan (Selangor) and Julau (Sarawak). EC report has made an error in writing the majority of 9215 for Kota Samarahan (Sarawak). EC report has contradictory or alternate values for turnout rates for Pasir Mas (Kelantan), Tanjong (Pulau Pinang), Jelutong (Pulau Pinang), Gerik (Perak), Parit Buntar (Perak), Bagan Serai (Perak), Chenderoh (Perak), Sungai Siput (Perak), Tambun (Perak), Ipoh Timor (Perak), Ipoh Barat (Perak), Batu Gajah (Perak), Kuala Kangsar (Perak), Beruas (Perak), Parit (Perak), Bagan Datok (Perak), Telok Intan (Perak), Tanjong Malim (Perak), Hulu Selangor (Selangor), Subang (Selangor), Shah Alam (Selangor), Kapar (Selangor), Ledang (Johor) and Papar (Sabah). EC report made an error of unreturned votes for Hulu Langat (Selangor) and claiming it is 440. EC report made mistake for total valid votes for BN candidate of Kuantan (claiming it is 28479) and Kanowit (claiming it is 7782). EC report has contradictory values for total electors (claiming it is 9564071), total ballots issued, total rejected votes and total valid votes for majority of coalitions and political parties (refer to table below). EC report has contradictory values of total electors of Terengganu (claiming there are 387339 voters) and Perak (claiming there are 1159858 voters). 1999_PARLIAMENTARY_CANDIDATE_NOTES file shows which candidates require sex category verification. Postal Vote Statistics are derived from Laporan Pilihan Raya Umum  Malaysia 1999, Suruhanjaya Pilihan Raya. TindakMalaysia Network Services PLT is not responsible for any errors or ommissions arising from the original data or its derivatives",
 ,,
 "Error in Coalition/Party Valid Votes, Total Valid Votes, Rejected Votes",,
 ,EC Report,Tindak Malaysia
 BN,3748511,3761201
 PAS,994279,996713
 DAP,830870,847388
-PKR,773679,767959
+PKN,773679,767959
 PBS,143342,143144
 PRM,68990,69026
 STAR,23354,23254
@@ -47,7 +47,7 @@ BA (1) CANDIDATE SEX,Male/Female Classification,
 BA (1) CANDIDATE AGE,Age of BA Candidate,
 BA (1) VOTE,BA Valid Vote for the Candidate,
 BA (1) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank",
-BA (2),Barisan Alternatif (BA) Component Party (reserved for PKR),
+BA (2),Barisan Alternatif (BA) Component Party (reserved for PKN),
 BA (2) CANDIDATE,BA Candidate Name,
 BA (2) CANDIDATE SEX,Male/Female Classification,
 BA (2) CANDIDATE AGE,Age of Party Candidate,
@@ -99,7 +99,7 @@ SUPP,Sarawak United People's Party,
 PAS,Parti Islam Se-Malaysia,
 DAP,Democratic Action Party,
 PRM,Parti Rakyat Malaysia,
-PKR,Parti Keadilan Rakyat,
+PKN,Parti Keadilan Nasional,
 PBS,Parti Bersatu Sabah,
 AKIM,Parti Angkatan Keadilan Insan Malaysia,
 BERJASA,Barisan Jemaah Islamiah,
