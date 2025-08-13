@@ -1,0 +1,331 @@
+﻿UNIQUE CODE,STATE,PARLIAMENTARY CONSTITUENCY CODE,PARLIAMENTARY CONSTITUENCY NAME,STATE CONSTITUENCY CODE,STATE CONSTITUENCY NAME,AREA (SQ KM),NOTES
+P. 1_S. 1,PERLIS,P. 1,PERLIS UTARA,S. 1,KAKI BUKIT,267.65,Computed using Tindak Malaysia's electoral boundary files
+P. 1_S. 2,PERLIS,P. 1,PERLIS UTARA,S. 2,PAYA,27.81,Computed using Tindak Malaysia's electoral boundary files
+P. 1_S. 3,PERLIS,P. 1,PERLIS UTARA,S. 3,MATA AYER,103.58,Computed using Tindak Malaysia's electoral boundary files
+P. 1_S. 4,PERLIS,P. 1,PERLIS UTARA,S. 4,BANDAR KANGAR,5.54,Computed using Tindak Malaysia's electoral boundary files
+P. 1_S. 5,PERLIS,P. 1,PERLIS UTARA,S. 5,SENA,27.77,Computed using Tindak Malaysia's electoral boundary files
+P. 1_S. 6,PERLIS,P. 1,PERLIS UTARA,S. 6,BINTONG,70.13,Computed using Tindak Malaysia's electoral boundary files
+P. 2_S. 7,PERLIS,P. 2,PERLIS SELATAN,S. 7,KURONG ANAI,119.95,Computed using Tindak Malaysia's electoral boundary files
+P. 2_S. 8,PERLIS,P. 2,PERLIS SELATAN,S. 8,ARAU,42.09,Computed using Tindak Malaysia's electoral boundary files
+P. 2_S. 9,PERLIS,P. 2,PERLIS SELATAN,S. 9,HUTAN AJI,39.96,Computed using Tindak Malaysia's electoral boundary files
+P. 2_S. 10,PERLIS,P. 2,PERLIS SELATAN,S. 10,KAYANG,40.97,Computed using Tindak Malaysia's electoral boundary files
+P. 2_S. 11,PERLIS,P. 2,PERLIS SELATAN,S. 11,KUALA PERLIS,26.80,Computed using Tindak Malaysia's electoral boundary files
+P. 2_S. 12,PERLIS,P. 2,PERLIS SELATAN,S. 12,SANGLANG,48.15,Computed using Tindak Malaysia's electoral boundary files
+P. 3_S. 1,KEDAH,P. 3,JITRA - PADANG TERAP,S. 1,JITRA,569.89,Computed using Tindak Malaysia's electoral boundary files
+P. 3_S. 2,KEDAH,P. 3,JITRA - PADANG TERAP,S. 2,PADANG TERAP,1438.80,Computed using Tindak Malaysia's electoral boundary files
+P. 4_S. 3,KEDAH,P. 4,KUBANG PASU BARAT,S. 3,JERLUN KODIANG,137.00,Computed using Tindak Malaysia's electoral boundary files
+P. 4_S. 4,KEDAH,P. 4,KUBANG PASU BARAT,S. 4,TUNJANG,162.01,Computed using Tindak Malaysia's electoral boundary files
+P. 5_S. 5,KEDAH,P. 5,KOTA STAR UTARA,S. 5,LANGGAR - LIMBONG,158.55,Computed using Tindak Malaysia's electoral boundary files
+P. 5_S. 6,KEDAH,P. 5,KOTA STAR UTARA,S. 6,POKOK SENA,299.30,Computed using Tindak Malaysia's electoral boundary files
+P. 6_S. 7,KEDAH,P. 6,ALOR STAR,S. 7,ALOR STAR PEKAN,7.28,Computed using Tindak Malaysia's electoral boundary files
+P. 6_S. 8,KEDAH,P. 6,ALOR STAR,S. 8,ALOR STAR LUAR,77.15,Computed using Tindak Malaysia's electoral boundary files
+P. 7_S. 9,KEDAH,P. 7,KUALA KEDAH,S. 9,LANGKAWI,504.71,Computed using Tindak Malaysia's electoral boundary files
+P. 7_S. 10,KEDAH,P. 7,KUALA KEDAH,S. 10,KOTA STAR BARAT,141.89,Computed using Tindak Malaysia's electoral boundary files
+P. 8_S. 11,KEDAH,P. 8,KOTA STAR SELATAN,S. 11,KANGKONG BUKIT RAYA,141.26,Computed using Tindak Malaysia's electoral boundary files
+P. 8_S. 12,KEDAH,P. 8,KOTA STAR SELATAN,S. 12,PADANG,441.77,Computed using Tindak Malaysia's electoral boundary files
+P. 9_S. 13,KEDAH,P. 9,KEDAH TENGAH,S. 13,SIK - GURUN,1754.29,Computed using Tindak Malaysia's electoral boundary files
+P. 9_S. 14,KEDAH,P. 9,KEDAH TENGAH,S. 14,KOTA,216.82,Computed using Tindak Malaysia's electoral boundary files
+P. 10_S. 15,KEDAH,P. 10,JERAI,S. 15,SALA,159.41,Computed using Tindak Malaysia's electoral boundary files
+P. 10_S. 16,KEDAH,P. 10,JERAI,S. 16,YEN-MERBOK,203.06,Computed using Tindak Malaysia's electoral boundary files
+P. 11_S. 17,KEDAH,P. 11,BALING,S. 17,BALING TIMOR,815.06,Computed using Tindak Malaysia's electoral boundary files
+P. 11_S. 18,KEDAH,P. 11,BALING,S. 18,BALING BARAT,446.04,Computed using Tindak Malaysia's electoral boundary files
+P. 12_S. 19,KEDAH,P. 12,SUNGEI PATANI,S. 19,PEKAN SUNGEI PATANI,34.18,Computed using Tindak Malaysia's electoral boundary files
+P. 12_S. 20,KEDAH,P. 12,SUNGEI PATANI,S. 20,SUNGEI PATANI LUAR,354.65,Computed using Tindak Malaysia's electoral boundary files
+P. 13_S. 21,KEDAH,P. 13,KULIM UTARA,S. 21,SIDAM,251.70,Computed using Tindak Malaysia's electoral boundary files
+P. 13_S. 22,KEDAH,P. 13,KULIM UTARA,S. 22,LUNAS,502.24,Computed using Tindak Malaysia's electoral boundary files
+P. 14_S. 23,KEDAH,P. 14,KULIM - BANDAR BAHRU,S. 23,KULIM,397.64,Computed using Tindak Malaysia's electoral boundary files
+P. 14_S. 24,KEDAH,P. 14,KULIM - BANDAR BAHRU,S. 24,BANDAR BAHRU,270.47,Computed using Tindak Malaysia's electoral boundary files
+P. 15_S. 1,KELANTAN,P. 15,TUMPAT,S. 1,TUMPAT BARAT,70.73,Computed using Tindak Malaysia's electoral boundary files
+P. 15_S. 2,KELANTAN,P. 15,TUMPAT,S. 2,TUMPAT TENGAH,51.94,Computed using Tindak Malaysia's electoral boundary files
+P. 15_S. 3,KELANTAN,P. 15,TUMPAT,S. 3,TUMPAT TIMOR,43.96,Computed using Tindak Malaysia's electoral boundary files
+P. 16_S. 4,KELANTAN,P. 16,KELANTAN HILIR,S. 4,KUALA KELANTAN,48.49,Computed using Tindak Malaysia's electoral boundary files
+P. 16_S. 5,KELANTAN,P. 16,KELANTAN HILIR,S. 5,KOTA BHARU UTARA,34.47,Computed using Tindak Malaysia's electoral boundary files
+P. 16_S. 6,KELANTAN,P. 16,KELANTAN HILIR,S. 6,KOTA BHARU PANTAI,50.00,Computed using Tindak Malaysia's electoral boundary files
+P. 17_S. 7,KELANTAN,P. 17,PASIR MAS HILIR,S. 7,MERANTI,81.99,Computed using Tindak Malaysia's electoral boundary files
+P. 17_S. 8,KELANTAN,P. 17,PASIR MAS HILIR,S. 8,TENDONG,58.61,Computed using Tindak Malaysia's electoral boundary files
+P. 17_S. 9,KELANTAN,P. 17,PASIR MAS HILIR,S. 9,BANDAR PASIR MAS,38.10,Computed using Tindak Malaysia's electoral boundary files
+P. 18_S. 10,KELANTAN,P. 18,KOTA BHARU HILIR,S. 10,BANDAR HILIR,5.14,Computed using Tindak Malaysia's electoral boundary files
+P. 18_S. 11,KELANTAN,P. 18,KOTA BHARU HILIR,S. 11,BANDAR HULU,16.61,Computed using Tindak Malaysia's electoral boundary files
+P. 18_S. 12,KELANTAN,P. 18,KOTA BHARU HILIR,S. 12,KOTA BHARU TENGAH,42.48,Computed using Tindak Malaysia's electoral boundary files
+P. 19_S. 13,KELANTAN,P. 19,BACHOK,S. 13,BACHOK UTARA,78.55,Computed using Tindak Malaysia's electoral boundary files
+P. 19_S. 14,KELANTAN,P. 19,BACHOK,S. 14,BACHOK TENGAH,51.85,Computed using Tindak Malaysia's electoral boundary files
+P. 19_S. 15,KELANTAN,P. 19,BACHOK,S. 15,BACHOK SELATAN,152.00,Computed using Tindak Malaysia's electoral boundary files
+P. 20_S. 16,KELANTAN,P. 20,KOTA BHARU HULU,S. 16,KOTA BHARU TIMOR,82.88,Computed using Tindak Malaysia's electoral boundary files
+P. 20_S. 17,KELANTAN,P. 20,KOTA BHARU HULU,S. 17,KOTA BHARU BARAT,66.13,Computed using Tindak Malaysia's electoral boundary files
+P. 20_S. 18,KELANTAN,P. 20,KOTA BHARU HULU,S. 18,KOTA BHARU SELATAN,97.85,Computed using Tindak Malaysia's electoral boundary files
+P. 21_S. 19,KELANTAN,P. 21,PASIR MAS HULU,S. 19,RANTAU PANJANG,198.74,Computed using Tindak Malaysia's electoral boundary files
+P. 21_S. 20,KELANTAN,P. 21,PASIR MAS HULU,S. 20,LEMAL,151.16,Computed using Tindak Malaysia's electoral boundary files
+P. 21_S. 21,KELANTAN,P. 21,PASIR MAS HULU,S. 21,TOK UBAN,121.14,Computed using Tindak Malaysia's electoral boundary files
+P. 22_S. 22,KELANTAN,P. 22,PASIR PUTEH,S. 22,PASIR PUTEH UTARA,112.44,Computed using Tindak Malaysia's electoral boundary files
+P. 22_S. 23,KELANTAN,P. 22,PASIR PUTEH,S. 23,PASIR PUTEH TENGAH,119.78,Computed using Tindak Malaysia's electoral boundary files
+P. 22_S. 24,KELANTAN,P. 22,PASIR PUTEH,S. 24,PASIR PUTEH TENGGARA,172.94,Computed using Tindak Malaysia's electoral boundary files
+P. 23_S. 25,KELANTAN,P. 23,TANAH MERAH,S. 25,MACHANG UTARA,183.48,Computed using Tindak Malaysia's electoral boundary files
+P. 23_S. 26,KELANTAN,P. 23,TANAH MERAH,S. 26,TANAH MERAH TIMOR,554.38,Computed using Tindak Malaysia's electoral boundary files
+P. 23_S. 27,KELANTAN,P. 23,TANAH MERAH,S. 27,TANAH MERAH BARAT,967.98,Computed using Tindak Malaysia's electoral boundary files
+P. 24_S. 28,KELANTAN,P. 24,ULU KELANTAN,S. 28,MACHANG SELATAN,336.91,Computed using Tindak Malaysia's electoral boundary files
+P. 24_S. 29,KELANTAN,P. 24,ULU KELANTAN,S. 29,ULU KELANTAN TIMOR,4408.73,Computed using Tindak Malaysia's electoral boundary files
+P. 24_S. 30,KELANTAN,P. 24,ULU KELANTAN,S. 30,ULU KELANTAN BARAT,6675.43,Computed using Tindak Malaysia's electoral boundary files
+P. 25_S. 1,TRENGGANU,P. 25,BESUT,S. 1,KUALA BESUT,88.52,Computed using Tindak Malaysia's electoral boundary files
+P. 25_S. 2,TRENGGANU,P. 25,BESUT,S. 2,KAMPONG RAJA,90.28,Computed using Tindak Malaysia's electoral boundary files
+P. 25_S. 3,TRENGGANU,P. 25,BESUT,S. 3,ULU BESUT,840.49,Computed using Tindak Malaysia's electoral boundary files
+P. 25_S. 4,TRENGGANU,P. 25,BESUT,S. 4,BESUT TENGAH,196.43,Computed using Tindak Malaysia's electoral boundary files
+P. 25_S. 5,TRENGGANU,P. 25,BESUT,S. 5,SETIU,761.84,Computed using Tindak Malaysia's electoral boundary files
+P. 26_S. 6,TRENGGANU,P. 26,KUALA TRENGGANU UTARA,S. 6,BATU RAKIT,226.65,Computed using Tindak Malaysia's electoral boundary files
+P. 26_S. 7,TRENGGANU,P. 26,KUALA TRENGGANU UTARA,S. 7,KUALA NERUS,66.52,Computed using Tindak Malaysia's electoral boundary files
+P. 26_S. 8,TRENGGANU,P. 26,KUALA TRENGGANU UTARA,S. 8,JERAM,68.17,Computed using Tindak Malaysia's electoral boundary files
+P. 26_S. 9,TRENGGANU,P. 26,KUALA TRENGGANU UTARA,S. 9,LANGKAP,746.42,Computed using Tindak Malaysia's electoral boundary files
+P. 27_S. 10,TRENGGANU,P. 27,KUALA TRENGGANU SELATAN,S. 10,BANDAR,8.71,Computed using Tindak Malaysia's electoral boundary files
+P. 27_S. 11,TRENGGANU,P. 27,KUALA TRENGGANU SELATAN,S. 11,LADANG,8.51,Computed using Tindak Malaysia's electoral boundary files
+P. 27_S. 12,TRENGGANU,P. 27,KUALA TRENGGANU SELATAN,S. 12,BUKIT BESAR,13.13,Computed using Tindak Malaysia's electoral boundary files
+P. 27_S. 13,TRENGGANU,P. 27,KUALA TRENGGANU SELATAN,S. 13,BATU BUROK,29.56,Computed using Tindak Malaysia's electoral boundary files
+P. 28_S. 14,TRENGGANU,P. 28,DUNGUN,S. 14,MARANG,579.67,Computed using Tindak Malaysia's electoral boundary files
+P. 28_S. 15,TRENGGANU,P. 28,DUNGUN,S. 15,SURA,63.77,Computed using Tindak Malaysia's electoral boundary files
+P. 28_S. 16,TRENGGANU,P. 28,DUNGUN,S. 16,ULU DUNGUN,680.33,Computed using Tindak Malaysia's electoral boundary files
+P. 29_S. 17,TRENGGANU,P. 29,KEMAMAN,S. 17,PAKA KERTEH,2231.08,Computed using Tindak Malaysia's electoral boundary files
+P. 29_S. 18,TRENGGANU,P. 29,KEMAMAN,S. 18,KEMAMAN UTARA,388.24,Computed using Tindak Malaysia's electoral boundary files
+P. 29_S. 19,TRENGGANU,P. 29,KEMAMAN,S. 19,CHUKAI,6.29,Computed using Tindak Malaysia's electoral boundary files
+P. 29_S. 20,TRENGGANU,P. 29,KEMAMAN,S. 20,KEMAMAN SELATAN,1889.23,Computed using Tindak Malaysia's electoral boundary files
+P. 30_S. 21,TRENGGANU,P. 30,TRENGGANU TENGAH,S. 21,KUALA TRENGGANU TENGAH,47.62,Computed using Tindak Malaysia's electoral boundary files
+P. 30_S. 22,TRENGGANU,P. 30,TRENGGANU TENGAH,S. 22,BINJAI,149.46,Computed using Tindak Malaysia's electoral boundary files
+P. 30_S. 23,TRENGGANU,P. 30,TRENGGANU TENGAH,S. 23,ULU TRENGGANU TIMOR,273.84,Computed using Tindak Malaysia's electoral boundary files
+P. 30_S. 24,TRENGGANU,P. 30,TRENGGANU TENGAH,S. 24,ULU TRENGGANU BARAT,3561.86,Computed using Tindak Malaysia's electoral boundary files
+P. 31_S. 1,PENANG,P. 31,BAGAN,S. 1,BUTTERWORTH,7.63,Computed using Tindak Malaysia's electoral boundary files
+P. 31_S. 2,PENANG,P. 31,BAGAN,S. 2,BAGAN AJAM,27.23,Computed using Tindak Malaysia's electoral boundary files
+P. 32_S. 3,PENANG,P. 32,SEBERANG TENGAH,S. 3,PERMATANG PAUH,106.71,Computed using Tindak Malaysia's electoral boundary files
+P. 32_S. 4,PENANG,P. 32,SEBERANG TENGAH,S. 4,BUKIT MERTAJAM,15.60,Computed using Tindak Malaysia's electoral boundary files
+P. 32_S. 5,PENANG,P. 32,SEBERANG TENGAH,S. 5,ALMA,109.15,Computed using Tindak Malaysia's electoral boundary files
+P. 33_S. 6,PENANG,P. 33,SEBERANG SELATAN,S. 6,SUNGEI BAKAP,156.88,Computed using Tindak Malaysia's electoral boundary files
+P. 33_S. 7,PENANG,P. 33,SEBERANG SELATAN,S. 7,NIBONG TEBAL,83.55,Computed using Tindak Malaysia's electoral boundary files
+P. 34_S. 8,PENANG,P. 34,PENANG UTARA,S. 8,KELAWAI,5.19,Computed using Tindak Malaysia's electoral boundary files
+P. 34_S. 9,PENANG,P. 34,PENANG UTARA,S. 9,DHOBY GHAUT,8.50,Computed using Tindak Malaysia's electoral boundary files
+P. 34_S. 10,PENANG,P. 34,PENANG UTARA,S. 10,TANJONG BUNGAH,87.11,Computed using Tindak Malaysia's electoral boundary files
+P. 34_S. 11,PENANG,P. 34,PENANG UTARA,S. 11,AYER ITAM,34.97,Computed using Tindak Malaysia's electoral boundary files
+P. 35_S. 12,PENANG,P. 35,PENANG SELATAN,S. 12,JELUTONG,3.80,Computed using Tindak Malaysia's electoral boundary files
+P. 35_S. 13,PENANG,P. 35,PENANG SELATAN,S. 13,GLUGOR,40.38,Computed using Tindak Malaysia's electoral boundary files
+P. 35_S. 14,PENANG,P. 35,PENANG SELATAN,S. 14,BALIK PULAU,47.37,Computed using Tindak Malaysia's electoral boundary files
+P. 35_S. 15,PENANG,P. 35,PENANG SELATAN,S. 15,BAYAN LEPAS,58.04,Computed using Tindak Malaysia's electoral boundary files
+P. 36_S. 16,PENANG,P. 36,TANJONG,S. 16,KOTA,0.87,Computed using Tindak Malaysia's electoral boundary files
+P. 36_S. 17,PENANG,P. 36,TANJONG,S. 17,TANJONG TENGAH,0.56,Computed using Tindak Malaysia's electoral boundary files
+P. 36_S. 18,PENANG,P. 36,TANJONG,S. 18,TANJONG UTARA,1.54,Computed using Tindak Malaysia's electoral boundary files
+P. 37_S. 19,PENANG,P. 37,DATO KRAMAT,S. 19,TANJONG BARAT,0.95,Computed using Tindak Malaysia's electoral boundary files
+P. 37_S. 20,PENANG,P. 37,DATO KRAMAT,S. 20,SUNGEI PINANG,1.86,Computed using Tindak Malaysia's electoral boundary files
+P. 37_S. 21,PENANG,P. 37,DATO KRAMAT,S. 21,TANJONG SELATAN,0.54,Computed using Tindak Malaysia's electoral boundary files
+P. 38_S. 22,PENANG,P. 38,SEBERANG UTARA,S. 22,MUDA,80.24,Computed using Tindak Malaysia's electoral boundary files
+P. 38_S. 23,PENANG,P. 38,SEBERANG UTARA,S. 23,KEPALA BATAS,48.02,Computed using Tindak Malaysia's electoral boundary files
+P. 38_S. 24,PENANG,P. 38,SEBERANG UTARA,S. 24,TASEK GLUGOR,104.57,Computed using Tindak Malaysia's electoral boundary files
+P. 39_S. 1,PERAK,P. 39,ULU PERAK,S. 1,GRIK,5608.61,Computed using Tindak Malaysia's electoral boundary files
+P. 39_S. 2,PERAK,P. 39,ULU PERAK,S. 2,LENGGONG,1118.34,Computed using Tindak Malaysia's electoral boundary files
+P. 40_S. 3,PERAK,P. 40,LARUT UTARA,S. 3,SELAMA,743.79,Computed using Tindak Malaysia's electoral boundary files
+P. 40_S. 4,PERAK,P. 40,LARUT UTARA,S. 4,LARUT,421.23,Computed using Tindak Malaysia's electoral boundary files
+P. 41_S. 5,PERAK,P. 41,KRIAN LAUT,S. 5,PARIT BUNTAR,107.03,Computed using Tindak Malaysia's electoral boundary files
+P. 41_S. 6,PERAK,P. 41,KRIAN LAUT,S. 6,KUALA KURAU,92.17,Computed using Tindak Malaysia's electoral boundary files
+P. 42_S. 7,PERAK,P. 42,KRIAN DARAT,S. 7,BAGAN SERAI,211.12,Computed using Tindak Malaysia's electoral boundary files
+P. 42_S. 8,PERAK,P. 42,KRIAN DARAT,S. 8,GUNONG SEMANGGOL,533.10,Computed using Tindak Malaysia's electoral boundary files
+P. 43_S. 9,PERAK,P. 43,LARUT SELATAN,S. 9,TAIPING,59.13,Computed using Tindak Malaysia's electoral boundary files
+P. 43_S. 10,PERAK,P. 43,LARUT SELATAN,S. 10,MATANG,420.56,Computed using Tindak Malaysia's electoral boundary files
+P. 44_S. 11,PERAK,P. 44,HILIR PERAK,S. 11,SUNGEI MANIK,144.91,Computed using Tindak Malaysia's electoral boundary files
+P. 44_S. 12,PERAK,P. 44,HILIR PERAK,S. 12,BANDAR,480.14,Computed using Tindak Malaysia's electoral boundary files
+P. 45_S. 13,PERAK,P. 45,KUALA KANGSAR,S. 13,SENGGANG,486.31,Computed using Tindak Malaysia's electoral boundary files
+P. 45_S. 14,PERAK,P. 45,KUALA KANGSAR,S. 14,PADANG RENGAS,377.54,Computed using Tindak Malaysia's electoral boundary files
+P. 46_S. 15,PERAK,P. 46,SUNGEI SIPUT,S. 15,KARAI,1047.59,Computed using Tindak Malaysia's electoral boundary files
+P. 46_S. 16,PERAK,P. 46,SUNGEI SIPUT,S. 16,JALONG,480.10,Computed using Tindak Malaysia's electoral boundary files
+P. 47_S. 17,PERAK,P. 47,PARIT,S. 17,BLANJA,371.69,Computed using Tindak Malaysia's electoral boundary files
+P. 47_S. 18,PERAK,P. 47,PARIT,S. 18,KAMPONG GAJAH,375.71,Computed using Tindak Malaysia's electoral boundary files
+P. 48_S. 19,PERAK,P. 48,BRUAS,S. 19,PENGKALAN BHARU,631.05,Computed using Tindak Malaysia's electoral boundary files
+P. 48_S. 20,PERAK,P. 48,BRUAS,S. 20,AYER TAWAR,473.90,Computed using Tindak Malaysia's electoral boundary files
+P. 49_S. 21,PERAK,P. 49,SITIAWAN,S. 21,LEKIR,382.11,Computed using Tindak Malaysia's electoral boundary files
+P. 49_S. 22,PERAK,P. 49,SITIAWAN,S. 22,LUMUT,202.95,Computed using Tindak Malaysia's electoral boundary files
+P. 50_S. 23,PERAK,P. 50,IPOH,S. 23,PEKAN LAMA,22.35,Computed using Tindak Malaysia's electoral boundary files
+P. 50_S. 24,PERAK,P. 50,IPOH,S. 24,PEKAN BHARU,16.34,Computed using Tindak Malaysia's electoral boundary files
+P. 51_S. 25,PERAK,P. 51,MENGLEMBU,S. 25,PASIR PUTEH,28.44,Computed using Tindak Malaysia's electoral boundary files
+P. 51_S. 26,PERAK,P. 51,MENGLEMBU,S. 26,KUALA PARI,15.48,Computed using Tindak Malaysia's electoral boundary files
+P. 52_S. 27,PERAK,P. 52,ULU KINTA,S. 27,CHEMOR,322.75,Computed using Tindak Malaysia's electoral boundary files
+P. 52_S. 28,PERAK,P. 52,ULU KINTA,S. 28,SUNGEI RAIA,539.10,Computed using Tindak Malaysia's electoral boundary files
+P. 53_S. 29,PERAK,P. 53,BATU GAJAH,S. 29,TANJONG TUALANG,204.36,Computed using Tindak Malaysia's electoral boundary files
+P. 53_S. 30,PERAK,P. 53,BATU GAJAH,S. 30,PUSING,146.30,Computed using Tindak Malaysia's electoral boundary files
+P. 54_S. 31,PERAK,P. 54,KAMPAR,S. 31,GOPENG,409.10,Computed using Tindak Malaysia's electoral boundary files
+P. 54_S. 32,PERAK,P. 54,KAMPAR,S. 32,KUALA DIPANG,265.91,Computed using Tindak Malaysia's electoral boundary files
+P. 55_S. 33,PERAK,P. 55,TANJONG MALIM,S. 33,BIDOR,772.68,Computed using Tindak Malaysia's electoral boundary files
+P. 55_S. 34,PERAK,P. 55,TANJONG MALIM,S. 34,SLIM,1082.19,Computed using Tindak Malaysia's electoral boundary files
+P. 56_S. 35,PERAK,P. 56,TELOK ANSON,S. 35,BATAK RABIT,500.31,Computed using Tindak Malaysia's electoral boundary files
+P. 56_S. 36,PERAK,P. 56,TELOK ANSON,S. 36,PASIR BEDAMAR,90.58,Computed using Tindak Malaysia's electoral boundary files
+P. 57_S. 37,PERAK,P. 57,BAGAN DATOH,S. 37,RUNGKUP,300.04,Computed using Tindak Malaysia's electoral boundary files
+P. 57_S. 38,PERAK,P. 57,BAGAN DATOH,S. 38,HUTAN MELINTANG,596.78,Computed using Tindak Malaysia's electoral boundary files
+P. 58_S. 39,PERAK,P. 58,BATANG PADANG,S. 39,TAPAH ROAD,702.22,Computed using Tindak Malaysia's electoral boundary files
+P. 58_S. 40,PERAK,P. 58,BATANG PADANG,S. 40,TAPAH,177.90,Computed using Tindak Malaysia's electoral boundary files
+P. 59_S. 1,PAHANG,P. 59,RAUB,S. 1,CAMERON HIGHLANDS,696.29,Computed using Tindak Malaysia's electoral boundary files
+P. 59_S. 2,PAHANG,P. 59,RAUB,S. 2,DONG,3326.39,Computed using Tindak Malaysia's electoral boundary files
+P. 59_S. 3,PAHANG,P. 59,RAUB,S. 3,BANDAR RAUB,10.11,Computed using Tindak Malaysia's electoral boundary files
+P. 59_S. 4,PAHANG,P. 59,RAUB,S. 4,TRAS,984.80,Computed using Tindak Malaysia's electoral boundary files
+P. 60_S. 5,PAHANG,P. 60,BENTONG,S. 5,SABAI,1132.12,Computed using Tindak Malaysia's electoral boundary files
+P. 60_S. 6,PAHANG,P. 60,BENTONG,S. 6,BANDAR BENTONG,264.66,Computed using Tindak Malaysia's electoral boundary files
+P. 60_S. 7,PAHANG,P. 60,BENTONG,S. 7,BENUS,427.61,Computed using Tindak Malaysia's electoral boundary files
+P. 60_S. 8,PAHANG,P. 60,BENTONG,S. 8,MENTAKAB,841.37,Computed using Tindak Malaysia's electoral boundary files
+P. 61_S. 9,PAHANG,P. 61,KUANTAN,S. 9,TANAH PUTEH,11.40,Computed using Tindak Malaysia's electoral boundary files
+P. 61_S. 10,PAHANG,P. 61,KUANTAN,S. 10,TELOK SISEK,49.87,Computed using Tindak Malaysia's electoral boundary files
+P. 61_S. 11,PAHANG,P. 61,KUANTAN,S. 11,BESERAH,546.60,Computed using Tindak Malaysia's electoral boundary files
+P. 61_S. 12,PAHANG,P. 61,KUANTAN,S. 12,ULU KUANTAN,2138.83,Computed using Tindak Malaysia's electoral boundary files
+P. 62_S. 13,PAHANG,P. 62,PEKAN,S. 13,KUALA PAHANG,478.67,Computed using Tindak Malaysia's electoral boundary files
+P. 62_S. 14,PAHANG,P. 62,PEKAN,S. 14,PAHANG TUA,2331.24,Computed using Tindak Malaysia's electoral boundary files
+P. 62_S. 15,PAHANG,P. 62,PEKAN,S. 15,ROMPIN,7110.01,Computed using Tindak Malaysia's electoral boundary files
+P. 63_S. 16,PAHANG,P. 63,TEMERLOH,S. 16,CHENOR,2949.30,Computed using Tindak Malaysia's electoral boundary files
+P. 63_S. 17,PAHANG,P. 63,TEMERLOH,S. 17,TRIANG,535.71,Computed using Tindak Malaysia's electoral boundary files
+P. 63_S. 18,PAHANG,P. 63,TEMERLOH,S. 18,KUALA SEMANTAN,293.28,Computed using Tindak Malaysia's electoral boundary files
+P. 63_S. 19,PAHANG,P. 63,TEMERLOH,S. 19,JENDERAK,923.51,Computed using Tindak Malaysia's electoral boundary files
+P. 63_S. 20,PAHANG,P. 63,TEMERLOH,S. 20,SANGGANG,262.91,Computed using Tindak Malaysia's electoral boundary files
+P. 64_S. 21,PAHANG,P. 64,LIPIS,S. 21,JELAI,3996.21,Computed using Tindak Malaysia's electoral boundary files
+P. 64_S. 22,PAHANG,P. 64,LIPIS,S. 22,KUALA LIPIS,279.47,Computed using Tindak Malaysia's electoral boundary files
+P. 64_S. 23,PAHANG,P. 64,LIPIS,S. 23,TANJONG BESAR,902.82,Computed using Tindak Malaysia's electoral boundary files
+P. 64_S. 24,PAHANG,P. 64,LIPIS,S. 24,JERANTUT,5532.16,Computed using Tindak Malaysia's electoral boundary files
+P. 65_S. 1,SELANGOR,P. 65,KUALA SELANGOR,S. 1,TANJONG KARANG,699.99,Computed using Tindak Malaysia's electoral boundary files
+P. 65_S. 2,SELANGOR,P. 65,KUALA SELANGOR,S. 2,KUALA SELANGOR PEKAN,406.11,Computed using Tindak Malaysia's electoral boundary files
+P. 66_S. 3,SELANGOR,P. 66,BATU,S. 3,KEPONG,178.54,Computed using Tindak Malaysia's electoral boundary files
+P. 66_S. 4,SELANGOR,P. 66,BATU,S. 4,PENCHALA,48.42,Computed using Tindak Malaysia's electoral boundary files
+P. 67_S. 5,SELANGOR,P. 67,KAPAR,S. 5,JERAM,211.59,Computed using Tindak Malaysia's electoral boundary files
+P. 67_S. 6,SELANGOR,P. 67,KAPAR,S. 6,SEMENTA,153.23,Computed using Tindak Malaysia's electoral boundary files
+P. 68_S. 7,SELANGOR,P. 68,RAWANG,S. 7,SERENDAH,545.29,Computed using Tindak Malaysia's electoral boundary files
+P. 68_S. 8,SELANGOR,P. 68,RAWANG,S. 8,KUANG,235.38,Computed using Tindak Malaysia's electoral boundary files
+P. 69_S. 9,SELANGOR,P. 69,LANGAT,S. 9,KAJANG,395.11,Computed using Tindak Malaysia's electoral boundary files
+P. 69_S. 10,SELANGOR,P. 69,LANGAT,S. 10,SEMENYIH,387.88,Computed using Tindak Malaysia's electoral boundary files
+P. 70_S. 11,SELANGOR,P. 70,SETAPAK,S. 11,AMPANG,268.47,Computed using Tindak Malaysia's electoral boundary files
+P. 70_S. 12,SELANGOR,P. 70,SETAPAK,S. 12,SENTUL,39.97,Computed using Tindak Malaysia's electoral boundary files
+P. 71_S. 13,SELANGOR,P. 71,BUNGSAR,S. 13,PANTAI,44.66,Computed using Tindak Malaysia's electoral boundary files
+P. 71_S. 14,SELANGOR,P. 71,BUNGSAR,S. 14,SALAK,17.45,Computed using Tindak Malaysia's electoral boundary files
+P. 72_S. 15,SELANGOR,P. 72,BUKIT BINTANG,S. 15,BUKIT NANAS,13.03,Computed using Tindak Malaysia's electoral boundary files
+P. 72_S. 16,SELANGOR,P. 72,BUKIT BINTANG,S. 16,KAMPONG BAHRU,5.98,Computed using Tindak Malaysia's electoral boundary files
+P. 73_S. 17,SELANGOR,P. 73,DAMANSARA,S. 17,SERDANG,209.89,Computed using Tindak Malaysia's electoral boundary files
+P. 73_S. 18,SELANGOR,P. 73,DAMANSARA,S. 18,BUKIT RAJA,189.03,Computed using Tindak Malaysia's electoral boundary files
+P. 74_S. 19,SELANGOR,P. 74,KLANG,S. 19,PORT SWETTENHAM,404.53,Computed using Tindak Malaysia's electoral boundary files
+P. 74_S. 20,SELANGOR,P. 74,KLANG,S. 20,KAMPONG JAWA,175.08,Computed using Tindak Malaysia's electoral boundary files
+P. 75_S. 21,SELANGOR,P. 75,KUALA LANGAT,S. 21,TELOK DATOH,309.90,Computed using Tindak Malaysia's electoral boundary files
+P. 75_S. 22,SELANGOR,P. 75,KUALA LANGAT,S. 22,MORIB,212.12,Computed using Tindak Malaysia's electoral boundary files
+P. 76_S. 23,SELANGOR,P. 76,SEPANG,S. 23,DENGKIL,455.65,Computed using Tindak Malaysia's electoral boundary files
+P. 76_S. 24,SELANGOR,P. 76,SEPANG,S. 24,SUNGEI RAWANG,345.59,Computed using Tindak Malaysia's electoral boundary files
+P. 77_S. 25,SELANGOR,P. 77,SABAK BERNAM,S. 25,SABAK,255.05,Computed using Tindak Malaysia's electoral boundary files
+P. 77_S. 26,SELANGOR,P. 77,SABAK BERNAM,S. 26,SUNGEI BESAR,482.05,Computed using Tindak Malaysia's electoral boundary files
+P. 78_S. 27,SELANGOR,P. 78,ULU SELANGOR,S. 27,ULU BERNAM,944.36,Computed using Tindak Malaysia's electoral boundary files
+P. 78_S. 28,SELANGOR,P. 78,ULU SELANGOR,S. 28,KUALA KUBU,613.99,Computed using Tindak Malaysia's electoral boundary files
+P. 79_S. 1,NEGRI SEMBILAN,P. 79,KUALA PILAH,S. 1,SRI MENANTI,312.80,Computed using Tindak Malaysia's electoral boundary files
+P. 79_S. 2,NEGRI SEMBILAN,P. 79,KUALA PILAH,S. 2,JOHOL,326.78,Computed using Tindak Malaysia's electoral boundary files
+P. 79_S. 3,NEGRI SEMBILAN,P. 79,KUALA PILAH,S. 3,ULU MUAR,206.31,Computed using Tindak Malaysia's electoral boundary files
+P. 79_S. 4,NEGRI SEMBILAN,P. 79,KUALA PILAH,S. 4,PILAH,38.87,Computed using Tindak Malaysia's electoral boundary files
+P. 80_S. 5,NEGRI SEMBILAN,P. 80,SEREMBAN TIMOR,S. 5,RANTAU,163.07,Computed using Tindak Malaysia's electoral boundary files
+P. 80_S. 6,NEGRI SEMBILAN,P. 80,SEREMBAN TIMOR,S. 6,SUNGEI UJONG,207.44,Computed using Tindak Malaysia's electoral boundary files
+P. 80_S. 7,NEGRI SEMBILAN,P. 80,SEREMBAN TIMOR,S. 7,RAHANG,7.49,Computed using Tindak Malaysia's electoral boundary files
+P. 81_S. 8,NEGRI SEMBILAN,P. 81,REMBAU - TAMPIN,S. 8,TERENTANG,153.71,Computed using Tindak Malaysia's electoral boundary files
+P. 81_S. 9,NEGRI SEMBILAN,P. 81,REMBAU - TAMPIN,S. 9,KOTA,139.33,Computed using Tindak Malaysia's electoral boundary files
+P. 81_S. 10,NEGRI SEMBILAN,P. 81,REMBAU - TAMPIN,S. 10,TAMPIN,344.13,Computed using Tindak Malaysia's electoral boundary files
+P. 81_S. 11,NEGRI SEMBILAN,P. 81,REMBAU - TAMPIN,S. 11,GEMAS,491.33,Computed using Tindak Malaysia's electoral boundary files
+P. 82_S. 12,NEGRI SEMBILAN,P. 82,PORT DICKSON,S. 12,JIMAH,167.68,Computed using Tindak Malaysia's electoral boundary files
+P. 82_S. 13,NEGRI SEMBILAN,P. 82,PORT DICKSON,S. 13,LUKUT,76.12,Computed using Tindak Malaysia's electoral boundary files
+P. 82_S. 14,NEGRI SEMBILAN,P. 82,PORT DICKSON,S. 14,SI - RUSA,86.09,Computed using Tindak Malaysia's electoral boundary files
+P. 82_S. 15,NEGRI SEMBILAN,P. 82,PORT DICKSON,S. 15,PASIR PANJANG,204.86,Computed using Tindak Malaysia's electoral boundary files
+P. 82_S. 16,NEGRI SEMBILAN,P. 82,PORT DICKSON,S. 16,LINGGI,160.15,Computed using Tindak Malaysia's electoral boundary files
+P. 83_S. 17,NEGRI SEMBILAN,P. 83,JELEBU - JEMPOL,S. 17,KUALA KLAWANG,731.48,Computed using Tindak Malaysia's electoral boundary files
+P. 83_S. 18,NEGRI SEMBILAN,P. 83,JELEBU - JEMPOL,S. 18,PERTANG,619.01,Computed using Tindak Malaysia's electoral boundary files
+P. 83_S. 19,NEGRI SEMBILAN,P. 83,JELEBU - JEMPOL,S. 19,BAHAU,555.71,Computed using Tindak Malaysia's electoral boundary files
+P. 83_S. 20,NEGRI SEMBILAN,P. 83,JELEBU - JEMPOL,S. 20,ROMPIN,939.54,Computed using Tindak Malaysia's electoral boundary files
+P. 83_S. 21,NEGRI SEMBILAN,P. 83,JELEBU - JEMPOL,S. 21,JEMPOL,137.09,Computed using Tindak Malaysia's electoral boundary files
+P. 84_S. 22,NEGRI SEMBILAN,P. 84,SEREMBAN BARAT,S. 22,LENGGENG,296.73,Computed using Tindak Malaysia's electoral boundary files
+P. 84_S. 23,NEGRI SEMBILAN,P. 84,SEREMBAN BARAT,S. 23,LABU,204.27,Computed using Tindak Malaysia's electoral boundary files
+P. 84_S. 24,NEGRI SEMBILAN,P. 84,SEREMBAN BARAT,S. 24,BUKIT NANAS,71.00,Computed using Tindak Malaysia's electoral boundary files
+P. 85_S. 1,MALACCA,P. 85,MALACCA TENGAH,S. 1,TANJONG KLING,38.78,Computed using Tindak Malaysia's electoral boundary files
+P. 85_S. 2,MALACCA,P. 85,MALACCA TENGAH,S. 2,BUKIT RAMBAI,27.45,Computed using Tindak Malaysia's electoral boundary files
+P. 85_S. 3,MALACCA,P. 85,MALACCA TENGAH,S. 3,BATU BERENDAM,85.50,Computed using Tindak Malaysia's electoral boundary files
+P. 85_S. 4,MALACCA,P. 85,MALACCA TENGAH,S. 4,SEMABOK,60.81,Computed using Tindak Malaysia's electoral boundary files
+P. 85_S. 5,MALACCA,P. 85,MALACCA TENGAH,S. 5,KANDANG,68.19,Computed using Tindak Malaysia's electoral boundary files
+P. 86_S. 6,MALACCA,P. 86,BANDAR MALACCA,S. 6,KOTA SELATAN,0.94,Computed using Tindak Malaysia's electoral boundary files
+P. 86_S. 7,MALACCA,P. 86,BANDAR MALACCA,S. 7,KOTA TENGAH,2.46,Computed using Tindak Malaysia's electoral boundary files
+P. 86_S. 8,MALACCA,P. 86,BANDAR MALACCA,S. 8,KOTA BARAT,5.69,Computed using Tindak Malaysia's electoral boundary files
+P. 86_S. 9,MALACCA,P. 86,BANDAR MALACCA,S. 9,KOTA UTARA,4.28,Computed using Tindak Malaysia's electoral boundary files
+P. 86_S. 10,MALACCA,P. 86,BANDAR MALACCA,S. 10,KOTA TIMOR,3.20,Computed using Tindak Malaysia's electoral boundary files
+P. 87_S. 11,MALACCA,P. 87,MALACCA UTARA,S. 11,SUNGEI BHARU,95.61,Computed using Tindak Malaysia's electoral boundary files
+P. 87_S. 12,MALACCA,P. 87,MALACCA UTARA,S. 12,RAMUAN CHINA,117.39,Computed using Tindak Malaysia's electoral boundary files
+P. 87_S. 13,MALACCA,P. 87,MALACCA UTARA,S. 13,MASJID TANAH,130.67,Computed using Tindak Malaysia's electoral boundary files
+P. 87_S. 14,MALACCA,P. 87,MALACCA UTARA,S. 14,ALOR GAJAH,93.26,Computed using Tindak Malaysia's electoral boundary files
+P. 87_S. 15,MALACCA,P. 87,MALACCA UTARA,S. 15,PULAU SEBANG,75.02,Computed using Tindak Malaysia's electoral boundary files
+P. 88_S. 16,MALACCA,P. 88,MALACCA SELATAN,S. 16,BATANG MALAKA,292.33,Computed using Tindak Malaysia's electoral boundary files
+P. 88_S. 17,MALACCA,P. 88,MALACCA SELATAN,S. 17,RIM,199.09,Computed using Tindak Malaysia's electoral boundary files
+P. 88_S. 18,MALACCA,P. 88,MALACCA SELATAN,S. 18,JASIN,174.73,Computed using Tindak Malaysia's electoral boundary files
+P. 88_S. 19,MALACCA,P. 88,MALACCA SELATAN,S. 19,SERKAM,76.08,Computed using Tindak Malaysia's electoral boundary files
+P. 88_S. 20,MALACCA,P. 88,MALACCA SELATAN,S. 20,SUNGEI RAMBAI,104.57,Computed using Tindak Malaysia's electoral boundary files
+P. 89_S. 1,JOHORE,P. 89,MUAR DALAM,S. 1,BUKIT SERAMPANG,929.06,Computed using Tindak Malaysia's electoral boundary files
+P. 89_S. 2,JOHORE,P. 89,MUAR DALAM,S. 2,JORAK,255.51,Computed using Tindak Malaysia's electoral boundary files
+P. 90_S. 3,JOHORE,P. 90,SEGAMAT SELATAN,S. 3,LABIS,736.19,Computed using Tindak Malaysia's electoral boundary files
+P. 90_S. 4,JOHORE,P. 90,SEGAMAT SELATAN,S. 4,BEKOK,1715.29,Computed using Tindak Malaysia's electoral boundary files
+P. 91_S. 5,JOHORE,P. 91,MUAR PANTAI,S. 5,BANDAR MAHARANI,60.26,Computed using Tindak Malaysia's electoral boundary files
+P. 91_S. 6,JOHORE,P. 91,MUAR PANTAI,S. 6,PARIT BAKAR,118.71,Computed using Tindak Malaysia's electoral boundary files
+P. 92_S. 7,JOHORE,P. 92,MUAR SELATAN,S. 7,PARIT JAWA,280.48,Computed using Tindak Malaysia's electoral boundary files
+P. 92_S. 8,JOHORE,P. 92,MUAR SELATAN,S. 8,SIMPANG KIRI,515.53,Computed using Tindak Malaysia's electoral boundary files
+P. 93_S. 9,JOHORE,P. 93,BATU PAHAT,S. 9,BROLEH,78.24,Computed using Tindak Malaysia's electoral boundary files
+P. 93_S. 10,JOHORE,P. 93,BATU PAHAT,S. 10,BANDAR PENGGARAM,88.37,Computed using Tindak Malaysia's electoral boundary files
+P. 94_S. 11,JOHORE,P. 94,BATU PAHAT DALAM,S. 11,TANJONG SEMBRONG,758.76,Computed using Tindak Malaysia's electoral boundary files
+P. 94_S. 12,JOHORE,P. 94,BATU PAHAT DALAM,S. 12,AYER HITAM,286.12,Computed using Tindak Malaysia's electoral boundary files
+P. 95_S. 13,JOHORE,P. 95,KLUANG UTARA,S. 13,GUNONG LAMBAK,767.31,Computed using Tindak Malaysia's electoral boundary files
+P. 95_S. 14,JOHORE,P. 95,KLUANG UTARA,S. 14,SRI LALANG,297.09,Computed using Tindak Malaysia's electoral boundary files
+P. 96_S. 15,JOHORE,P. 96,JOHORE TENGGARA,S. 15,KOTA TINGGI,1253.50,Computed using Tindak Malaysia's electoral boundary files
+P. 96_S. 16,JOHORE,P. 96,JOHORE TENGGARA,S. 16,JOHORE LAMA,1352.04,Computed using Tindak Malaysia's electoral boundary files
+P. 97_S. 17,JOHORE,P. 97,PONTIAN UTARA,S. 17,RENGIT,343.42,Computed using Tindak Malaysia's electoral boundary files
+P. 97_S. 18,JOHORE,P. 97,PONTIAN UTARA,S. 18,BENUT,353.41,Computed using Tindak Malaysia's electoral boundary files
+P. 98_S. 19,JOHORE,P. 98,PONTIAN SELATAN,S. 19,PONTIAN DALAM,389.30,Computed using Tindak Malaysia's electoral boundary files
+P. 98_S. 20,JOHORE,P. 98,PONTIAN SELATAN,S. 20,PONTIAN KECHIL,153.99,Computed using Tindak Malaysia's electoral boundary files
+P. 99_S. 21,JOHORE,P. 99,KLUANG SELATAN,S. 21,RENGAM,815.04,Computed using Tindak Malaysia's electoral boundary files
+P. 99_S. 22,JOHORE,P. 99,KLUANG SELATAN,S. 22,SENAI - KULAI,403.91,Computed using Tindak Malaysia's electoral boundary files
+P. 100_S. 23,JOHORE,P. 100,JOHORE BAHRU TIMOR,S. 23,PLENTONG,517.89,Computed using Tindak Malaysia's electoral boundary files
+P. 100_S. 24,JOHORE,P. 100,JOHORE BAHRU TIMOR,S. 24,TANJONG PETRI,16.70,Computed using Tindak Malaysia's electoral boundary files
+P. 101_S. 25,JOHORE,P. 101,JOHORE BAHRU BARAT,S. 25,GELANG PATAH,527.01,Computed using Tindak Malaysia's electoral boundary files
+P. 101_S. 26,JOHORE,P. 101,JOHORE BAHRU BARAT,S. 26,TAMPOI,46.94,Computed using Tindak Malaysia's electoral boundary files
+P. 102_S. 27,JOHORE,P. 102,JOHORE TIMOR,S. 27,ENDAU,1671.21,Computed using Tindak Malaysia's electoral boundary files
+P. 102_S. 28,JOHORE,P. 102,JOHORE TIMOR,S. 28,MERSING,2642.85,Computed using Tindak Malaysia's electoral boundary files
+P. 103_S. 29,JOHORE,P. 103,SEGAMAT UTARA,S. 29,BATU ANAM,960.91,Computed using Tindak Malaysia's electoral boundary files
+P. 103_S. 30,JOHORE,P. 103,SEGAMAT UTARA,S. 30,BANDAR SEGAMAT,140.53,Computed using Tindak Malaysia's electoral boundary files
+P. 104_S. 31,JOHORE,P. 104,MUAR UTARA,S. 31,TANGKAK,481.37,Computed using Tindak Malaysia's electoral boundary files
+P. 104_S. 32,JOHORE,P. 104,MUAR UTARA,S. 32,SEROM,217.28,Computed using Tindak Malaysia's electoral boundary files
+P. 121_S. 1,SARAWAK,P. 121,BAU - LUNDU,S. 1,LUNDU,1728.33,Computed using Tindak Malaysia's electoral boundary files
+P. 121_S. 2,SARAWAK,P. 121,BAU - LUNDU,S. 2,BAU,926.88,Computed using Tindak Malaysia's electoral boundary files
+P. 122_S. 3,SARAWAK,P. 122,BANDAR KUCHING,S. 3,KUCHING BARAT,9.19,Computed using Tindak Malaysia's electoral boundary files
+P. 122_S. 4,SARAWAK,P. 122,BANDAR KUCHING,S. 4,KUCHING TIMOR,15.92,Computed using Tindak Malaysia's electoral boundary files
+P. 123_S. 5,SARAWAK,P. 123,SANTUBONG,S. 5,SEMARIANG,488.03,Computed using Tindak Malaysia's electoral boundary files
+P. 123_S. 6,SARAWAK,P. 123,SANTUBONG,S. 6,SEKAMA,67.48,Computed using Tindak Malaysia's electoral boundary files
+P. 124_S. 7,SARAWAK,P. 124,SAMARAHAN,S. 7,SEBANDI,505.65,Computed using Tindak Malaysia's electoral boundary files
+P. 124_S. 8,SARAWAK,P. 124,SAMARAHAN,S. 8,MUARA TUANG,326.38,Computed using Tindak Malaysia's electoral boundary files
+P. 125_S. 9,SARAWAK,P. 125,PADAWAN,S. 9,BATU KAWAH,357.88,Computed using Tindak Malaysia's electoral boundary files
+P. 125_S. 10,SARAWAK,P. 125,PADAWAN,S. 10,BENGOH,660.42,Computed using Tindak Malaysia's electoral boundary files
+P. 126_S. 11,SARAWAK,P. 126,SERIAN,S. 11,TARAT,572.40,Computed using Tindak Malaysia's electoral boundary files
+P. 126_S. 12,SARAWAK,P. 126,SERIAN,S. 12,TEBAKANG,1454.19,Computed using Tindak Malaysia's electoral boundary files
+P. 127_S. 13,SARAWAK,P. 127,SIMUNJAN,S. 13,SEMERA,483.13,Computed using Tindak Malaysia's electoral boundary files
+P. 127_S. 14,SARAWAK,P. 127,SIMUNJAN,S. 14,GEDONG,1171.30,Computed using Tindak Malaysia's electoral boundary files
+P. 128_S. 15,SARAWAK,P. 128,BATANG LUPAR,S. 15,LINGGA - SEBUYAU,2033.23,Computed using Tindak Malaysia's electoral boundary files
+P. 128_S. 16,SARAWAK,P. 128,BATANG LUPAR,S. 16,SIMANGGANG,1348.60,Computed using Tindak Malaysia's electoral boundary files
+P. 129_S. 17,SARAWAK,P. 129,LUBOK ANTU,S. 17,ENGKILILI - SKRANG,1172.80,Computed using Tindak Malaysia's electoral boundary files
+P. 129_S. 18,SARAWAK,P. 129,LUBOK ANTU,S. 18,ULU AI,2049.16,Computed using Tindak Malaysia's electoral boundary files
+P. 130_S. 19,SARAWAK,P. 130,BETONG,S. 19,SARIBAS,1122.17,Computed using Tindak Malaysia's electoral boundary files
+P. 130_S. 20,SARAWAK,P. 130,BETONG,S. 20,LAYAR,797.14,Computed using Tindak Malaysia's electoral boundary files
+P. 131_S. 21,SARAWAK,P. 131,SARATOK,S. 21,KALAKA,883.22,Computed using Tindak Malaysia's electoral boundary files
+P. 131_S. 22,SARAWAK,P. 131,SARATOK,S. 22,KRIAN,833.87,Computed using Tindak Malaysia's electoral boundary files
+P. 132_S. 23,SARAWAK,P. 132,SARIKEI,S. 23,KUALA RAJANG,1457.52,Computed using Tindak Malaysia's electoral boundary files
+P. 132_S. 24,SARAWAK,P. 132,SARIKEI,S. 24,REPOK,240.12,Computed using Tindak Malaysia's electoral boundary files
+P. 133_S. 25,SARAWAK,P. 133,PAYANG,S. 25,MATU-DARO,1121.05,Computed using Tindak Malaysia's electoral boundary files
+P. 133_S. 26,SARAWAK,P. 133,PAYANG,S. 26,BINATANG,1075.28,Computed using Tindak Malaysia's electoral boundary files
+P. 134_S. 27,SARAWAK,P. 134,BANDAR SIBU,S. 27,SIBU TENGAH,33.66,Computed using Tindak Malaysia's electoral boundary files
+P. 134_S. 28,SARAWAK,P. 134,BANDAR SIBU,S. 28,SIBU LUAR,217.58,Computed using Tindak Malaysia's electoral boundary files
+P. 135_S. 29,SARAWAK,P. 135,RAJANG,S. 29,IGAN,1974.73,Computed using Tindak Malaysia's electoral boundary files
+P. 135_S. 30,SARAWAK,P. 135,RAJANG,S. 30,DUDONG,2098.97,Computed using Tindak Malaysia's electoral boundary files
+P. 136_S. 31,SARAWAK,P. 136,MUKAH,S. 31,BALINGIAN,3310.65,Computed using Tindak Malaysia's electoral boundary files
+P. 136_S. 32,SARAWAK,P. 136,MUKAH,S. 32,OYA,2808.38,Computed using Tindak Malaysia's electoral boundary files
+P. 137_S. 33,SARAWAK,P. 137,JULAU,S. 33,PAKAN,814.89,Computed using Tindak Malaysia's electoral boundary files
+P. 137_S. 34,SARAWAK,P. 137,JULAU,S. 34,MELUAN,1798.26,Computed using Tindak Malaysia's electoral boundary files
+P. 138_S. 35,SARAWAK,P. 138,KANOWIT,S. 35,MACHAN,732.43,Computed using Tindak Malaysia's electoral boundary files
+P. 138_S. 36,SARAWAK,P. 138,KANOWIT,S. 36,NGEMAH,1513.06,Computed using Tindak Malaysia's electoral boundary files
+P. 139_S. 37,SARAWAK,P. 139,KAPIT,S. 37,SONG,3561.18,Computed using Tindak Malaysia's electoral boundary files
+P. 139_S. 38,SARAWAK,P. 139,KAPIT,S. 38,PELAGUS,3064.44,Computed using Tindak Malaysia's electoral boundary files
+P. 140_S. 39,SARAWAK,P. 140,ULU RAJANG,S. 39,BALEH,13333.75,Computed using Tindak Malaysia's electoral boundary files
+P. 140_S. 40,SARAWAK,P. 140,ULU RAJANG,S. 40,BELAGA,18404.23,Computed using Tindak Malaysia's electoral boundary files
+P. 141_S. 41,SARAWAK,P. 141,BINTULU,S. 41,TATAU,5110.40,Computed using Tindak Malaysia's electoral boundary files
+P. 141_S. 42,SARAWAK,P. 141,BINTULU,S. 42,KEMENA,7141.39,Computed using Tindak Malaysia's electoral boundary files
+P. 142_S. 43,SARAWAK,P. 142,MIRI - SUBIS,S. 43,SUBIS,4253.67,Computed using Tindak Malaysia's electoral boundary files
+P. 142_S. 44,SARAWAK,P. 142,MIRI - SUBIS,S. 44,MIRI,831.23,Computed using Tindak Malaysia's electoral boundary files
+P. 143_S. 45,SARAWAK,P. 143,BARAM,S. 45,MARUDI,5734.18,Computed using Tindak Malaysia's electoral boundary files
+P. 143_S. 46,SARAWAK,P. 143,BARAM,S. 46,TELANG USAN,16062.50,Computed using Tindak Malaysia's electoral boundary files
+P. 144_S. 47,SARAWAK,P. 144,LIMBANG - LAWAS,S. 47,LIMBANG,3915.72,Computed using Tindak Malaysia's electoral boundary files
+P. 144_S. 48,SARAWAK,P. 144,LIMBANG - LAWAS,S. 48,LAWAS,3786.00,Computed using Tindak Malaysia's electoral boundary files
