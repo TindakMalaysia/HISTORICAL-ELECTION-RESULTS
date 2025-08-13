@@ -21,3 +21,5 @@ The contents of the file is evolving and may be changed anytime
 **NOTICE OF UPDATE (12/7/2025)**
 - Added DUN and Parliamentary Winning Candidates files
 - Minor corrections for DUN and Parliamentary Result files
+**NOTICE OF UPDATE (13/8/2025)**
+- Parliamentary and DUN Constituency Area Size files have been added. This is not official statistics as EC didn't provided such figures. The figures are computed from Tindak Malaysia's analysis of electoral boundaries
