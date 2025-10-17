@@ -29,6 +29,7 @@ TOTAL ELECTORATE,Total Elector count using revised Electoral roll up to 2nd Octo
 WINNING MAJORITY,The difference between the highest valid votes and second highest valid votes,
 TURNOUT (%),Proportion of Total Ballots Issued as a share of Total Electorate,
 TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll,
+TOTAL UNRETURNED VOTES,Number of ballots papers issued but no returned (including postal ballot papers),
 TOTAL REJECTED VOTES,Total number of rejected ballot papers,
 TOTAL VALID VOTES,Total number of votes by electors,
 BN,Barisan Nasional Component Party,
@@ -82,3 +83,4 @@ PBDS,Parti Bansa Dayak Sarawak,
 PERMAS,Persatuan Rakyat Malaysia Sarawak,
 DAP,Democratic Action Party,
 NEGARA,Parti Negara Rakyat Sarawak,
+
