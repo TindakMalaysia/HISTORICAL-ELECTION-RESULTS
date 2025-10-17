@@ -12,8 +12,9 @@ Disclaimers,Intepretations for party allocations under coalition may vary among 
 ,Corrections and updates made on 12/2/2024 for Candidate Age of selected parties and corrections were made for party allocation under Gerakan Tanah Air (GTA)
 ,Corrections were made on 17/2/2024 to fix the abbreviation for Parti Amanah Negara
 ,Updating column attribute headings and metadata was corrected on 5/11/2024
-Attribute,"At the start of Nomination Day, there were 59 women ADUN candidates. With the passing of original PAS candidate for Tioman, the new replacement for PAS was woman candidate. For the whole DUN elections for GE15, 60 women ADUN candidates contested"
+,"At the start of Nomination Day, there were 59 women ADUN candidates. With the passing of original PAS candidate for Tioman, the new replacement for PAS was woman candidate. For the whole DUN elections for GE15, 60 women ADUN candidates contested"
 ,
+Attribute,
 Field Name,Field Description
 UNIQUE CODE,Composite of Parliamentary and State Constituency Code
 STATE,State Name
@@ -124,3 +125,4 @@ STAR,Parti Solidariti Tanah Airku
 PBM,Parti Bangsa Malaysia
 PSM,Parti Sosialis Malaysia
 PPRS,Parti Perpaduan Rakyat Sabah
+
