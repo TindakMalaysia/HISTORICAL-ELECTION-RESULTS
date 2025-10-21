@@ -15,3 +15,6 @@ IT is a requirement that all users ought to read the metadata of every dataset a
 **NOTICE OF UPDATE (18/7/2025)
 - Minor correction for Federal Election Summary Polling Dates
 - Minor corrections for Federal Election Summaries (for turnout and rejected vote rate)
+
+**NOTICE OF UPDATE (21/10/2025)
+- Updated Sabah DUN Election Summary
