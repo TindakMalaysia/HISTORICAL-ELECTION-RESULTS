@@ -1,0 +1,34 @@
+﻿Created on,7/11/2025
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Election Commission of Malaysia (SPR), Sabah Media (https://sabahmedia.com/2025/11/07/statistik-jumlah-pengundi-mengikut-dun-pru-du-sabah-ke-17/), European Commission, GHSL Data Package 2023, Publications Office of the European Union, Luxembourg, 2023, doi:10.2760/098587, JRC133256"
+Disclaimers,"No Information is available for ethnic composition. Absent Voter category is largely eliminated. While every effort has been made to ensure accuracy and completeness of the dataset, TindakMalaysia Network Services PLT is not responsible for any errors or omissions arising from the dataset. "
+,
+Attribute,
+,
+Field Name,Field Description
+UNIQUE CODE,Composite between Parliamentary Code and DUN Code (Unique Identifier)
+STATE,State Name
+PARLIAMENTARY CONSTITUENCY CODE,Parliamentary Code (2019 - present at the Created Date)
+PARLIAMENTARY CONSTITUENCY NAME,Parliamentary Name (2019 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2019 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2019 - present at the created Date)
+TOTAL ELECTORS,"Total Electors of the Principal Electoral Roll of 2024, which was updated until the August 2025 electoral roll, which was updated up to 6th October 2025"
+MUSLIM BUMIPUTERA (%),Proportion of Muslim Bumiputera Sabah electors for the State Constituency (%)
+NON MUSLIM BUMIPUTERA,Proportion of Non Muslim Bumiputera Sabah for the State Constituency (%)
+CHINESE (%),Proportion of Chinese for the State Constituency (%)
+OTHERS (%),Proportion of Others for the State Constituency (%)
+ELECTORS - ORDINARY VOTERS (%),Proportion of Electors - Ordinary Electors for the State Constituency (%)
+ELECTORS - MILITARY AND SPOUSE VOTERS (%),Proportion of Electors - Military and Spouse (Electors) for the State Constituency (%)
+ELECTORS - POLICE AND SPOUSE VOTERS (%),Proportion of Electors - Policce and Spouse (Electors) for the State Constituency (%)
+18 - 20 (%),Proportion of 18 - 20 Electors for the State Constituency (%)
+21 - 29 (%),Proportion of 21 - 29 Electors for the State Constituency (%)
+30 - 39 (%),Proportion of 30 - 39 Electors for the State Constituency (%)
+40 - 49 (%),Proportion of 40 - 49 Electors for the State Constituency (%)
+50 - 59 (%),Proportion of 50 - 59 Electors for the State Constituency (%)
+60 - 69 (%),Proportion of 60 - 69 Electors for the State Constituency (%)
+70 - 79 (%),Proportion of 70 - 79 Electors for the State Constituency (%)
+80 - 89 (%),Proportion of 80 - 89 Electors for the State Constituency (%)
+90 AND ABOVE (%),Proportion of 90 and Above Electors for the State Constituency (%)
+MALE ELECTORS (%),Proportion of Male Electors for the State Constituency (%)
+FEMALE ELECTORS (%),Proportion of Female Electors for the State Constituency (%)
+URBAN-RURAL CLASSIFICATION (2025),State Constituency urbanization classification
