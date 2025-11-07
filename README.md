@@ -18,3 +18,6 @@ IT is a requirement that all users ought to read the metadata of every dataset a
 
 **NOTICE OF UPDATE (21/10/2025)
 - Updated Sabah DUN Election Summary
+
+**NOTICE OF UPDATE (7/11/2025)
+- Corrected 1982 Electorate Figure for Federal Election Summary
