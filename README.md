@@ -22,5 +22,8 @@ IT is a requirement that all users ought to read the metadata of every dataset a
 **NOTICE OF UPDATE (7/11/2025)
 - Corrected 1982 Electorate Figure for Federal Election Summary
 
-**NOTICE OF UPDATE (15/11/2025
+**NOTICE OF UPDATE (15/11/2025)
 - Updated Sabah Women Candidate and Representative Data for 2025 Elections. Source: https://web.facebook.com/photo?fbid=1383908983098216&set=pcb.1383909176431530
+
+**NOTICE OF UPDATE (1/12/2025)
+- Updated Sabah Women Candidate and Representative Data for 2025 Elections. Source: https://www.thestar.com.my/news/nation/2025/11/30/sabah-polls-five-women-win-mandate-from-voters
