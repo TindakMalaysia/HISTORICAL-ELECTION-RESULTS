@@ -1,0 +1,506 @@
+﻿UNIQUE CODE,STATE,PARLIAMENTARY CONSTITUENCY CODE,PARLIAMENTARY CONSTITUENCY NAME,STATE CONSTITUENCY CODE,STATE CONSTITUENCY NAME,AREA (SQ KM),NOTES
+P.001_N.01,PERLIS,P.001,PADANG BESAR,N.01,TITI TINGGI,120.15,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.001_N.02,PERLIS,P.001,PADANG BESAR,N.02,BESERI,137.93,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.001_N.03,PERLIS,P.001,PADANG BESAR,N.03,CHUPING,144.35,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.001_N.04,PERLIS,P.001,PADANG BESAR,N.04,MATA AYER,19.37,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.001_N.05,PERLIS,P.001,PADANG BESAR,N.05,SANTAN,25.14,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.002_N.06,PERLIS,P.002,KANGAR,N.06,BINTONG,66.28,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.002_N.07,PERLIS,P.002,KANGAR,N.07,SENA,26.47,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.002_N.08,PERLIS,P.002,KANGAR,N.08,INDERA KAYANGAN,6.99,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.002_N.09,PERLIS,P.002,KANGAR,N.09,KUALA PERLIS,21.11,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.002_N.10,PERLIS,P.002,KANGAR,N.10,KAYANG,30.64,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.003_N.11,PERLIS,P.003,ARAU,N.11,PAUH,51.25,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.003_N.12,PERLIS,P.003,ARAU,N.12,TAMBUN TULANG,42.6,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.003_N.13,PERLIS,P.003,ARAU,N.13,GUAR SANJI,44.54,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.003_N.14,PERLIS,P.003,ARAU,N.14,SIMPANG EMPAT,36.87,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.003_N.15,PERLIS,P.003,ARAU,N.15,SANGLANG,39.81,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.004_N.01,KEDAH,P.004,LANGKAWI,N.01,AYER HANGAT,217.4,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.004_N.02,KEDAH,P.004,LANGKAWI,N.02,KUAH,118.19,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.005_N.03,KEDAH,P.005,JERLUN,N.03,KOTA SIPUTEH,151.84,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.005_N.04,KEDAH,P.005,JERLUN,N.04,AYER HITAM,167.26,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.006_N.05,KEDAH,P.006,KUBANG PASU,N.05,BUKIT KAYU HITAM,458.93,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.006_N.06,KEDAH,P.006,KUBANG PASU,N.06,JITRA,168.68,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.007_N.07,KEDAH,P.007,PADANG TERAP,N.07,KUALA NERANG,665.38,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.007_N.08,KEDAH,P.007,PADANG TERAP,N.08,PEDU,692.41,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.008_N.09,KEDAH,P.008,POKOK SENA,N.09,BUKIT LADA,229.99,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.008_N.10,KEDAH,P.008,POKOK SENA,N.10,BUKIT PINANG,79.43,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.008_N.11,KEDAH,P.008,POKOK SENA,N.11,DERGA,10.86,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.009_N.12,KEDAH,P.009,ALOR STAR,N.12,BAKAR BATA,25.14,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.009_N.13,KEDAH,P.009,ALOR STAR,N.13,KOTA DARUL AMAN,4.76,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.009_N.14,KEDAH,P.009,ALOR STAR,N.14,ALOR MENGKUDU,79.13,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.010_N.15,KEDAH,P.010,KUALA KEDAH,N.15,ANAK BUKIT,88.84,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.010_N.16,KEDAH,P.010,KUALA KEDAH,N.16,KUBANG ROTAN,51.52,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.010_N.17,KEDAH,P.010,KUALA KEDAH,N.17,PENGKALAN KUNDOR,91.45,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.011_N.18,KEDAH,P.011,PENDANG,N.18,TOKAI,157.8,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.011_N.19,KEDAH,P.011,PENDANG,N.19,SUNGAI TIANG,471.95,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.012_N.20,KEDAH,P.012,JERAI,N.20,SUNGAI LIMAU,144.05,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.012_N.21,KEDAH,P.012,JERAI,N.21,GUAR CHEMPEDAK,97.56,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.012_N.22,KEDAH,P.012,JERAI,N.22,GURUN,214.64,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.013_N.23,KEDAH,P.013,SIK,N.23,BELANTEK,1316.44,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.013_N.24,KEDAH,P.013,SIK,N.24,JENERI,335.61,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.014_N.25,KEDAH,P.014,MERBOK,N.25,BUKIT SELAMBAU,283.45,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.014_N.26,KEDAH,P.014,MERBOK,N.26,TANJONG DAWAI,156.9,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.015_N.27,KEDAH,P.015,SUNGAI PETANI,N.27,PANTAI MERDEKA,122.87,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.015_N.28,KEDAH,P.015,SUNGAI PETANI,N.28,BAKAR ARANG,33,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.015_N.29,KEDAH,P.015,SUNGAI PETANI,N.29,SIDAM,91.5,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.016_N.30,KEDAH,P.016,BALING,N.30,BAYU,802.74,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.016_N.31,KEDAH,P.016,BALING,N.31,KUPANG,470.2,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.016_N.32,KEDAH,P.016,BALING,N.32,KUALA KETIL,269.83,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.017_N.33,KEDAH,P.017,PADANG SERAI,N.33,MERBAU PULAS,270.46,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.017_N.34,KEDAH,P.017,PADANG SERAI,N.34,LUNAS,81.76,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.018_N.35,KEDAH,P.018,KULIM-BANDAR BAHARU,N.35,KULIM,413.95,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.018_N.36,KEDAH,P.018,KULIM-BANDAR BAHARU,N.36,BANDAR BAHARU,272.02,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.019_N.01,KELANTAN,P.019,TUMPAT,N.01,PENGKALAN KUBOR,45.28,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.019_N.02,KELANTAN,P.019,TUMPAT,N.02,KELABORAN,50.93,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.019_N.03,KELANTAN,P.019,TUMPAT,N.03,PASIR PEKAN,38.38,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.019_N.04,KELANTAN,P.019,TUMPAT,N.04,WAKAF BHARU,39.36,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.020_N.05,KELANTAN,P.020,PENGKALAN CHEPA,N.05,KIJANG,20.84,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.020_N.06,KELANTAN,P.020,PENGKALAN CHEPA,N.06,CHEMPAKA,30.7,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.020_N.07,KELANTAN,P.020,PENGKALAN CHEPA,N.07,PANCHOR,24.99,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.021_N.08,KELANTAN,P.021,KOTA BHARU,N.08,TANJONG MAS,11.99,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.021_N.09,KELANTAN,P.021,KOTA BHARU,N.09,KOTA LAMA,6.47,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.021_N.10,KELANTAN,P.021,KOTA BHARU,N.10,BUNUT PAYONG,12.99,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.022_N.11,KELANTAN,P.022,PASIR MAS,N.11,TENDONG,52.37,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.022_N.12,KELANTAN,P.022,PASIR MAS,N.12,PENGKALAN PASIR,29.75,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.022_N.13,KELANTAN,P.022,PASIR MAS,N.13,CHETOK,120.42,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.023_N.14,KELANTAN,P.023,RANTAU PANJANG,N.14,MERANTI,83.71,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.023_N.15,KELANTAN,P.023,RANTAU PANJANG,N.15,GUAL PERIOK,142.07,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.023_N.16,KELANTAN,P.023,RANTAU PANJANG,N.16,BUKIT TUKU,128.78,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.024_N.17,KELANTAN,P.024,KUBANG KERIAN,N.17,SALOR,37.09,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.024_N.18,KELANTAN,P.024,KUBANG KERIAN,N.18,PASIR TUMBOH,38.83,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.024_N.19,KELANTAN,P.024,KUBANG KERIAN,N.19,DEMIT,40.76,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.025_N.20,KELANTAN,P.025,BACHOK,N.20,TAWANG,64.83,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.025_N.21,KELANTAN,P.025,BACHOK,N.21,PERUPOK,84.47,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.025_N.22,KELANTAN,P.025,BACHOK,N.22,JELAWAT,123.04,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.026_N.23,KELANTAN,P.026,KETEREH,N.23,MELOR,59.65,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.026_N.24,KELANTAN,P.026,KETEREH,N.24,KADOK,48.54,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.026_N.25,KELANTAN,P.026,KETEREH,N.25,KOK LANAS,55.2,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.027_N.26,KELANTAN,P.027,TANAH MERAH,N.26,BUKIT PANAU,87.8,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.027_N.27,KELANTAN,P.027,TANAH MERAH,N.27,GUAL IPOH,413.85,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.027_N.28,KELANTAN,P.027,TANAH MERAH,N.28,KEMAHANG,155.58,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.028_N.29,KELANTAN,P.028,PASIR PUTEH,N.29,SELISING,98.75,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.028_N.30,KELANTAN,P.028,PASIR PUTEH,N.30,LIMBONGAN,106.7,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.028_N.31,KELANTAN,P.028,PASIR PUTEH,N.31,SEMERAK,114.56,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.028_N.32,KELANTAN,P.028,PASIR PUTEH,N.32,GAAL,94.78,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.029_N.33,KELANTAN,P.029,MACHANG,N.33,PULAI CHONDONG,145.71,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.029_N.34,KELANTAN,P.029,MACHANG,N.34,TEMANGAN,143.25,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.029_N.35,KELANTAN,P.029,MACHANG,N.35,KEMUNING,234.64,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.030_N.36,KELANTAN,P.030,JELI,N.36,BUKIT BUNGA,235.67,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.030_N.37,KELANTAN,P.030,JELI,N.37,AIR LANAS,383.6,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.030_N.38,KELANTAN,P.030,JELI,N.38,KUALA BALAH,926.26,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.031_N.39,KELANTAN,P.031,KUALA KRAI,N.39,MENGKEBANG,575.61,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.031_N.40,KELANTAN,P.031,KUALA KRAI,N.40,GUCHIL,194.56,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.031_N.41,KELANTAN,P.031,KUALA KRAI,N.41,MANEK URAI,476.73,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.031_N.42,KELANTAN,P.031,KUALA KRAI,N.42,DABONG,994.11,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.032_N.43,KELANTAN,P.032,GUA MUSANG,N.43,NENGGIRI,2501.18,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.032_N.44,KELANTAN,P.032,GUA MUSANG,N.44,PALOH,3220.86,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.032_N.45,KELANTAN,P.032,GUA MUSANG,N.45,GALAS,1881.48,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.033_N.01,TERENGGANU,P.033,BESUT,N.01,KUALA BESUT,66.25,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.033_N.02,TERENGGANU,P.033,BESUT,N.02,KOTA PUTERA,92.63,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.033_N.03,TERENGGANU,P.033,BESUT,N.03,JERTIH,130.08,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.033_N.04,TERENGGANU,P.033,BESUT,N.04,HULU BESUT,748.08,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.034_N.05,TERENGGANU,P.034,SETIU,N.05,JABI,192.34,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.034_N.06,TERENGGANU,P.034,SETIU,N.06,PERMAISURI,706.31,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.034_N.07,TERENGGANU,P.034,SETIU,N.07,LANGKAP,623.15,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.034_N.08,TERENGGANU,P.034,SETIU,N.08,BATU RAKIT,133.78,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.035_N.09,TERENGGANU,P.035,KUALA NERUS,N.09,TEPUH,241.05,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.035_N.10,TERENGGANU,P.035,KUALA NERUS,N.10,TELUK PASU,64.85,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.035_N.11,TERENGGANU,P.035,KUALA NERUS,N.11,SEBERANG TAKIR,16.26,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.035_N.12,TERENGGANU,P.035,KUALA NERUS,N.12,BUKIT TUNGGAL,15.57,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.036_N.13,TERENGGANU,P.036,KUALA TERENGGANU,N.13,WAKAF MEMPELAM,18.39,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.036_N.14,TERENGGANU,P.036,KUALA TERENGGANU,N.14,BANDAR,9.99,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.036_N.15,TERENGGANU,P.036,KUALA TERENGGANU,N.15,LADANG,11.82,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.036_N.16,TERENGGANU,P.036,KUALA TERENGGANU,N.16,BATU BURUK,13.96,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.037_N.17,TERENGGANU,P.037,MARANG,N.17,ALUR LIMBAT,75.02,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.037_N.18,TERENGGANU,P.037,MARANG,N.18,BUKIT PAYUNG,28.13,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.037_N.19,TERENGGANU,P.037,MARANG,N.19,RU RENDANG,126.89,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.037_N.20,TERENGGANU,P.037,MARANG,N.20,PENGKALAN BERANGAN,483.91,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.038_N.21,TERENGGANU,P.038,HULU TERENGGANU,N.21,TELEMUNG,3225.32,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.038_N.22,TERENGGANU,P.038,HULU TERENGGANU,N.22,MANIR,30.5,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.038_N.23,TERENGGANU,P.038,HULU TERENGGANU,N.23,KUALA BERANG,130.69,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.038_N.24,TERENGGANU,P.038,HULU TERENGGANU,N.24,AJIL,511.88,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.039_N.25,TERENGGANU,P.039,DUNGUN,N.25,BUKIT BESI,2153.51,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.039_N.26,TERENGGANU,P.039,DUNGUN,N.26,RANTAU ABANG,207.01,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.039_N.27,TERENGGANU,P.039,DUNGUN,N.27,SURA,9.33,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.039_N.28,TERENGGANU,P.039,DUNGUN,N.28,PAKA,358.66,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.040_N.29,TERENGGANU,P.040,KEMAMAN,N.29,KEMASIK,318.93,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.040_N.30,TERENGGANU,P.040,KEMAMAN,N.30,KIJAL,538.53,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.040_N.31,TERENGGANU,P.040,KEMAMAN,N.31,CUKAI,94.84,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.040_N.32,TERENGGANU,P.040,KEMAMAN,N.32,AIR PUTIH,1576.81,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.041_N.01,PULAU PINANG,P.041,KEPALA BATAS,N.01,PENAGA,36.77,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.041_N.02,PULAU PINANG,P.041,KEPALA BATAS,N.02,BERTAM,24.08,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.041_N.03,PULAU PINANG,P.041,KEPALA BATAS,N.03,PINANG TUNGGAL,73.63,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.042_N.04,PULAU PINANG,P.042,TASEK GELUGOR,N.04,PERMATANG BERANGAN,56.3,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.042_N.05,PULAU PINANG,P.042,TASEK GELUGOR,N.05,SUNGAI DUA,35.34,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.042_N.06,PULAU PINANG,P.042,TASEK GELUGOR,N.06,TELOK AYER TAWAR,17.07,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.043_N.07,PULAU PINANG,P.043,BAGAN,N.07,SUNGAI PUYU,6.67,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.043_N.08,PULAU PINANG,P.043,BAGAN,N.08,BAGAN JERMAL,5.4,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.043_N.09,PULAU PINANG,P.043,BAGAN,N.09,BAGAN DALAM,6.47,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.044_N.10,PULAU PINANG,P.044,PERMATANG PAUH,N.10,SEBERANG JAYA,20.82,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.044_N.11,PULAU PINANG,P.044,PERMATANG PAUH,N.11,PERMATANG PASIR,29.64,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.044_N.12,PULAU PINANG,P.044,PERMATANG PAUH,N.12,PENANTI,46.57,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.045_N.13,PULAU PINANG,P.045,BUKIT MERTAJAM,N.13,BERAPIT,12.13,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.045_N.14,PULAU PINANG,P.045,BUKIT MERTAJAM,N.14,MACHANG BUBUK,56.62,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.045_N.15,PULAU PINANG,P.045,BUKIT MERTAJAM,N.15,PADANG LALANG,8.2,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.046_N.16,PULAU PINANG,P.046,BATU KAWAN,N.16,PERAI,10.62,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.046_N.17,PULAU PINANG,P.046,BATU KAWAN,N.17,BUKIT TENGAH,51.36,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.046_N.18,PULAU PINANG,P.046,BATU KAWAN,N.18,BUKIT TAMBUN,62.31,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.047_N.19,PULAU PINANG,P.047,NIBONG TEBAL,N.19,JAWI,53.52,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.047_N.20,PULAU PINANG,P.047,NIBONG TEBAL,N.20,SUNGAI BAKAP,85.59,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.047_N.21,PULAU PINANG,P.047,NIBONG TEBAL,N.21,SUNGAI ACHEH,37.41,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.048_N.22,PULAU PINANG,P.048,BUKIT BENDERA,N.22,TANJONG BUNGA,18.12,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.048_N.23,PULAU PINANG,P.048,BUKIT BENDERA,N.23,AIR PUTIH,28.41,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.048_N.24,PULAU PINANG,P.048,BUKIT BENDERA,N.24,KEBUN BUNGA,11.3,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.048_N.25,PULAU PINANG,P.048,BUKIT BENDERA,N.25,PULAU TIKUS,5.23,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.049_N.26,PULAU PINANG,P.049,TANJONG,N.26,PADANG KOTA,2.96,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.049_N.27,PULAU PINANG,P.049,TANJONG,N.27,PENGKALAN KOTA,1.43,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.049_N.28,PULAU PINANG,P.049,TANJONG,N.28,KOMTAR,1.49,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.050_N.29,PULAU PINANG,P.050,JELUTONG,N.29,DATOK KERAMAT,3.24,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.050_N.30,PULAU PINANG,P.050,JELUTONG,N.30,SUNGAI PINANG,2.34,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.050_N.31,PULAU PINANG,P.050,JELUTONG,N.31,BATU LANCANG,2.68,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.051_N.32,PULAU PINANG,P.051,BUKIT GELUGOR,N.32,SERI DELIMA,6.3,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.051_N.33,PULAU PINANG,P.051,BUKIT GELUGOR,N.33,AIR ITAM,2.94,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.051_N.34,PULAU PINANG,P.051,BUKIT GELUGOR,N.34,PAYA TERUBONG,17.87,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.052_N.35,PULAU PINANG,P.052,BAYAN BARU,N.35,BATU UBAN,14.4,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.052_N.36,PULAU PINANG,P.052,BAYAN BARU,N.36,PANTAI JEREJAK,11.19,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.052_N.37,PULAU PINANG,P.052,BAYAN BARU,N.37,BATU MAUNG,21.16,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.053_N.38,PULAU PINANG,P.053,BALIK PULAU,N.38,BAYAN LEPAS,37.03,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.053_N.39,PULAU PINANG,P.053,BALIK PULAU,N.39,PULAU BETONG,44.67,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.053_N.40,PULAU PINANG,P.053,BALIK PULAU,N.40,TELOK BAHANG,67.86,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.054_N.01,PERAK,P.054,GERIK,N.01,PENGKALAN HULU,427.77,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.054_N.02,PERAK,P.054,GERIK,N.02,TEMENGOR,4049.36,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.055_N.03,PERAK,P.055,LENGGONG,N.03,KENERING,1798.11,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.055_N.04,PERAK,P.055,LENGGONG,N.04,KOTA TAMPAN,312.87,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.056_N.05,PERAK,P.056,LARUT,N.05,SELAMA,419.01,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.056_N.06,PERAK,P.056,LARUT,N.06,KUBU GAJAH,415.85,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.056_N.07,PERAK,P.056,LARUT,N.07,BATU KURAU,253.72,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.057_N.08,PERAK,P.057,PARIT BUNTAR,N.08,TITI SERONG,82.68,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.057_N.09,PERAK,P.057,PARIT BUNTAR,N.09,KUALA KURAU,61.49,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.058_N.10,PERAK,P.058,BAGAN SERAI,N.10,ALOR PONGSU,219.28,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.058_N.11,PERAK,P.058,BAGAN SERAI,N.11,GUNONG SEMANGGOL,285.98,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.058_N.12,PERAK,P.058,BAGAN SERAI,N.12,SELINSING,248.21,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.059_N.13,PERAK,P.059,BUKIT GANTANG,N.13,KUALA SAPETANG,209.35,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.059_N.14,PERAK,P.059,BUKIT GANTANG,N.14,CHANGKAT JERING,84.39,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.059_N.15,PERAK,P.059,BUKIT GANTANG,N.15,TRONG,508.34,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.060_N.16,PERAK,P.060,TAIPING,N.16,KAMUNTING,75.26,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.060_N.17,PERAK,P.060,TAIPING,N.17,POKOK ASSAM,47.82,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.060_N.18,PERAK,P.060,TAIPING,N.18,AULONG,24.76,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.061_N.19,PERAK,P.061,PADANG RENGAS,N.19,CHENDEROH,220.22,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.061_N.20,PERAK,P.061,PADANG RENGAS,N.20,LUBOK MERBAU,174,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.062_N.21,PERAK,P.062,SUNGAI SIPUT,N.21,LINTANG,1091.16,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.062_N.22,PERAK,P.062,SUNGAI SIPUT,N.22,JALONG,485.06,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.063_N.23,PERAK,P.063,TAMBUN,N.23,MANJOI,151.33,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.063_N.24,PERAK,P.063,TAMBUN,N.24,HULU KINTA,376.98,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.064_N.25,PERAK,P.064,IPOH TIMOR,N.25,CANNING,20.91,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.064_N.26,PERAK,P.064,IPOH TIMOR,N.26,TEBING TINGGI,10.52,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.064_N.27,PERAK,P.064,IPOH TIMOR,N.27,PASIR PINJI,6.3,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.065_N.28,PERAK,P.065,IPOH BARAT,N.28,BERCHAM,21.71,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.065_N.29,PERAK,P.065,IPOH BARAT,N.29,KEPAYANG,6.97,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.065_N.30,PERAK,P.065,IPOH BARAT,N.30,BUNTONG,4.14,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.066_N.31,PERAK,P.066,BATU GAJAH,N.31,JELAPANG,97.98,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.066_N.32,PERAK,P.066,BATU GAJAH,N.32,MENGLEMBU,5.94,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.066_N.33,PERAK,P.066,BATU GAJAH,N.33,TRONOH,102.95,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.067_N.34,PERAK,P.067,KUALA KANGSAR,N.34,BUKIT CHANDAN,296.96,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.067_N.35,PERAK,P.067,KUALA KANGSAR,N.35,MANONG,280.51,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.068_N.36,PERAK,P.068,BERUAS,N.36,PENGKALAN BAHARU,373.01,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.068_N.37,PERAK,P.068,BERUAS,N.37,PANTAI REMIS,245.45,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.069_N.38,PERAK,P.069,PARIT,N.38,BELANJA,291.3,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.069_N.39,PERAK,P.069,PARIT,N.39,BOTA,274.28,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.070_N.40,PERAK,P.070,KAMPAR,N.40,MALIM NAWAR,146.77,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.070_N.41,PERAK,P.070,KAMPAR,N.41,KERANJI,61.07,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.070_N.42,PERAK,P.070,KAMPAR,N.42,TUALANG SEKAH,261.28,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.071_N.43,PERAK,P.071,GOPENG,N.43,SUNGAI RAPAT,71.97,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.071_N.44,PERAK,P.071,GOPENG,N.44,SIMPANG PULAI,109.27,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.071_N.45,PERAK,P.071,GOPENG,N.45,TEJA,410.51,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.072_N.46,PERAK,P.072,TAPAH,N.46,CHENDERIANG,668.44,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.072_N.47,PERAK,P.072,TAPAH,N.47,AYER KUNING,325.61,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.073_N.48,PERAK,P.073,PASIR SALAK,N.48,SUNGAI MANIK,222.65,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.073_N.49,PERAK,P.073,PASIR SALAK,N.49,KAMPONG GAJAH,835.43,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.074_N.50,PERAK,P.074,LUMUT,N.50,SITIAWAN,114.28,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.074_N.51,PERAK,P.074,LUMUT,N.51,PASIR PANJANG,192.95,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.074_N.52,PERAK,P.074,LUMUT,N.52,PANGKOR,131.16,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.075_N.53,PERAK,P.075,BAGAN DATOK,N.53,RUNGKUP,219.19,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.075_N.54,PERAK,P.075,BAGAN DATOK,N.54,HUTAN MELINTANG,346.09,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.076_N.55,PERAK,P.076,TELOK INTAN,N.55,PASIR BEDAMAR,33.86,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.076_N.56,PERAK,P.076,TELOK INTAN,N.56,CHANGKAT JONG,746,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.077_N.57,PERAK,P.077,TANJONG MALIM,N.57,SUNGKAI,358.21,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.077_N.58,PERAK,P.077,TANJONG MALIM,N.58,SLIM,451,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.077_N.59,PERAK,P.077,TANJONG MALIM,N.59,BEHRANG,1027.32,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.078_N.01,PAHANG,P.078,CAMERON HIGHLANDS,N.01,TANAH RATA,679.83,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.078_N.02,PAHANG,P.078,CAMERON HIGHLANDS,N.02,JELAI,2430.69,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.079_N.03,PAHANG,P.079,LIPIS,N.03,PADANG TENGKU,2142.16,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.079_N.04,PAHANG,P.079,LIPIS,N.04,CHEKA,503.4,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.079_N.05,PAHANG,P.079,LIPIS,N.05,BENTA,304.35,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.080_N.06,PAHANG,P.080,RAUB,N.06,BATU TALAM,1071.81,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.080_N.07,PAHANG,P.080,RAUB,N.07,TRAS,374.95,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.080_N.08,PAHANG,P.080,RAUB,N.08,DONG,852.76,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.081_N.09,PAHANG,P.081,JERANTUT,N.09,TAHAN,5821.2,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.081_N.10,PAHANG,P.081,JERANTUT,N.10,DAMAK,615.04,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.081_N.11,PAHANG,P.081,JERANTUT,N.11,PULAU TAWAR,922.8,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.082_N.12,PAHANG,P.082,INDERA MAHKOTA,N.12,BESERAH,300.29,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.082_N.13,PAHANG,P.082,INDERA MAHKOTA,N.13,SEMAMBU,88.89,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.083_N.14,PAHANG,P.083,KUANTAN,N.14,TERUNTUM,16.69,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.083_N.15,PAHANG,P.083,KUANTAN,N.15,TANJUNG LUMPUR,39.08,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.083_N.16,PAHANG,P.083,KUANTAN,N.16,INDERAPURA,107.28,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.084_N.17,PAHANG,P.084,PAYA BESAR,N.17,SUNGAI LEMBING,1058.53,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.084_N.18,PAHANG,P.084,PAYA BESAR,N.18,LEPAR,973.14,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.084_N.19,PAHANG,P.084,PAYA BESAR,N.19,PANCHING,190.26,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.085_N.20,PAHANG,P.085,PEKAN,N.20,PULAU MANIS,935.91,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.085_N.21,PAHANG,P.085,PEKAN,N.21,PERAMU JAYA,228.72,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.085_N.22,PAHANG,P.085,PEKAN,N.22,BEBAR,1940.61,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.085_N.23,PAHANG,P.085,PEKAN,N.23,CHINI,591.41,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.086_N.24,PAHANG,P.086,MARAN,N.24,LUIT,619.23,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.086_N.25,PAHANG,P.086,MARAN,N.25,KUALA SENTUL,419.8,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.086_N.26,PAHANG,P.086,MARAN,N.26,CHENOR,520.1,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.087_N.27,PAHANG,P.087,KUALA KRAU,N.27,JENDERAK,806.73,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.087_N.28,PAHANG,P.087,KUALA KRAU,N.28,KERDAU,259.74,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.087_N.29,PAHANG,P.087,KUALA KRAU,N.29,JENGKA,300.91,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.088_N.30,PAHANG,P.088,TEMERLOH,N.30,MENTAKAB,147.02,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.088_N.31,PAHANG,P.088,TEMERLOH,N.31,LANCHANG,818.07,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.088_N.32,PAHANG,P.088,TEMERLOH,N.32,KUALA SEMANTAN,248.98,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.089_N.33,PAHANG,P.089,BENTONG,N.33,BILUT,28.1,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.089_N.34,PAHANG,P.089,BENTONG,N.34,KETARI,538.57,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.089_N.35,PAHANG,P.089,BENTONG,N.35,SABAI,343.59,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.089_N.36,PAHANG,P.089,BENTONG,N.36,PELANGAI,669.54,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.090_N.37,PAHANG,P.090,BERA,N.37,GUAI,408.59,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.090_N.38,PAHANG,P.090,BERA,N.38,TRIANG,284.93,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.090_N.39,PAHANG,P.090,BERA,N.39,KEMAYAN,1524.09,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.091_N.40,PAHANG,P.091,ROMPIN,N.40,BUKIT IBAM,1990.08,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.091_N.41,PAHANG,P.091,ROMPIN,N.41,MUADZAM SHAH,2294.19,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.091_N.42,PAHANG,P.091,ROMPIN,N.42,TIOMAN,1249.18,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.092_N.01,SELANGOR,P.092,SABAK BERNAM,N.01,SUNGAI AIR TAWAR,178.75,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.092_N.02,SELANGOR,P.092,SABAK BERNAM,N.02,SABAK,156.33,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.093_N.03,SELANGOR,P.093,SUNGAI BESAR,N.03,SUNGAI PANJANG,367.85,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.093_N.04,SELANGOR,P.093,SUNGAI BESAR,N.04,SEKINCHAN,241.41,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.094_N.05,SELANGOR,P.094,HULU SELANGOR,N.05,HULU BERNAM,573.86,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.094_N.06,SELANGOR,P.094,HULU SELANGOR,N.06,KUALA KUBU BAHARU,665.39,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.094_N.07,SELANGOR,P.094,HULU SELANGOR,N.07,BATANG KALI,479.15,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.095_N.08,SELANGOR,P.095,TANJONG KARANG,N.08,SUNGAI BURONG,187.54,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.095_N.09,SELANGOR,P.095,TANJONG KARANG,N.09,PERMATANG,575.99,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.096_N.10,SELANGOR,P.096,KUALA SELANGOR,N.10,BUKIT MELAWATI,135.1,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.096_N.11,SELANGOR,P.096,KUALA SELANGOR,N.11,IJOK,91.95,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.096_N.12,SELANGOR,P.096,KUALA SELANGOR,N.12,JERAM,206.53,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.097_N.13,SELANGOR,P.097,SELAYANG,N.13,KUANG,117.79,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.097_N.14,SELANGOR,P.097,SELAYANG,N.14,RAWANG,111.98,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.097_N.15,SELANGOR,P.097,SELAYANG,N.15,TAMAN TEMPLER,69.86,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.098_N.16,SELANGOR,P.098,GOMBAK,N.16,BATU CAVES,66.09,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.098_N.17,SELANGOR,P.098,GOMBAK,N.17,GOMBAK SETIA,131.63,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.098_N.18,SELANGOR,P.098,GOMBAK,N.18,HULU KELANG,71.24,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.099_N.19,SELANGOR,P.099,AMPANG,N.19,BUKIT ANTARABANGSA,12.71,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.099_N.20,SELANGOR,P.099,AMPANG,N.20,LEMBAH JAYA,33.15,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.100_N.21,SELANGOR,P.100,PANDAN,N.21,CHEMPAKA,9.08,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.100_N.22,SELANGOR,P.100,PANDAN,N.22,TERATAI,12.25,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.101_N.23,SELANGOR,P.101,HULU LANGAT,N.23,DUSUN TUA,313.32,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.101_N.24,SELANGOR,P.101,HULU LANGAT,N.24,SEMENYIH,341.54,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.101_N.25,SELANGOR,P.101,HULU LANGAT,N.25,KAJANG,39.56,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.102_N.26,SELANGOR,P.102,SERDANG,N.26,BANGI,66.64,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.102_N.27,SELANGOR,P.102,SERDANG,N.27,BALAKONG,36.8,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.102_N.28,SELANGOR,P.102,SERDANG,N.28,SERI KEMBANGAN,17.48,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.103_N.29,SELANGOR,P.103,PUCHONG,N.29,SERI SERDANG,84.6,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.103_N.30,SELANGOR,P.103,PUCHONG,N.30,KINRARA,23.03,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.104_N.31,SELANGOR,P.104,KELANA JAYA,N.31,SUBANG JAYA,17.86,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.104_N.32,SELANGOR,P.104,KELANA JAYA,N.32,SERI SETIA,22.25,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.105_N.33,SELANGOR,P.105,PETALING JAYA SELATAN,N.33,TAMAN MEDAN,8.27,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.105_N.34,SELANGOR,P.105,PETALING JAYA SELATAN,N.34,BUKIT GASING,10.57,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.106_N.35,SELANGOR,P.106,PETALING JAYA UTARA,N.35,KAMPUNG TUNKU,4.24,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.106_N.36,SELANGOR,P.106,PETALING JAYA UTARA,N.36,DAMANSARA UTAMA,12.53,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.107_N.37,SELANGOR,P.107,SUBANG,N.37,BUKIT LANJAN,28.43,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.107_N.38,SELANGOR,P.107,SUBANG,N.38,PAYA JARAS,65.16,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.107_N.39,SELANGOR,P.107,SUBANG,N.39,KOTA DAMANSARA,52.96,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.108_N.40,SELANGOR,P.108,SHAH ALAM,N.40,KOTA ANGGERIK,123.62,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.108_N.41,SELANGOR,P.108,SHAH ALAM,N.41,BATU TIGA,30.06,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.109_N.42,SELANGOR,P.109,KAPAR,N.42,MERU,109.07,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.109_N.43,SELANGOR,P.109,KAPAR,N.43,SEMENTA,65.6,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.109_N.44,SELANGOR,P.109,KAPAR,N.44,SUNGAI PINANG,45.3,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.109_N.45,SELANGOR,P.109,KAPAR,N.45,SELAT KLANG,94.05,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.110_N.46,SELANGOR,P.110,KLANG,N.46,PELABUHAN KLANG,109.37,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.110_N.47,SELANGOR,P.110,KLANG,N.47,PANDAMARAN,7.8,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.110_N.48,SELANGOR,P.110,KLANG,N.48,KOTA ALAM SHAH,9.41,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.111_N.49,SELANGOR,P.111,KOTA RAJA,N.49,SERI ANDALAS,33.39,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.111_N.50,SELANGOR,P.111,KOTA RAJA,N.50,SRI MUDA,94.44,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.112_N.51,SELANGOR,P.112,KUALA LANGAT,N.51,SIJANGKANG,239.91,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.112_N.52,SELANGOR,P.112,KUALA LANGAT,N.52,TELUK DATUK,162.05,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.112_N.53,SELANGOR,P.112,KUALA LANGAT,N.53,MORIB,147.19,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.113_N.54,SELANGOR,P.113,SEPANG,N.54,TANJONG SEPAT,292.68,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.113_N.55,SELANGOR,P.113,SEPANG,N.55,DENGKIL,289.32,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.113_N.56,SELANGOR,P.113,SEPANG,N.56,SUNGAI PELEK,209.34,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.126_N.01,NEGERI SEMBILAN,P.126,JELEBU,N.01,CHENNAH,730.63,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.126_N.02,NEGERI SEMBILAN,P.126,JELEBU,N.02,PERTANG,399.97,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.126_N.03,NEGERI SEMBILAN,P.126,JELEBU,N.03,SUNGAI LUI,319.34,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.126_N.04,NEGERI SEMBILAN,P.126,JELEBU,N.04,KLAWANG,227.89,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.127_N.05,NEGERI SEMBILAN,P.127,JEMPOL,N.05,SERTING,448.21,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.127_N.06,NEGERI SEMBILAN,P.127,JEMPOL,N.06,PALONG,305.99,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.127_N.07,NEGERI SEMBILAN,P.127,JEMPOL,N.07,JERAM PADANG,360.12,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.127_N.08,NEGERI SEMBILAN,P.127,JEMPOL,N.08,BAHAU,49.14,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.128_N.09,NEGERI SEMBILAN,P.128,SEREMBAN,N.09,LENGGENG,265.57,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.128_N.10,NEGERI SEMBILAN,P.128,SEREMBAN,N.10,NILAI,161.64,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.128_N.11,NEGERI SEMBILAN,P.128,SEREMBAN,N.11,LOBAK,27.59,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.128_N.12,NEGERI SEMBILAN,P.128,SEREMBAN,N.12,TEMIANG,9.13,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.128_N.13,NEGERI SEMBILAN,P.128,SEREMBAN,N.13,SIKAMAT,18.07,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.128_N.14,NEGERI SEMBILAN,P.128,SEREMBAN,N.14,AMPANGAN,8.14,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.129_N.15,NEGERI SEMBILAN,P.129,KUALA PILAH,N.15,JUASSEH,206.83,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.129_N.16,NEGERI SEMBILAN,P.129,KUALA PILAH,N.16,SERI MENANTI,328.76,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.129_N.17,NEGERI SEMBILAN,P.129,KUALA PILAH,N.17,SENALING,110.77,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.129_N.18,NEGERI SEMBILAN,P.129,KUALA PILAH,N.18,PILAH,55.25,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.129_N.19,NEGERI SEMBILAN,P.129,KUALA PILAH,N.19,JOHOL,329.21,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.130_N.20,NEGERI SEMBILAN,P.130,RASAH,N.20,LABU,147.22,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.130_N.21,NEGERI SEMBILAN,P.130,RASAH,N.21,BUKIT KEPAYANG,30.89,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.130_N.22,NEGERI SEMBILAN,P.130,RASAH,N.22,RAHANG,7.51,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.130_N.23,NEGERI SEMBILAN,P.130,RASAH,N.23,MAMBAU,38.62,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.130_N.24,NEGERI SEMBILAN,P.130,RASAH,N.24,SENAWANG,12.26,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.131_N.25,NEGERI SEMBILAN,P.131,REMBAU,N.25,PAROI,100.35,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.131_N.26,NEGERI SEMBILAN,P.131,REMBAU,N.26,CHEMBONG,190.91,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.131_N.27,NEGERI SEMBILAN,P.131,REMBAU,N.27,RANTAU,124.18,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.131_N.28,NEGERI SEMBILAN,P.131,REMBAU,N.28,KOTA,211.72,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.132_N.29,NEGERI SEMBILAN,P.132,TELOK KEMANG,N.29,CHUAH,111.81,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.132_N.30,NEGERI SEMBILAN,P.132,TELOK KEMANG,N.30,LUKUT,87.97,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.132_N.31,NEGERI SEMBILAN,P.132,TELOK KEMANG,N.31,BAGAN PINANG,131.44,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.132_N.32,NEGERI SEMBILAN,P.132,TELOK KEMANG,N.32,LINGGI,205.58,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.132_N.33,NEGERI SEMBILAN,P.132,TELOK KEMANG,N.33,PORT DICKSON,33.58,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.133_N.34,NEGERI SEMBILAN,P.133,TAMPIN,N.34,GEMAS,330.6,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.133_N.35,NEGERI SEMBILAN,P.133,TAMPIN,N.35,GEMENCHEH,335.67,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.133_N.36,NEGERI SEMBILAN,P.133,TAMPIN,N.36,REPAH,185.92,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.134_N.01,MELAKA,P.134,MASJID TANAH,N.01,KUALA LINGGI,55.38,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.134_N.02,MELAKA,P.134,MASJID TANAH,N.02,TANJUNG BIDARA,37.36,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.134_N.03,MELAKA,P.134,MASJID TANAH,N.03,AYER LIMAU,64.65,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.134_N.04,MELAKA,P.134,MASJID TANAH,N.04,LENDU,72.03,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.134_N.05,MELAKA,P.134,MASJID TANAH,N.05,TABOH NANING,94.41,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.135_N.06,MELAKA,P.135,ALOR GAJAH,N.06,REMBIA,53.75,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.135_N.07,MELAKA,P.135,ALOR GAJAH,N.07,GADEK,66.86,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.135_N.08,MELAKA,P.135,ALOR GAJAH,N.08,MACHAP,161.2,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.135_N.09,MELAKA,P.135,ALOR GAJAH,N.09,DURIAN TUNGGAL,64.31,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.135_N.10,MELAKA,P.135,ALOR GAJAH,N.10,ASAHAN,212.08,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.136_N.11,MELAKA,P.136,TANGGA BATU,N.11,SUNGAI UDANG,22.78,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.136_N.12,MELAKA,P.136,TANGGA BATU,N.12,PANTAI KUNDOR,15.12,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.136_N.13,MELAKA,P.136,TANGGA BATU,N.13,PAYA RUMPUT,62.86,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.136_N.14,MELAKA,P.136,TANGGA BATU,N.14,KELEBANG,22.82,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.137_N.15,MELAKA,P.137,BUKIT KATIL,N.15,BACHANG,16.23,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.137_N.16,MELAKA,P.137,BUKIT KATIL,N.16,AYER KEROH,41.01,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.137_N.17,MELAKA,P.137,BUKIT KATIL,N.17,BUKIT BARU,17.54,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.137_N.18,MELAKA,P.137,BUKIT KATIL,N.18,AYER MOLEK,51.7,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.138_N.19,MELAKA,P.138,KOTA MELAKA,N.19,KESIDANG,7.28,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.138_N.20,MELAKA,P.138,KOTA MELAKA,N.20,KOTA LAKSAMANA,4.5,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.138_N.21,MELAKA,P.138,KOTA MELAKA,N.21,DUYONG,12.49,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.138_N.22,MELAKA,P.138,KOTA MELAKA,N.22,BANDAR HILIR,3.57,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.138_N.23,MELAKA,P.138,KOTA MELAKA,N.23,TELOK MAS,19,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.139_N.24,MELAKA,P.139,JASIN,N.24,BEMBAN,115.52,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.139_N.25,MELAKA,P.139,JASIN,N.25,RIM,103.55,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.139_N.26,MELAKA,P.139,JASIN,N.26,SERKAM,45.5,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.139_N.27,MELAKA,P.139,JASIN,N.27,MERLIMAU,117.49,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.139_N.28,MELAKA,P.139,JASIN,N.28,SUNGAI RAMBAI,90.6,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.140_N.01,JOHOR,P.140,SEGAMAT,N.01,BULOH KASAP,580.59,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.140_N.02,JOHOR,P.140,SEGAMAT,N.02,JEMENTAH,357.7,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.141_N.03,JOHOR,P.141,SEKIJANG,N.03,PEMANIS,231.4,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.141_N.04,JOHOR,P.141,SEKIJANG,N.04,KEMELAH,267.88,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.142_N.05,JOHOR,P.142,LABIS,N.05,TENANG,331.16,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.142_N.06,JOHOR,P.142,LABIS,N.06,BEKOK,1047.5,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.143_N.07,JOHOR,P.143,PAGOH,N.07,BUKIT SERAMPANG,769.58,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.143_N.08,JOHOR,P.143,PAGOH,N.08,JORAK,407.82,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.144_N.09,JOHOR,P.144,LEDANG,N.09,GAMBIR,245.56,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.144_N.10,JOHOR,P.144,LEDANG,N.10,TANGKAK,220.57,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.144_N.11,JOHOR,P.144,LEDANG,N.11,SEROM,181.76,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.145_N.12,JOHOR,P.145,BAKRI,N.12,BENTAYAN,17.64,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.145_N.13,JOHOR,P.145,BAKRI,N.13,SUNGAI ABONG,33.96,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.145_N.14,JOHOR,P.145,BAKRI,N.14,BUKIT NANING,187.18,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.146_N.15,JOHOR,P.146,MUAR,N.15,MAHARANI,64.14,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.146_N.16,JOHOR,P.146,MUAR,N.16,SUNGAI BALANG,209.28,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.147_N.17,JOHOR,P.147,PARIT SULONG,N.17,SEMERAH,142.56,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.147_N.18,JOHOR,P.147,PARIT SULONG,N.18,SRI MEDAN,311.7,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.148_N.19,JOHOR,P.148,AYER HITAM,N.19,YONG PENG,540.48,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.148_N.20,JOHOR,P.148,AYER HITAM,N.20,SEMARANG,192.52,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.149_N.21,JOHOR,P.149,SRI GADING,N.21,PARIT YAANI,114.04,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.149_N.22,JOHOR,P.149,SRI GADING,N.22,PARIT RAJA,171.01,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.150_N.23,JOHOR,P.150,BATU PAHAT,N.23,PENGGARAM,13.37,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.150_N.24,JOHOR,P.150,BATU PAHAT,N.24,SENGGARANG,189.55,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.150_N.25,JOHOR,P.150,BATU PAHAT,N.25,RENGIT,213.35,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.151_N.26,JOHOR,P.151,SIMPANG RENGGAM,N.26,MACHAP,406.84,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.151_N.27,JOHOR,P.151,SIMPANG RENGGAM,N.27,LAYANG-LAYANG,341.56,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.152_N.28,JOHOR,P.152,KLUANG,N.28,MENGKIBOL,194.26,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.152_N.29,JOHOR,P.152,KLUANG,N.29,MAHKOTA,54.73,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.153_N.30,JOHOR,P.153,SEMBRONG,N.30,PALOH,829.92,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.153_N.31,JOHOR,P.153,SEMBRONG,N.31,KAHANG,961.54,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.154_N.32,JOHOR,P.154,MERSING,N.32,ENDAU,1085.24,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.154_N.33,JOHOR,P.154,MERSING,N.33,TENGGAROH,1666.56,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.155_N.34,JOHOR,P.155,TENGGARA,N.34,PANTI,863.29,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.155_N.35,JOHOR,P.155,TENGGARA,N.35,PASIR RAJA,353.79,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.156_N.36,JOHOR,P.156,KOTA TINGGI,N.36,SEDILI,1052.61,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.156_N.37,JOHOR,P.156,KOTA TINGGI,N.37,JOHOR LAMA,228.98,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.157_N.38,JOHOR,P.157,PENGERANG,N.38,PENAWAR,409.79,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.157_N.39,JOHOR,P.157,PENGERANG,N.39,TANJONG SURAT,366.29,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.158_N.40,JOHOR,P.158,TEBRAU,N.40,TIRAM,301.2,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.158_N.41,JOHOR,P.158,TEBRAU,N.41,PUTERI WANGSA,148.59,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.159_N.42,JOHOR,P.159,PASIR GUDANG,N.42,JOHOR JAYA,70.54,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.159_N.43,JOHOR,P.159,PASIR GUDANG,N.43,PERMAS,43.65,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.160_N.44,JOHOR,P.160,JOHOR BAHRU,N.44,TANJONG PUTERI,25.54,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.160_N.45,JOHOR,P.160,JOHOR BAHRU,N.45,STULANG,14.13,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.161_N.46,JOHOR,P.161,PULAI,N.46,PENGKALAN RINTING,38.47,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.161_N.47,JOHOR,P.161,PULAI,N.47,KEMPAS,21.84,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.162_N.48,JOHOR,P.162,GELANG PATAH,N.48,SKUDAI,55.59,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.162_N.49,JOHOR,P.162,GELANG PATAH,N.49,NUSA JAYA,327.04,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.163_N.50,JOHOR,P.163,KULAI,N.50,BUKIT PERMAI,284.54,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.163_N.51,JOHOR,P.163,KULAI,N.51,BUKIT BATU,253.37,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.163_N.52,JOHOR,P.163,KULAI,N.52,SENAI,125.19,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.164_N.53,JOHOR,P.164,PONTIAN,N.53,BENUT,312.72,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.164_N.54,JOHOR,P.164,PONTIAN,N.54,PULAI SEBATANG,161.54,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.165_N.55,JOHOR,P.165,TANJONG PIAI,N.55,PEKAN NENAS,70.06,As per 2003 redelineation exercise of Peninsular Malaysia and Federal Territories
+P.165_N.56,JOHOR,P.165,TANJONG PIAI,N.56,KUKUP,415.26,As per 2003 redelineation exercise of Sabah
+P.167_N.01,SABAH,P.167,KUDAT,N.01,BANGGI,1325.55,As per 2003 redelineation exercise of Sabah
+P.167_N.02,SABAH,P.167,KUDAT,N.02,TANJONG KAPOR,230.64,As per 2003 redelineation exercise of Sabah
+P.167_N.03,SABAH,P.167,KUDAT,N.03,PITAS,888.45,As per 2003 redelineation exercise of Sabah
+P.168_N.04,SABAH,P.168,KOTA MARUDU,N.04,MATUNGGONG,797.23,As per 2003 redelineation exercise of Sabah
+P.168_N.05,SABAH,P.168,KOTA MARUDU,N.05,TANDEK,1374.09,As per 2003 redelineation exercise of Sabah
+P.169_N.06,SABAH,P.169,KOTA BELUD,N.06,TEMPASUK,436.63,As per 2003 redelineation exercise of Sabah
+P.169_N.07,SABAH,P.169,KOTA BELUD,N.07,KADAMAIAN,831.36,As per 2003 redelineation exercise of Sabah
+P.169_N.08,SABAH,P.169,KOTA BELUD,N.08,USUKAN,98.5,As per 2003 redelineation exercise of Sabah
+P.170_N.09,SABAH,P.170,TUARAN,N.09,TAMPARULI,208.14,As per 2003 redelineation exercise of Sabah
+P.170_N.10,SABAH,P.170,TUARAN,N.10,SULAMAN,148.84,As per 2003 redelineation exercise of Sabah
+P.170_N.11,SABAH,P.170,TUARAN,N.11,KIULU,791.68,As per 2003 redelineation exercise of Sabah
+P.171_N.12,SABAH,P.171,SEPANGGAR,N.12,KARAMBUNAI,69.72,As per 2003 redelineation exercise of Sabah
+P.171_N.13,SABAH,P.171,SEPANGGAR,N.13,INANAM,202.72,As per 2003 redelineation exercise of Sabah
+P.172_N.14,SABAH,P.172,KOTA KINABALU,N.14,LIKAS,20.27,As per 2003 redelineation exercise of Sabah
+P.172_N.15,SABAH,P.172,KOTA KINABALU,N.15,API-API,15.81,As per 2003 redelineation exercise of Sabah
+P.172_N.16,SABAH,P.172,KOTA KINABALU,N.16,LUYANG,19.49,As per 2003 redelineation exercise of Sabah
+P.173_N.17,SABAH,P.173,PUTATAN,N.17,TANJONG ARU,47.88,As per 2003 redelineation exercise of Sabah
+P.173_N.18,SABAH,P.173,PUTATAN,N.18,PETAGAS,23.56,As per 2003 redelineation exercise of Sabah
+P.174_N.19,SABAH,P.174,PENAMPANG,N.19,KAPAYAN,32.53,As per 2003 redelineation exercise of Sabah
+P.174_N.20,SABAH,P.174,PENAMPANG,N.20,MOYOG,403.8,As per 2003 redelineation exercise of Sabah
+P.175_N.21,SABAH,P.175,PAPAR,N.21,KAWANG,456.28,As per 2003 redelineation exercise of Sabah
+P.175_N.22,SABAH,P.175,PAPAR,N.22,PANTAI MANIS,225,As per 2003 redelineation exercise of Sabah
+P.176_N.23,SABAH,P.176,KIMANIS,N.23,BONGAWAN,408.12,As per 2003 redelineation exercise of Sabah
+P.176_N.24,SABAH,P.176,KIMANIS,N.24,MEMBAKUT,378.04,As per 2003 redelineation exercise of Sabah
+P.177_N.25,SABAH,P.177,BEAUFORT,N.25,KLIAS,500.94,As per 2003 redelineation exercise of Sabah
+P.177_N.26,SABAH,P.177,BEAUFORT,N.26,KUALA PENYU,425.08,As per 2003 redelineation exercise of Sabah
+P.178_N.27,SABAH,P.178,SIPITANG,N.27,LUMADAN,880.77,As per 2003 redelineation exercise of Sabah
+P.178_N.28,SABAH,P.178,SIPITANG,N.28,SINDUMIN,2727.57,As per 2003 redelineation exercise of Sabah
+P.179_N.29,SABAH,P.179,RANAU,N.29,KUNDASANG,1711.46,As per 2003 redelineation exercise of Sabah
+P.179_N.30,SABAH,P.179,RANAU,N.30,KARANAAN,177.69,As per 2003 redelineation exercise of Sabah
+P.179_N.31,SABAH,P.179,RANAU,N.31,PAGINATAN,1896.31,As per 2003 redelineation exercise of Sabah
+P.180_N.32,SABAH,P.180,KENINGAU,N.32,TAMBUNAN,1338.93,As per 2003 redelineation exercise of Sabah
+P.180_N.33,SABAH,P.180,KENINGAU,N.33,BINGKOR,861.15,As per 2003 redelineation exercise of Sabah
+P.180_N.34,SABAH,P.180,KENINGAU,N.34,LIAWAN,277.02,As per 2003 redelineation exercise of Sabah
+P.181_N.35,SABAH,P.181,TENOM,N.35,MELALAP,605.01,As per 2003 redelineation exercise of Sabah
+P.181_N.36,SABAH,P.181,TENOM,N.36,KEMABONG,1797.84,As per 2003 redelineation exercise of Sabah
+P.182_N.37,SABAH,P.182,PENSIANGAN,N.37,SOOK,2388.45,As per 2003 redelineation exercise of Sabah
+P.182_N.38,SABAH,P.182,PENSIANGAN,N.38,NABAWAN,5936.93,As per 2003 redelineation exercise of Sabah
+P.183_N.39,SABAH,P.183,BELURAN,N.39,SUGUT,3481.34,As per 2003 redelineation exercise of Sabah
+P.183_N.40,SABAH,P.183,BELURAN,N.40,LABUK,4086.49,As per 2003 redelineation exercise of Sabah
+P.184_N.41,SABAH,P.184,LIBARAN,N.41,GUM-GUM,762.65,As per 2003 redelineation exercise of Sabah
+P.184_N.42,SABAH,P.184,LIBARAN,N.42,SUNGAI SIBUGA,83.18,As per 2003 redelineation exercise of Sabah
+P.185_N.43,SABAH,P.185,BATU SAPI,N.43,SEKONG,552.12,As per 2003 redelineation exercise of Sabah
+P.185_N.44,SABAH,P.185,BATU SAPI,N.44,KARAMUNTING,7.96,As per 2003 redelineation exercise of Sabah
+P.186_N.45,SABAH,P.186,SANDAKAN,N.45,ELOPURA,31.88,As per 2003 redelineation exercise of Sabah
+P.186_N.46,SABAH,P.186,SANDAKAN,N.46,TANJONG PAPAT,6.72,As per 2003 redelineation exercise of Sabah
+P.187_N.47,SABAH,P.187,KINABATANGAN,N.47,KUAMUT,12917.53,As per 2003 redelineation exercise of Sabah
+P.187_N.48,SABAH,P.187,KINABATANGAN,N.48,SUKAU,4959.51,As per 2003 redelineation exercise of Sabah
+P.188_N.49,SABAH,P.188,SILAM,N.49,TUNGKU,3973.72,As per 2003 redelineation exercise of Sabah
+P.188_N.50,SABAH,P.188,SILAM,N.50,LAHAD DATU,3166.45,As per 2003 redelineation exercise of Sabah
+P.188_N.51,SABAH,P.188,SILAM,N.51,KUNAK,1109.22,As per 2003 redelineation exercise of Sabah
+P.189_N.52,SABAH,P.189,SEMPORNA,N.52,SULABAYAN,234.75,As per 2003 redelineation exercise of Sabah
+P.189_N.53,SABAH,P.189,SEMPORNA,N.53,SENALLANG,338.88,As per 2003 redelineation exercise of Sabah
+P.189_N.54,SABAH,P.189,SEMPORNA,N.54,BUGAYA,542.83,As per 2003 redelineation exercise of Sabah
+P.190_N.55,SABAH,P.190,TAWAU,N.55,BALUNG,1002.73,As per 2003 redelineation exercise of Sabah
+P.190_N.56,SABAH,P.190,TAWAU,N.56,APAS,402.32,As per 2003 redelineation exercise of Sabah
+P.190_N.57,SABAH,P.190,TAWAU,N.57,SRI TANJONG,30.89,As per 2003 redelineation exercise of Sabah
+P.191_N.58,SABAH,P.191,KALABAKAN,N.58,MEROTAI,778.17,As per 2003 redelineation exercise of Sabah
+P.191_N.59,SABAH,P.191,KALABAKAN,N.59,TANJONG BATU,2222.96,As per 2003 redelineation exercise of Sabah
+P.191_N.60,SABAH,P.191,KALABAKAN,N.60,SEBATIK,1488.35,As per 2003 redelineation exercise of Sabah
