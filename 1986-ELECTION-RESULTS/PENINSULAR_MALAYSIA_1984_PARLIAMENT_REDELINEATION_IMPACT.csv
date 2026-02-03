@@ -26,7 +26,7 @@ P.23,KELANTAN,P.23,TANAH MERAH,P. 26,KELANTAN,P. 26,TANAH MERAH,,,Boundary has c
 P.24,KELANTAN,P.24,MACHANG,P. 27,KELANTAN,P. 27,MACHANG,,,Boundary has changed
 P.25,KELANTAN,P.25,PASIR PUTEH,P. 24,KELANTAN,P. 24,PASIR PUTEH,,,Boundary has changed
 P.26,KELANTAN,P.26,KUALA KERAI,P. 28,KELANTAN,P. 28,KUALA KRAI,YES,,Boundary has changed
-P.27,KELANTAN,P.27,ULU KELANTAN,P. 29,KELANTAN,P. 29,GUA MUSANG,,,Boundary has changed
+P.27,KELANTAN,P.27,ULU KELANTAN,P. 29,KELANTAN,P. 29,GUA MUSANG,YES,,Boundary has changed
 ,,,,P. 25,KELANTAN,P. 25,KOK LANAS,,YES,"Formed from the constituencies of Nilam Puri, Pasir Puteh, and Machang"
 P.28,TRENGGANU,P.28,BESUT,P. 30,TERENGGANU,P. 30,BESUT,,,Boundary has changed
 P.29,TRENGGANU,P.29,ULU NERUS,P. 31,TERENGGANU,P. 31,SETIU,YES,,Boundary has changed
@@ -115,13 +115,13 @@ P.98,MELAKA,P.98,KOTA MELAKA,P. 113,MELAKA,P. 113,KOTA MELAKA,,,Boundary has cha
 ,,,,P. 111,MELAKA,P. 111,SELANDAR,,YES,Formed from the constituencies of Alor Gajah and Jasin
 P.99,JOHOR,P.99,LABIS,P. 118,JOHOR,P. 118,LABIS,,,Boundary has changed
 P.100,JOHOR,P.100,SEGAMAT,P. 115,JOHOR,P. 115,SEGAMAT,,,Boundary has changed
-P.101,JOHOR,P.101,KELUANG,P. 120,JOHOR,P. 120,KLUANG,,,Boundary has changed
+P.101,JOHOR,P.101,KELUANG,P. 120,JOHOR,P. 120,KLUANG,YES,,Boundary has changed
 P.102,JOHOR,P.102,TENGGAROH,P. 119,JOHOR,P. 119,MERSING,YES,,
 P.103,JOHOR,P.103,LEDANG,P. 116,JOHOR,P. 116,LEDANG,,,Boundary has changed
 P.104,JOHOR,P.104,PAGOH,P. 117,JOHOR,P. 117,PAGOH,,,Boundary has changed
 P.105,JOHOR,P.105,AYER HITAM,,,,,,,Constituency was abolished
 P.106,JOHOR,P.106,MUAR,P. 123,JOHOR,P. 123,MUAR,,,Boundary has changed
-P.107,JOHOR,P.107,RENGGAM,P. 127,JOHOR,P. 127,SENAI,,,Boundary has changed
+P.107,JOHOR,P.107,RENGGAM,P. 127,JOHOR,P. 127,SENAI,YES,,Boundary has changed
 P.108,JOHOR,P.108,PANTI,P. 128,JOHOR,P. 128,KOTA TINGGI,YES,,Boundary has changed
 P.109,JOHOR,P.109,SRI GADING,P. 124,JOHOR,P. 124,SRI GADING,,,Boundary has changed
 P.110,JOHOR,P.110,SEMERAH,P. 121,JOHOR,P. 121,PARIT SULONG,YES,,Boundary has changed
@@ -133,3 +133,4 @@ P.114,JOHOR,P.114,JOHOR BAHRU,P. 130,JOHOR,P. 130,JOHOR BAHRU,,,Boundary has cha
 ,,,,P. 126,JOHOR,P. 126,SUNGAI BENUT,,YES,"Formed from constituencies of Renggam, Sri Gading, Pontian and abolished Ayer Hitam"
 ,,,,P. 129,JOHOR,P. 129,TEBRAU,,YES,"Formed from constituencies of Johor Bahru, Pulai, and formerly named Panti"
 ,,,,P. 133,WILAYAH PERSEKUTUAN LABUAN,P. 133,LABUAN,,YES,Excised from constituency of Hilir Padas (Sabah)
+
