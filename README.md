@@ -27,3 +27,6 @@ IT is a requirement that all users ought to read the metadata of every dataset a
 
 **NOTICE OF UPDATE (1/12/2025)
 - Updated Sabah Women Candidate and Representative Data for 2025 Elections. Source: https://www.thestar.com.my/news/nation/2025/11/30/sabah-polls-five-women-win-mandate-from-voters
+
+*NOTICE OF UPDATE (30/3/2026)
+- Sarawak women election candidates and elected representatives file has been uploaded.Information may have errors here and there. Information is originally from various Github election results of Tindak Malaysia. The file contents may be changed time to time
