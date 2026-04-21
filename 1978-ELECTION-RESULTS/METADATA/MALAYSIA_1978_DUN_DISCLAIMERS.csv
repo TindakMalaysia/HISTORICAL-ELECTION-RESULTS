@@ -1,0 +1,48 @@
+﻿PERLIS,,,
+"According to EC, total BN votes is 25151 while Tindak compilation states it is 25131. Source of the error is EC has a contradictory vote count for Bandar Arau BN candidate (1668 vs 1688 votes)",,,
+,,,
+PULAU PINANG,,,
+"For DUN Sungai Acheh, discrepancy between rejected vote count on main table and appendix of EC's report. According to EC's main table, rejected vote is 208, but in appendix, it is 289. 289 is most likely the number, as total voted minus total of valid votes (which are both the same in main table and appendix) equals 289.",,,
+"Calculation mistake with total rejected votes (state level) on appendix. According to EC Appendix I(4), lists total rejected votes as 12,745, but when actually calculated it only goes to 12,445.",,,
+EC provided contradictory labelling for candidate of Khoo Teng Kok (DUN Datok Keramat). The main table states the candidate belongs to DAP while Appendix I(4) says the candidate belongs to SDP. This in turn impacted totals vote count for DAP and SDP (at state level),,,
+EC states PAS candidate DUN Sungei Nibong didn't lose deposit though he gained less than 1/8th of valid votes,,,
+,,,
+Perak,,,
+There are discrepancies on seats allocated and won by BN Component Parties according to multiple sources,,,
+,,,
+Allocated Seat,,,
+BN COMPONENT PARTY,ISMAIL KASSIM,HAROLD CROUCH,TINDAK
+UMNO,24,24,24
+MCA,10,8,8
+MIC,2,2,2
+GERAKAN,2,4,4
+PPP,4,4,4
+,,,
+Seats Won,,,
+BN COMPONENT PARTY,ISMAIL KASSIM,HAROLD CROUCH,TINDAK
+UMNO,23,23,23
+MCA,6,5,4
+MIC,1,1,1
+GERAKAN,1,2,3
+PPP,1,1,1
+,,,
+"For DUN Simpang Lima, major discrepancy on DAP votes, ballots paper issued/total voted, voting percentage, between main table and Appendix I(5) of EC report. According to EC's main table, DAP votes is 1,013, but Appendix I(5), DAP votes is 1,103, with difference of 90. This is reflected in ballots paper issues/total voted (12,419 to 12,509) and voting percentage (76.06 to 76.61). Unsure which one is correct, prioritising data from main table first.",,,
+"For DUN Gopeng, discrepancy on total voted / ballots between main table and Appendix I(5) of EC report. According to EC's main table, total ballots issued is 20,095, but in Appendix I(5), total voted is 20,094. When added votes for parties and votes rejected (9544+8641+1052+857, same in both main table and appendix) = 20,094, leading to believe the total voted in Appendix I(5) is correct",,,
+"According to EC, total valid votes is 533460 while Tindak computations state it is 533370",,,
+"According to EC, total ballots issued is 556187 while Tindak computations state it is 556187",,,
+,,,
+Selangor,,,
+"According to Appendix J by EC (report), number of lost deposit by candidates is 19, but calculating candidates that received votes below 1/8th valid votes, we found 22. The extra 3 would be N.21 - Selat Kelang, PAS candidate Mohd Zin bin Ibrahim; N.24 Kampong Jawa , PEKEMAS candidates Abdul Manap bin Sulaiman, and N.11 - Asam Jawa, independent candidate Mahmood bin Ngah.",,,
+"According to Appendix I(7) by EC (report), DUN Asam Jawa has 1 independent candidate with deposit lost (marked with single cross), and DUN Semenyih has 2 independent candidates with deposit lost (with double cross). However in Tindak findings, it is the opposite; 2 independent candidates' deposits lost in DUN Asam Jawa, and 1 lost deposit in DUN Semenyih.",,,
+"According to Appendix I(7) by EC (report), total valid votes for Independents in DUN Asam Jawa is 1658 which is inaccurate (correct value is 1657)",,,
+"For DUN Bandar Kelang, EC has errorneously reported total electorate of 1 in the main table. Appendix data was used as the correct figure",,,
+"For DUN Kuala Kubu Baharu, there is unusually high count of rejected votes (commanding around 50% of total ballots issued). BN candidate may have been disqualified",,,
+,,,
+Negeri Sembilan,,,
+"For DUN Pasir Panjang, major discrepancy on DAP votes, ballots paper issued/total voted, voting percentage between main table and Appendix I(8). Main table says DAP votes is 1,312, but Appendix says 1,321, causing a difference of 9 across the other figures. This is reflected in ballots paper issues/total voted (5,261 to 5,270) and voting percentage (72.77 to 72.90). Unsure which one is correct, prioritising data from main table first.",,,
+"According to EC, total valid votes is 159479 while Tindak computations state it is 159470",,,
+"According to EC, total ballots issued is 167633 while Tindak computations state it is 167624",,,
+,,,
+Melaka,,,
+"For DUN Sungei Rambai, there is a discrepancy on ballots paper issued / total voted, between main table and Appendix I(9). Main table says 6,506, but Appendix says 5,606. Calculating total votes for parties and rejected votes (3,288+746+1,292+280) = 5,606, making the appendix correct.",,,
+"For DUN Sungei Rambai, total valid votes is derived from the Appendix",,,
