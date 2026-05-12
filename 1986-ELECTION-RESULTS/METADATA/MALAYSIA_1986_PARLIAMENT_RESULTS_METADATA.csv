@@ -36,7 +36,7 @@ PAS CANDIDATE SEX,Male/Female Classification
 PAS CANDIDATE AGE,Age of PAS Candidate
 PAS VOTE,PAS Valid Vote for the Candidate
 PAS CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
-DAP,Democratic Action Party (DAP) Name
+DAP,Democratic Action Party (DAP)
 DAP CANDIDATE,DAP Candidate Name as per the Government Gazette
 DAP CANDIDATE SEX,Male/Female Classification
 DAP CANDIDATE AGE,Age of Party Candidate
