@@ -1,0 +1,102 @@
+Created on,22/5/2026
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Laporan Pilihanraya Umum Malaysia 1990, New Straits Times 11th October 1990, Almanak keputusan pilihan raya umum : Parlimen dan Dewan Undangan Negeri 1959-1999 (Anzagain), Tindak Malaysia GitHub. For specific DUN Candidate background details, refer to 1990_Other_Sources_DUN_File"
+Disclaimers,"Parliamentary and DUN constituency names follow the EC map of 1984 (for Peninsular Malaysia). SS46 belongs to Gagasan Rakyat (GR) and Angkatan Perpaduan Ummah (APU) and hence was given a separate column. Parties for GR are S46, DAP, PRM, PBS, MSP and AMIPF. Parties for APU are S46, PAS, HAMIM, KIMMA and Berjasa. AMIPF contested under DAP and S46. Refer to the section below for the distribution of constituencies that AMIPF contested using DAP and S46 symbols. According to the New Straits Times on 12th October 1990, HAMIM and Berjasa was given one DUN seat each. In the New Straits Times on 11th October 1990, HAMIM was reportedly given a seat in Sabak Bernam (though there is no evidence showing a specific allocation). According to the New Straits Times on 9th October 1990, Berjasa boycotted polls in Perlis, Kedah, Penang and Perak due to its dissatisfaction with APU's leadership and candidate line-up. Gerakan candidate sex category for DUN Tikam Batu is guessed. EC made a mistake in tallying the winning BN seat count for Terengganu. In the EC's report on the 1990 elections, the Appendix (and independent verification from Almanak Pilihan Raya) states BN won 23 seats, while PAS/APU won 7 seats in Terengganu. However, Tindak Malaysia's count for Terengganu shows PAS won 8 seats. EC's report also made a mistake in the total ballots issued for DUN Jerangau (Terengganu). In the EC report's main table, DUN Jerangau's total ballots issued is 6236, but in the Appendix and cross-referencing with Almanak Pilihan Raya, it is listed as 6136. However, if one calculates BN + S46 + spoiled votes + unreturned votes, the total equals 6236 for DUN Jerangau (Terengganu). Hence, the total ballots issued for DUN Jerangau is taken as 6236. Due to this mistake, the EC report Appendix sheet erroneously reported the total ballots issued for Terengganu as 269414, when the actual number is 269314. According to the New Straits Times on 13th October 1990, the independent candidate for DUN N.13 Bandar (Terengganu) was reportedly from HAMIM. The New Straits Times on 23rd October 1990 erroneously reported BN-MCA winning DUN N.13 Bandar (Terengganu). EC had conflicting information regarding the party association of candidate Haji Khalid bin Man (N.4 Ara Rendang, Pulau Pinang). Haji Khalid bin Man is listed under S46 with 2331 votes. However, in Appendix L5 of the EC report, the 2331 votes are listed under PAS. After referencing the New Straits Times, Tindak Malaysia established that PAS contested DUN N.4 Ara Rendang. This aligns with the final vote count in Appendix L5, where the EC report states PAS obtained 15513 votes and S46 obtained 19910 votes. EC also made a mistake regarding the total ballots issued for DUN N.9 Sapetang (Perak). In the main table of the EC report, it is listed as 14287, but in Appendix L6 it is listed as 14278. In Almanak Pilihan Raya, it is also listed as 14278. Since 14278 corresponds with the total ballots issued for Perak, Tindak Malaysia opted to use 14287 for the DUN Sapetang result sheet. The independent candidate for DUN N.34 Tanjong Tualang (Perak) was a former MCA Vice Chairman of Kampar. EC also made a mistake regarding the total ballots issued for DUN Beserah, Pahang. According to the original EC main table, the total ballots issued were 14419, but in Appendix L7 it is stated as 14418. The figure of 14418 mathematically matches the total ballots issued for Pahang and hence this value was chosen for the DUN result sheet. EC also made a mistake in the total count of seats won by BN and DAP (GR) in Johor. In the EC report Appendix (and cross-referencing with Almanak Pilihan Raya), BN is stated to have won 31 seats and DAP won 4 seats in Johor. However, Tindak Malaysia's checks show DAP won only 3 seats, with no victories by other GR component parties in Johor. The EC report also provided alternative DUN spelling names. Refer to the section below for the list of alternative DUN spelling names. The EC report has an incomplete listing of independent symbols for DUN candidates (currently omitted from the 1990 DUN Results sheet). Significant gaps for candidate age and sex category. TindakMalaysia Network Services PLT is not responsible for any errors or omissions arising from the original data or its derivatives."
+,
+Constituencies that AMIPF contested under DAP logo,
+DUN Lunas (Kedah),
+DUN Rantau (Negeri Sembilan),
+DUN Simpang Renggam (Johor),
+,
+Constituencies that AMIPF contested under S46 logo,
+DUN Hutan Melintang (Perak),
+DUN Benta (Pahang),
+DUN Sementa (Selangor),
+DUN Shahbandar Raya (Selangor),
+DUN Tebong (Melaka),
+,
+DUN Constituency Spelling Discrepancy for Peninsular Malaysia,
+EC Map 1984,EC 1990 Election Report
+WAKAF BAHARU,WAKAF BHARU
+MANEK URAI,MANIK URAI
+BUKIT PAYUNG,BUKIT PAYONG
+MACHANG BUBOK,MACHANG BUBUK
+DATOK KERAMAT,DATO' KERAMAT
+BATU LANCHANG,BATU LANCANG
+ASAM KUMBANG,ASSAM KUMBANG
+PENGKALAN BAHARU,PENGKALAN BHARU
+SEKINCHAN,SEKINCAN
+SUNGAI BURONG,SUNGAI BURUNG
+KALUMPANG,KELOMPANG
+ULU KLANG,HULU KELANG
+LINDONGAN,LINDUNGAN
+TELOK GADONG,TELUK GADUNG
+SUNGAI PELEK,SUNGAI PELIK
+SEPINANG,SIPINANG
+,
+Attribute,
+,
+FIELD NAME,FIELD DESCRIPTION
+UNIQUE CODE,"Unique Identifier. For this case, it is the Parliamentary Code"
+STATE,State Name
+PARLIAMENTARY CONSTITUENCY CODE,"Parliamentary Constituency Code (for Peninsular Malaysia, 1984 - 1994)"
+PARLIAMENTARY CONSTITUENCY NAME,"Parliamentary Constituency Name (for Peninsular Malaysia, 1984 - 1994)"
+STATE CONSTITUENCY CODE,"State Constituency Code (for Peninsular Malaysia, 1984 - 1994)"
+STATE CONSTITUENCY NAME,"State Constituency Name (for Peninsular Malaysia, 1984 - 1994)"
+WINNING PARTY,Party/Coalition (with Component Party) who won the seat
+UNCONTESTED VICTORY,"Indicator if there was one contestant for the said election. If yes, value Y is affixed. If none, it is left blank"
+TOTAL ELECTORATE,Total Elector count using 1990 Elections Electoral Roll
+WINNING MAJORITY,The difference between the highest valid votes and second highest valid votes
+TURNOUT (%),Proportion of Total Ballots Issued as a share of Total Electorate
+TOTAL BALLOTS ISSUED,Total Number of Ballot Papers issued at the poll (including postal ballot papers issued to voters and rejected ballot papers but excluding spoilt ballot papers)
+TOTAL UNRETURNED VOTES,Number of ballots papers issued but no returned (including postal ballot papers)
+TOTAL REJECTED VOTES,Total number of rejected ballot papers
+TOTAL VALID VOTES,Total number of votes by electors
+BN,Barisan Nasional (BN) Component Party
+BN CANDIDATE,Barisan Nasional Candidate Name as per the Government Gazette
+BN CANDIDATE SEX,Male/Female Classification
+BN CANDIDATE AGE,Age of Barisan Nasional Candidate
+BN VOTE,Barisan Nasional Valid Vote for the Candidate
+BN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+APU,Angkatan Perpaduan Ummah (APU) Component Party
+APU CANDIDATE,APU Candidate Name as per the Government Gazette
+APU CANDIDATE SEX,Male/Female Classification
+APU CANDIDATE AGE,Age of APU Candidate
+APU VOTE,APU Valid Vote for the Candidate
+APU CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+GR,Gagasan Rakyat (GR) Component Party
+GR CANDIDATE,GR Candidate Name as per the Government Gazette
+GR CANDIDATE SEX,Male/Female Classification
+GR CANDIDATE AGE,Age of Party Candidate
+GR VOTE,Party Valid Vote for the GR Candidate
+GR CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+S46,Semangat 46 (S46)
+S46 CANDIDATE,S46 Candidate Name as per the Government Gazette
+S46 CANDIDATE SEX,Male/Female Classification
+S46 CANDIDATE AGE,Age of Party Candidate
+S46 VOTE,Party Valid Vote for the S46 Candidate
+S46 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (1),Independent with Symbol
+INDEPENDENT (1) CANDIDATE,Independent Candidate Name as per the Government Gazette
+INDEPENDENT (1) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (1) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (1) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (1) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (2),Independent with Symbol
+INDEPENDENT (2) CANDIDATE,Independent Candidate Name as per the Government Gazette
+INDEPENDENT (2) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (2) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (2) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (2) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+,
+KEY ABBREVIATIONS FOR POLITICAL PARTIES,
+UMNO,United Malays National Organisation
+MCA,Malaysian Chinese Association
+MIC,Malaysian Indian Congress
+GERAKAN,Parti Gerakan Rakyat Malaysia
+PAS,Parti Islam Se-Malaysia
+HAMIM,Parti Hizbul Muslimin Malaysia
+BERJASA,Barisan Jemaah Islamiah Se-Malaysia
+DAP,Democratic Action Party
+AMIPF,All Malaysia Indian Progressive Front
+PRM,Parti Rakyat Malaysia
