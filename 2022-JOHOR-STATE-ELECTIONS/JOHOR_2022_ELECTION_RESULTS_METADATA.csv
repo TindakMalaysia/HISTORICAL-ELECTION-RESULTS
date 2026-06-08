@@ -51,12 +51,6 @@ PN CANDIDATE SEX,Male/Female Classification
 PN CANDIDATE AGE,Age of Perikatan Nasional Candidate
 PN CANDIDATE VOTE,Perikatan Nasional Valid Vote for the Candidate
 PN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
-PBM,Party Name
-PBM CANDIDATE,Party Candidate Name as per the Government Gazette (Form 8)
-PBM CANDIDATE SEX,Male/Female Classification
-PBM CANDIDATE AGE,Age of Party Candidate
-PBM VOTE,Party Valid Vote for the Candidate
-PBM CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 PEJUANG,Party Name
 PEJUANG CANDIDATE,Party Candidate Name as per the Government Gazette (Form 8)
 PEJUANG CANDIDATE SEX,Male/Female Classification
