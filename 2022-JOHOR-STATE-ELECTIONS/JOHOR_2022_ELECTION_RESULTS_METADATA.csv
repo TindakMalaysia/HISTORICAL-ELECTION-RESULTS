@@ -1,14 +1,27 @@
-﻿Created on,"15/3/2022, updated on 28/4/2023"
+﻿Created on,"15/3/2022, updated on 28/4/2023, 8/6/2026"
 Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
-Sources,"Election Commission of Malaysia (SPR), Tindak Malaysia (2021), Attorney General Chambers,  Sinar Harian, Berita Harian, New Straits Times,The Star, Harian Metro, Malaysiakini, Bernama, RTM,Utusan TV, Astro Awani Individual Political Party Facebook Pages, Perikatan Nasional Facebook Page, PERWAKILAN BAHAGIAN KE PERHIMPUNAN AGUNG UMNO 2008, Akhbar Rakyat"
-Disclaimers,There may be discrepancies for the age of candidates as there is no official data released for the attribute.There are many missing data points for age attribute for candidates. TindakMalaysia Network Services PLT is not responsible  for any errors or ommissions arising from the original data or its derivatives
+Sources,"Election Commission of Malaysia (SPR), Tindak Malaysia (2021), Attorney General Chambers,  Sinar Harian, Berita Harian, New Straits Times, The Star, Harian Metro, Malaysiakini, Bernama, RTM,Utusan TV, Astro Awani Individual, Political Party Facebook Pages, Perikatan Nasional Facebook Page, PERWAKILAN BAHAGIAN KE PERHIMPUNAN AGUNG UMNO 2008, Akhbar Rakyat. Refer to Additional Sources for latest addition (2026) of candidate age"
+Disclaimers,There may be discrepancies for the age of candidates as there is no official data released for the attribute. Pakatan Harapan (PH) and MUDA has an electoral pact. There are many missing data points for age attribute for candidates. TindakMalaysia Network Services PLT is not responsible  for any errors or ommissions arising from the original data or its derivatives
+,
+Additional Sources,
+https://web.facebook.com/terhwakwong/directory_education,
+https://web.facebook.com/photo?fbid=112130448106452&set=pb.100079284916392.-2207520000,
+https://web.facebook.com/photo.php?fbid=4838195449609049&set=pb.100002559259210.-2207520000&type=3,
+https://www.enanyang.my/news/20220308/Nation/419111,
+https://web.facebook.com/mcapulaidivision/posts/taniah-kepada-sdr-tan-hiang-kee-ketua-wanita-mca-bahagian-pulaidilantik-sebagai-/793703101289593/?_rdc=1&_rdr#,
+https://www.mstar.com.my/lokal/semasa/2014/03/10/wakil-mca-mpjbt,
+https://pru.sinarharian.com.my/calon/6514/hahasrin-hashim,
+https://www.dqsglobal.com/en/content/download/28898/file/MSPO2_50451817%20MSPO2_EN.pdf,
+https://www.sinarharian.com.my/article/229562/berita/politik/guna-logo-traktor-kontraktor-sekali-lagi-cuba-nasib,
+https://www.sinchew.com.my/20220306/%E6%9F%94%EF%BC%9A%E3%80%90%E6%88%91%E6%98%AF%E5%80%99%E9%80%89%E4%BA%BA%E3%80%91%E7%8B%AC%E7%AB%8B%E4%BA%BA%E5%A3%AB%E9%9D%9E%E6%9D%A5%E6%90%85%E5%B1%80-%E8%8B%8F%E5%B8%8C%E7%B1%B3/?fbclid=IwY2xjawSTcWdleHRuA2FlbQIxMABicmlkETBuSVJiSzVua3I0anVMVVlqc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpErjKZD9DhFU2IVFZdVIpykGHYpS43eCkDV2d5JO7D-Xmsc6ry0lQxfAl4K_aem__Y82t8Qv0WaEE-3eukqohQ,
+,
 Attribute,
 ,
 FIELD NAME,FIELD DESCRIPTION
 UNIQUE CODE,Composite between Parliamentary Code and DUN Code (Unique Identifier)
 STATE,State Name
-PARLIAMENTARY CODE,Parliamentary Code (2018 - present at the Created Date)
-PARLIAMENTARY NAME,Parliamentary Name (2018 - present at the Created Date)
+PARLIAMENTARY CONSTITUENCY CODE,Parliamentary Code (2018 - present at the Created Date)
+PARLIAMENTARY CONSTITUENCY NAME,Parliamentary Name (2018 - present at the Created Date)
 STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2018 - present at the Created Date)
 STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2018 - present at the created Date)
 WINNING PARTY (2022),Party/Coalition (with Component Party) who won the seat
@@ -22,76 +35,64 @@ TOTAL REJECTED VOTES,Total number of rejected ballot papers (as in C in all Form
 TOTAL VALID VOTES,Total number of votes by electors
 BN,Barisan Nasional (BN) Component Party
 BN CANDIDATE,Barisan Nasional Candidate Name as per the Government Gazette (Form 8)
-BN CANDIDATE GENDER,Male/Female Classification
+BN CANDIDATE SEX,Male/Female Classification
 BN CANDIDATE AGE,Age of Barisan Nasional Candidate
 BN VOTE,Barisan Nasional Valid Vote for the Candidate
 BN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 PH,Pakatan Harapan (PH) Component Party
 PH CANDIDATE,Pakatan Harapan Candidate Name as per the Government Gazette (Form 8)
-PH CANDIDATE GENDER,Male/Female Classification
+PH CANDIDATE SEX,Male/Female Classification
 PH CANDIDATE AGE,Age of Pakatan Harapan Candidate
 PH VOTE,Pakatan Harapan Valid Vote for the Candidate
 PH CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 PN,Perikatan Nasional (PN) Component Party
 PN CANDIDATE,Perikatan Nasional Candidate Name as per the Government Gazette (Form 8)
-PN CANDIDATE GENDER,Male/Female Classification
+PN CANDIDATE SEX,Male/Female Classification
 PN CANDIDATE AGE,Age of Perikatan Nasional Candidate
 PN CANDIDATE VOTE,Perikatan Nasional Valid Vote for the Candidate
 PN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 PBM,Party Name
 PBM CANDIDATE,Party Candidate Name as per the Government Gazette (Form 8)
-PBM CANDIDATE GENDER,Male/Female Classification
+PBM CANDIDATE SEX,Male/Female Classification
 PBM CANDIDATE AGE,Age of Party Candidate
 PBM VOTE,Party Valid Vote for the Candidate
 PBM CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 PEJUANG,Party Name
 PEJUANG CANDIDATE,Party Candidate Name as per the Government Gazette (Form 8)
-PEJUANG CANDIDATE GENDER,Male/Female Classification
+PEJUANG CANDIDATE SEX,Male/Female Classification
 PEJUANG CANDIDATE AGE,Age of Party Candidate
 PEJUANG VOTE,Party Valid Vote for the Candidate
 PEJUANG CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
-MUDA,Party Name
-MUDA CANDIDATE,Party Candidate Name as per the Government Gazette (Form 8)
-MUDA CANDIDATE GENDER,Male/Female Classification
-MUDA CANDIDATE AGE,Age of Party Candidate
-MUDA VOTE,Party Valid Vote for the Candidate
-MUDA CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
-WARISAN,Party Name
-WARISAN CANDIDATE,Party Candidate Name as per the Government Gazette (Form 8)
-WARISAN CANDIDATE GENDER,Male/Female Classification
-WARISAN CANDIDATE AGE,Age of Party Candidate
-WARSIAN VOTE,Party Valid Vote for the Candidate
-WARISAN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
-PSM,Party Name
-PSM CANDIDATE,Party Candidate Name as per the Government Gazette (Form 8)
-PSM CANDIDATE GENDER,Male/Female Classification
-PSM CANDIDATE AGE,Age of Party Candidate
-PSM VOTE,Party Valid Vote for the Candidate
-PSM CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
-PUTRA,Party Name
-PUTRA CANDIDATE,Party Candidate Name as per the Government Gazette (Form 8)
-PUTRA CANDIDATE GENDER,Male/Female Classification
-PUTRA CANDIDATE AGE,Age of Party Candidate
-PUTRA VOTE,Party Valid Vote for the Candidate
-PUTRA CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
-INDEPENDENT 1,Independent with Symbol
-INDEPENDENT 1 CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
-INDEPENDENT 1 CANDIDATE GENDER,Male/Female Classification
-INDEPENDENT 1 CANDIDATE AGE,Age of Independent Candidate
-INDEPENDENT 1 VOTE,Independent Valid Vote for the Candidate
-INDEPENDENT 1 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
-INDEPENDENT 2,Independent with Symbol
-INDEPENDENT 2 CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
-INDEPENDENT 2 CANDIDATE GENDER,Male/Female Classification
-INDEPENDENT 2 CANDIDATE AGE,Age of Independent Candidate
-INDEPENDENT 2 VOTE,Independent Valid Vote for the Candidate
-INDEPENDENT 2 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
-INDEPENDENT 3,Independent with Symbol
-INDEPENDENT 3 CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
-INDEPENDENT 3 CANDIDATE GENDER,Male/Female Classification
-INDEPENDENT 3 CANDIDATE AGE,Age of Independent Candidate
-INDEPENDENT 3 CANDIDATE VOTE,Independent Valid Vote for the Candidate
-INDEPENDENT 3 CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+OTHER PARTY (1),Other Party (reserved for MUDA)
+OTHER PARTY (1) CANDIDATE,Other Party Candidate Name
+OTHER PARTY (1) CANDIDATE SEX,Male/Female Classification
+OTHER PARTY (1) CANDIDATE AGE,Age of Other Party Candidate
+OTHER PARTY (1) VOTE,Other Party Candidate Valid Vote
+OTHER PARTY (1) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+OTHER PARTY (2),Other Party
+OTHER PARTY (2) CANDIDATE,Other Party Candidate Name
+OTHER PARTY (2) CANDIDATE SEX,Male/Female Classification
+OTHER PARTY (2) CANDIDATE AGE,Age of Other Party Candidate
+OTHER PARTY (2) VOTE,Other Party Candidate Valid Vote
+OTHER PARTY (2) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (1),Independent with Symbol
+INDEPENDENT (1) CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
+INDEPENDENT (1) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (1) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (1) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (1) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (2),Independent with Symbol
+INDEPENDENT (2) CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
+INDEPENDENT (2) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (2) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (2) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (2) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+INDEPENDENT (3),Independent with Symbol
+INDEPENDENT (3) CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
+INDEPENDENT (3) CANDIDATE SEX,Male/Female Classification
+INDEPENDENT (3) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (3) CANDIDATE VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (3) CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 ,
 KEY ABBREVIATIONS FOR POLITICAL PARTIES,
 UMNO,United Malays National Organisation
