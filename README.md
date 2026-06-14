@@ -30,3 +30,6 @@ IT is a requirement that all users ought to read the metadata of every dataset a
 
 *NOTICE OF UPDATE (30/3/2026)
 - Sarawak women election candidates and elected representatives file has been uploaded.Information may have errors here and there. Information is originally from various Github election results of Tindak Malaysia. The file contents may be changed time to time
+
+*NOTICE OF UPDATE (14/6/2026)
+- 2018 - 2026 General and State Election Summary file was uploaded
