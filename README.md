@@ -1,7 +1,7 @@
 # HISTORICAL-ELECTION-RESULTS
 Repository for Historical Election Results of Malaysia at the DUN and Federal Level
 
-IT is a requirement that all users ought to read the metadata of every dataset and understand the licensing terms. Even though some licences may excuse the user from attributing the sources, it is highly advisable and encouraged for one to cite the sources found in Metadata.
+General Citation Rule for all datasets (unless one intends to refer to individual election result file): TindakMalaysia. (2026). GitHub - TindakMalaysia/HISTORICAL-ELECTION-RESULTS: Repository for historical election results of Malaysia at the DUN and federal level. GitHub. https://github.com/TindakMalaysia/HISTORICAL-ELECTION-RESULTS
 
 **NOTICE OF UPDATE (5/4/2025)
 - Sabah DUN Campaign Period is an estimate and may require further verification
@@ -33,3 +33,6 @@ IT is a requirement that all users ought to read the metadata of every dataset a
 
 *NOTICE OF UPDATE (14/6/2026)
 - 2018 - 2026 General and State Election Summary file was uploaded
+
+*NOTICE OF UPDATE (27/6/2026)
+- Updated citation requirements
