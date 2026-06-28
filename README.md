@@ -36,3 +36,6 @@ General Citation Rule for all datasets (unless one intends to refer to individua
 
 *NOTICE OF UPDATE (27/6/2026)
 - Updated citation requirements
+
+*NOTICE OF CORRECTION (28/6/2026)
+- Corrected DAP candidate age for DUN Senai
