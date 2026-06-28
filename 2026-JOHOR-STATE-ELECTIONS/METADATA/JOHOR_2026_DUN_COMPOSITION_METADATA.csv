@@ -1,0 +1,36 @@
+Created On,"26/6/2026, update on 28/6/2026"
+Created By,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Election Commission of Malaysia (SPR), Tindak Malaysia (2022), The Elections Lab, Pesaresi, Martino; Politis, Panagiotis (2023): GHS-BUILT-C R2023A - GHS Settlement Characteristics, derivedfrom Sentinel2 composite (2018) and other GHS R2023A data. European Commission, Joint Research Centre (JRC) [Dataset] doi: 10.2905/3C60DDF6-0586-4190-854B-F6AA0EDC2A30 PID: http://data.europa.eu/89h/3c60ddf6-0586-4190-854b-f6aa0edc2a30"
+Disclaimers,"All the percentages for electoral demographics are calculated by Tindak Malaysia using publicly available The Elections Lab data. Subsequently, Claude was used to proportionally split Others data into Bumiputera Sabah, Bumiputera Sarawak, Orang Asli and Others using Tindak Malaysia's 2022 Johor State Elections data. There is no official ethnic demographic data. Sum of percentages for electoral demographics may not attain exact 100% but the variation is kept less than 1%. The demographics data for Age Categories, Voter Type and Sex Category refers to April 2026 Electoral Roll (but not identical to the one used for Johor 2026 Electoral Roll). While total voters of April 2026 Electoral Roll and Johor 2026 Electoral Roll at state level is identical (2,727,926), we estimate the error of our data for age groups is between 0 and 0.5% for age groups of 21 and above while 2.4% for the age group of 18 - 20. Urbanisation level is derived from GHSL layer and subsequently computed by Tindak Malaysia for final urbanisation levels for each DUN. For the purpose of urbanisation classifcation, Tindak Malaysia estimated the polling district population proportionally in comparison to 2022 data. DUN N.09 Gambir is a borderline constituency between semi urban and rural status. TindakMalaysia Network Services PLT is not responsible for any errors or ommissions arising from the original data or its derivatives"
+Attribute,
+,
+Field Name,Field Description
+UNIQUE CODE,Composite between Parliamentary Code and DUN Code (Unique Identifier)
+STATE,State Name
+PARLIAMENTARY CONSTITUENCY CODE,Parliamentary Code (2018 - present at the Created Date)
+PARLIAMENTARY CONSTITUENCY NAME,Parliamentary Name (2018 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2018 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2018 - present at the created Date)
+TOTAL ELECTORS,Total Elector count using the April 2026 Electoral Roll updated to 31st May 2026
+MALAY (%),Proportion of Malay Electors for the State Constituency (%)
+CHINESE (%),Proportion of Chinese Electors for the State Constituency (%)
+INDIANS (%),Proportion of Indians Electors for the State Constituency (%)
+ORANG ASLI (%),Proportion of Orang Asli Electors for the State Constituency (%)
+BUMIPUTERA SABAH (%),Proportion of Bumiputera Sabah Electors for the State Constituency (%)
+BUMIPUTERA SARAWAK (%),Proportion of Bumiputera Sarawak Electors for the State Constituency (%)
+OTHERS (%),Proportion of Others Electors for the State Constituency (%)
+ELECTORS - ORDINARY VOTERS (%),Proportion of Electors - Ordinary Electors for the State Constituency (%)
+ELECTORS - MILITARY AND SPOUSE VOTERS (%),Proportion of Electors - Military and Spouse (Electors) for the State Constituency (%)
+ELECTORS - POLICE AND SPOUSE VOTERS (%),Proportion of Electors - Police and Spouse (Electors) for the State Constituency (%)
+18 - 20 (%),Proportion of 18 - 20 Electors for the State Constituency (%)
+21 - 29 (%),Proportion of 21 - 29 Electors for the State Constituency (%)
+30 - 39 (%),Proportion of 30 - 39 Electors for the State Constituency (%)
+40 - 49 (%),Proportion of 40 - 49 Electors for the State Constituency (%)
+50 - 59 (%),Proportion of 50 - 59 Electors for the State Constituency (%)
+60 - 69 (%),Proportion of 60 - 69 Electors for the State Constituency (%)
+70 - 79 (%),Proportion of 70 - 79 Electors for the State Constituency (%)
+80 - 89 (%),Proportion of 80 - 89 Electors for the State Constituency (%)
+90 AND ABOVE (%),Proportion of 90 and Above Electors for the State Constituency (%)
+MALE ELECTORS (%),Proportion of Male Electors for the State Constituency (%)
+FEMALE ELECTORS (%),Proportion of Female Electors for the State Constituency (%)
+URBAN - RURAL CLASSIFICATION (2025),State Constituency urbanization classification
