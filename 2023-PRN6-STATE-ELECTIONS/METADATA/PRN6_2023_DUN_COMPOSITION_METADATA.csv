@@ -1,4 +1,4 @@
-Created On,"7/8/2023, updated on 17/2/2024"
+Created On,"7/8/2023, updated on 17/2/2024, 16/7/2026"
 Created By,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
 Sources,"Election Commission of Malaysia (SPR), Tindak Malaysia (2023), Elections Lab, Schiavina M., Melchiorri M., Pesaresi M. (2023):
 GHS-SMOD R2023A - GHS settlement layers, application of the Degree of Urbanisation methodology (stage I) to GHS-POP R2023A and GHS-BUILT-S R2023A, multitemporal (1975-2030)European Commission, Joint Research Centre (JRC)
@@ -21,7 +21,7 @@ ORANG ASLI (%),Proportion of Orang Asli Electors for the State Constituency (%)
 BUMIPUTERA SABAH (%),Proportion of Bumiputera Sabah Electors for the State Constituency (%)
 BUMIPUTERA SARAWAK (%),Proportion of Bumiputera Sarawak Electors for the State Constituency (%)
 OTHERS (%),Proportion of Others Electors for the State Constituency (%)
-ELECTORS - NORMAL VOTERS (%),Proportion of Electors - Normal Electors for the State Constituency (%)
+ELECTORS - ORDINARY VOTERS (%),Proportion of Electors - Ordinary Electors for the State Constituency (%)
 ELECTORS - ABSENT VOTERS (%),Proportion of Electors - Absent Electors for the State Constituency (%)
 ELECTORS - POLICE (%),Proportion of Electors - Police Electors for the State Constituency (%)
 ELECTORS - MILITARY (%),Proportion of Electors - Military Electors for the State Constituency (%)
@@ -33,7 +33,7 @@ ELECTORS - MILITARY (%),Proportion of Electors - Military Electors for the State
 60-69 (%),Proportion of 60-69 Electors for the State Constituency (%)
 70-79 (%),Proportion of 70-79 Electors for the State Constituency (%)
 80-89 (%),Proportion of 80-89 Electors for the State Constituency (%)
-ABOVE 90 (%),Proportion of 90 and Above Electors for the State Constituency (%)
+90 AND ABOVE (%),Proportion of 90 and Above Electors for the State Constituency (%)
 MALE ELECTORS (%),Proportion of Male Electors for the State Constituency (%)
-WOMEN ELECTORS (%),Proportion of Women Electors for the State Constituency (%)
+FEMALE ELECTORS (%),Proportion of Women Electors for the State Constituency (%)
 URBAN-RURAL CLASSIFICATION (2023),State Constituency urbanization classification
