@@ -39,3 +39,6 @@ General Citation Rule for all datasets (unless one intends to refer to individua
 
 *NOTICE OF CORRECTION (28/6/2026)
 - Corrected DAP candidate age for DUN Senai
+
+*NOTICE OF UPDATE (6/11/2026)
+- Updated the 2018 - 2026 Summary of General and State Elections with Melaka and Sarawak elections
