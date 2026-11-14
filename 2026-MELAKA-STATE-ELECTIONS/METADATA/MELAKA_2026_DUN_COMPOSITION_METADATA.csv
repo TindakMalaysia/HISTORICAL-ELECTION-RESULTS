@@ -1,0 +1,47 @@
+Created On,"24/10/2026, updated on 31/10/2026",
+Created By,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA),
+Sources,"Election Commission of Malaysia (EC), Tindak Malaysia (2026), Pesaresi, Martino; Politis, Panagiotis (2023): GHS-BUILT-C R2023A - GHS Settlement Characteristics, derivedfrom Sentinel2 composite (2018) and other GHS R2023A data. European Commission, Joint Research Centre (JRC) [Dataset] doi: 10.2905/3C60DDF6-0586-4190-854B-F6AA0EDC2A30 PID: http://data.europa.eu/89h/3c60ddf6-0586-4190-854b-f6aa0edc2a30",
+Disclaimers,All the demographics are computed using Elections Electoral Roll of Melaka 2026 Elections and checked against EC's infographics on state level composition. Ethnic Composition data is an estimate as there is no public official document by SPR for ethnic make-up of Melaka's voter roll. There is a minor discrepancy between voter count by age groups at the state level between Tindak Malaysia's electoral roll computation and EC's infographics TindakMalaysia Network Services (refer to table below). TindakMalaysia Network Services PLT is not responsible for any errors or ommissions arising from the original data or its derivatives,
+,,
+Age Group,2026 (Tindak Malaysia),2026 (EC)
+18 - 20,41341,41138
+21 - 29,135777,135687
+30 - 39,148300,148222
+40 - 49,124652,124686
+50 - 59,94367,94357
+60 and Above,143260,143607
+Total,687697,687697
+,,
+Attribute,,
+,,
+Field Name,Field Description,
+UNIQUE CODE,Composite between Parliamentary Code and DUN Code (Unique Identifier),
+STATE,State Name,
+PARLIAMENTARY CONSTITUENCY CODE,Parliamentary Code (2018 - present at the Created Date),
+PARLIAMENTARY CONSTITUENCY NAME,Parliamentary Name (2018 - present at the Created Date),
+STATE CONSTITUENCY CODE,State Constituency (DUN) Code (2018 - present at the Created Date),
+STATE CONSTITUENCY NAME,State Constituency (DUN) Name (2018 - present at the created Date),
+TOTAL ELECTORS,Total Elector count using the July 2026 Electoral Roll gazetted on 26th August 2026,
+MALAY (%),Proportion of Malay Electors for the State Constituency (%),
+CHINESE (%),Proportion of Chinese Electors for the State Constituency (%),
+INDIANS (%),Proportion of Indians Electors for the State Constituency (%),
+BUMIPUTERA SABAH (%),Proportion of Bumiputera Sabah Electors for the State Constituency (%),
+BUMIPUTERA SARAWAK (%),Proportion of Bumiputera Sarawak Electors for the State Constituency (%),
+ORANG ASLI (%),Proportion of Orang Asli Electors for the State Constituency (%),
+OTHERS (%),Proportion of Others Electors for the State Constituency (%),
+ELECTORS - ORDINARY VOTERS (%),Proportion of Electors - Ordinary Electors for the State Constituency (%),
+ELECTORS - MILITARY AND SPOUSES VOTERS (%),Proportion of Electors - Military and Spouses (Electors) for the State Constituency (%),
+ELECTORS - POLICE AND SPOUSES VOTERS (%),Proportion of Electors - Police and Spouses (Electors) for the State Constituency (%),
+18 - 20 (%),Proportion of 18 - 20 Electors for the State Constituency (%),
+21 - 29 (%),Proportion of 21 - 29 Electors for the State Constituency (%),
+30 - 39 (%),Proportion of 30 - 39 Electors for the State Constituency (%),
+40 - 49 (%),Proportion of 40 - 49 Electors for the State Constituency (%),
+50 - 59 (%),Proportion of 50 - 59 Electors for the State Constituency (%),
+60 - 69 (%),Proportion of 60 - 69 Electors for the State Constituency (%),
+70 - 79 (%),Proportion of 70 - 79 Electors for the State Constituency (%),
+80 - 89 (%),Proportion of 80 - 89 Electors for the State Constituency (%),
+90 AND ABOVE (%),Proportion of 90 and Above Electors for the State Constituency (%),
+MALE ELECTORS (%),Proportion of Male Electors for the State Constituency (%),
+FEMALE ELECTORS (%),Proportion of Female Electors for the State Constituency (%),
+URBAN - RURAL CLASSIFICATION (2025),State Constituency urbanisation classification,
+OKU VOTER COUNT (2026),Total Registered People with Disability (OKU),
