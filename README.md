@@ -42,3 +42,6 @@ General Citation Rule for all datasets (unless one intends to refer to individua
 
 *NOTICE OF UPDATE (6/11/2026)
 - Updated the 2018 - 2026 Summary of General and State Elections with Melaka and Sarawak elections
+
+*NOTICE OF UPDATE (24/11/2026)
+- Added the Sarawak DUN Election Summary
