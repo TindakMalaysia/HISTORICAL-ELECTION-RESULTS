@@ -34,6 +34,12 @@ PH CANDIDATE SEX,Male/Female Classification
 PH CANDIDATE AGE,Age of Pakatan Harapan Candidate
 PH VOTE,Pakatan Harapan Valid Vote for the Candidate
 PH CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
+PN,Perikatan Nasional (PN) Component Party
+PN CANDIDATE,Perikatan Nasional Candidate Name as per the Government Gazetter (Form 8)
+PN CANDIDATE SEX,Male/Female Classification
+PN CANDIDATE AGE,Age of Perikatan Nasional Candidate
+PN VOTE,Perikatan Nasional Valid Vote for the Candidate
+PN CANDIDATE LOST DEPOSIT,"Indicated if the contestant has lost deposit. If yes, value 'Lost Deposit' is affixed. If none, it is left blank"
 PSB,Parti Sarawak Bersatu (PSB)
 PSB CANDIDATE,Parti Sarawak Bersatu Candidate Name as per the Government Gazetter (Form 8)
 PSB CANDIDATE SEX,Male/Female Classification
